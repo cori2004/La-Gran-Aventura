@@ -1,0 +1,13 @@
+'use strict';
+const WordleCore=(()=>{
+ const normalize=s=>s.toLocaleUpperCase('es').replaceAll('Ñ','~').normalize('NFD').replace(/[\u0300-\u036f]/g,'').replaceAll('~','Ñ').trim();
+ function shuffle(a){for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;}
+ function evaluate(answer,guess){answer=normalize(answer);guess=normalize(guess);if(answer.length!==guess.length)throw Error('Longitud incorrecta');const result=Array(answer.length).fill('absent'),left={};for(let i=0;i<answer.length;i++){if(answer[i]===guess[i])result[i]='correct';else left[answer[i]]=(left[answer[i]]||0)+1;}for(let i=0;i<answer.length;i++)if(result[i]!=='correct'&&left[guess[i]]>0){result[i]='present';left[guess[i]]--;}return result;}
+ const team=s=>s.turn%s.teams.length,round=s=>Math.floor(s.turn/s.teams.length)+1;
+ function create(teams,bank){const unique=[...new Map(bank.map(w=>[normalize(w.word),w])).values()];const groups={};unique.forEach(w=>(groups[w.family||w.type]??=[]).push(w));Object.values(groups).forEach(shuffle);const mixed=[];while(Object.values(groups).some(a=>a.length)){for(const key of shuffle(Object.keys(groups).filter(k=>groups[k].length)))mixed.push(groups[key].pop());}const deck=mixed.slice(0,Math.floor(unique.length/teams.length)*teams.length);if(!deck.length)throw Error('Faltan palabras');return {version:1,teams,deck,turn:0,phase:'ready',guesses:[],input:'',hint:false,lastRound:null,scores:teams.map(()=>0),history:[]};}
+ function begin(s){if(s.phase!=='ready')return false;s.phase='playing';return true;}
+ function submit(s,input){if(s.phase!=='playing')return 'ignored';const guess=normalize(input),answer=normalize(s.deck[s.turn].word);if(!/^[A-ZÑ]{4,7}$/.test(guess)||guess.length!==answer.length)return 'length';if(s.guesses.some(g=>g.word===guess))return 'duplicate';const colors=evaluate(answer,guess);s.guesses.push({word:guess,colors});s.input='';if(guess===answer||s.guesses.length===6){s.phase=guess===answer?'won':'lost';const points=s.phase==='won'?(7-s.guesses.length)*10:0;s.scores[team(s)]+=points;s.history.push({team:team(s),word:s.deck[s.turn].word,points,attempts:s.guesses.length,round:round(s)});}return s.phase;}
+ function markLast(s){s.lastRound=s.lastRound===round(s)?null:round(s);}
+ function next(s){if(!['won','lost'].includes(s.phase))return false;if(s.turn+1===s.deck.length||((s.turn+1)%s.teams.length===0&&s.lastRound===round(s))){s.phase='finished';return true;}s.turn++;s.phase='ready';s.guesses=[];s.input='';s.hint=false;return true;}
+ return {normalize,evaluate,shuffle,team,round,create,begin,submit,markLast,next};
+})();if(typeof module!=='undefined')module.exports=WordleCore;else window.WordleCore=WordleCore;

@@ -1,0 +1,37 @@
+LA GRAN AVENTURA
+
+Abre index.html en tu navegador. No requiere instalación.
+
+Incluye ocho tarjetas de juegos, filtros, reglas, preparación de 2 a 8 equipos con integrantes, panel manual de puntuaciones y turnos, guardado local y personaje de cajas HTML.
+
+Esta entrega corresponde a la interfaz. No incluye todavía bancos de preguntas ni motores automáticos de los ocho juegos, referencias aleatorias o marcador general entre juegos.
+
+Los datos del catálogo están en data/juegos.json y también incorporados en js/main.js para que la portada funcione al abrir index.html directamente, sin servidor. Si editas el catálogo manualmente, mantén ambas copias sincronizadas.
+
+Las fuentes se descargan desde Google Fonts si hay conexión; existen fuentes alternativas locales. Las ilustraciones SVG están incluidas en img.
+
+El guardado depende del almacenamiento local del navegador.
+
+ACTUALIZACIÓN V2
+Nueve juegos. Quiz Relámpago es jugable en pages/quiz.html: 16 preguntas iniciales, opciones aleatorias, turnos por equipo, 5 o 15 segundos y puntuación automática. Los otros ocho juegos mantienen sus interfaces y paneles manuales. El quiz utiliza su propio marcador; guarda el último resultado pero no reanuda preguntas a mitad de partida. El personaje fue redibujado en una matriz de 48 por 80 con cuerpo completo y píxeles de 3px.
+
+VERSIÓN PATO
+Compañero sustituido por un pato original de píxeles construido con HTML/CSS, con patas animadas, paseos cortos, orientación según la dirección y evasión del cursor. Eliminadas las menciones al nombre del profesor en la interfaz.
+
+PANTALLAS DE ACCESO
+Inicio: pages/acceso.html
+Registro: pages/registro.html
+Ayuda para recuperar el acceso: pages/recuperar.html
+Estilos: css/acceso.css
+Validación: js/acceso.js
+Son prototipos de interfaz: no crean cuentas, no autentican, no verifican invitaciones ni guardan o envían datos. Incluyen validación, confirmación y visibilidad de contraseñas y navegación. La autenticación y la recuperación reales requieren el servidor pendiente.
+
+QUIZ AVANZADO POR EQUIPOS
+En pages/quiz.html se configuran de 2 a 5 equipos (5 por defecto) con nombres e integrantes. Cada equipo responde 20 preguntas seguidas antes de pasar al siguiente. Banco de 104 preguntas de los ocho personajes, sin repeticiones en una partida, con al menos dos por personaje para cada equipo. 100 puntos por acierto. Tiempo de 25, 40 o 60 segundos. Avance manual o automático tras la corrección; cambio de equipo siempre confirmado. Incluye pausa, recuperación local, clasificación, revisión y exportación CSV. El guardado grupal es solo local, no utiliza una base de datos. Las preguntas son originales y las referencias enlazan a RVR1960; su dificultad no ha sido calibrada con alumnos.
+
+MODALIDADES Y MAESTROS
+Entrada: pages/quiz.html. Modo grupal y demostración individual local. Tras responder, la siguiente pregunta aparece automáticamente; al agotarse el tiempo se muestra una animación de 1,1 segundos. El cambio de equipo mantiene una pantalla de preparación. Las explicaciones quedan para el final.
+Panel local: pages/administrador.html. Configura los tres nombres de maestros, crea y edita quizzes, activa/desactiva su disponibilidad local y abre las partidas. No es autenticación: no hay permisos ni sincronización entre dispositivos. El modo individual es una demostración y no ofrece protección antitrampas ni ranking compartido. Estas funciones requieren el servidor pendiente.
+
+VERSIÓN AMIGABLE SIN SERVIDOR
+Sin espacio de maestros. Banco de 104 preguntas sobre 7 temas, excluyendo el tema Timoteo y con Jesús más accesible. Individual: nombre obligatorio, tiempos 25/30/40 segundos y descarga PNG de calificación. Bloqueo local por nombre: no garantiza un intento único entre navegadores, dispositivos o después de borrar datos; no es un control de identidad. Grupal: tiempos 45/60/90 segundos. Animaciones de acierto, error y tiempo agotado con avance automático. Pato presente en el quiz, silencioso durante la pregunta para no distraer.

@@ -1,0 +1,902 @@
+[
+  {
+    "id": "frase-1",
+    "speaker": "Adán",
+    "other": "Caín",
+    "reference": "Génesis 3:12",
+    "phrase": "La mujer que pusiste conmigo me dio del árbol y comí.",
+    "explanation": "Se explica ante Dios después de comer del fruto.",
+    "adapted": true
+  },
+  {
+    "id": "frase-2",
+    "speaker": "Eva",
+    "other": "Sara",
+    "reference": "Génesis 3:13",
+    "phrase": "La serpiente me engañó y comí.",
+    "explanation": "Responde a Dios sobre lo ocurrido en el huerto.",
+    "adapted": true
+  },
+  {
+    "id": "frase-3",
+    "speaker": "Caín",
+    "other": "Abel",
+    "reference": "Génesis 4:9",
+    "phrase": "¿Acaso soy el encargado de cuidar a mi hermano?",
+    "explanation": "Dios le pregunta por su hermano.",
+    "adapted": true
+  },
+  {
+    "id": "frase-4",
+    "speaker": "Abraham",
+    "other": "Lot",
+    "reference": "Génesis 13:8",
+    "phrase": "No haya peleas entre nosotros ni entre nuestros pastores.",
+    "explanation": "Propone resolver un conflicto familiar sin enfrentamiento.",
+    "adapted": true
+  },
+  {
+    "id": "frase-5",
+    "speaker": "Sara",
+    "other": "Rebeca",
+    "reference": "Génesis 21:6",
+    "phrase": "Dios me ha dado un motivo para reír, y otros se alegrarán conmigo.",
+    "explanation": "Celebra el nacimiento de su hijo.",
+    "adapted": true
+  },
+  {
+    "id": "frase-6",
+    "speaker": "Rebeca",
+    "other": "Raquel",
+    "reference": "Génesis 24:58",
+    "phrase": "Sí, iré con ese hombre.",
+    "explanation": "Acepta emprender el viaje que cambiará su vida.",
+    "adapted": true
+  },
+  {
+    "id": "frase-7",
+    "speaker": "Esaú",
+    "other": "Jacob",
+    "reference": "Génesis 25:32",
+    "phrase": "Estoy a punto de morir; ¿de qué me sirve la primogenitura?",
+    "explanation": "Prefiere alimento inmediato a su derecho de primogénito.",
+    "adapted": true
+  },
+  {
+    "id": "frase-8",
+    "speaker": "Jacob",
+    "other": "José",
+    "reference": "Génesis 32:26",
+    "phrase": "No te soltaré hasta que me bendigas.",
+    "explanation": "Lo dice durante una lucha que dura hasta el amanecer.",
+    "adapted": true
+  },
+  {
+    "id": "frase-9",
+    "speaker": "José",
+    "other": "Benjamín",
+    "reference": "Génesis 50:20",
+    "phrase": "Ustedes pensaron hacerme daño, pero Dios lo encaminó para bien.",
+    "explanation": "Habla con sus hermanos después de la muerte de su padre.",
+    "adapted": true
+  },
+  {
+    "id": "frase-10",
+    "speaker": "Moisés",
+    "other": "Aarón",
+    "reference": "Éxodo 3:11",
+    "phrase": "¿Quién soy yo para ir ante el faraón y sacar al pueblo?",
+    "explanation": "Se siente incapaz ante el llamado que recibe.",
+    "adapted": true
+  },
+  {
+    "id": "frase-11",
+    "speaker": "Aarón",
+    "other": "Moisés",
+    "reference": "Éxodo 32:24",
+    "phrase": "Me dieron su oro, lo arrojé al fuego y salió este becerro.",
+    "explanation": "Intenta explicar la fabricación del ídolo.",
+    "adapted": true
+  },
+  {
+    "id": "frase-12",
+    "speaker": "Josué",
+    "other": "Caleb",
+    "reference": "Josué 24:15",
+    "phrase": "Mi familia y yo hemos decidido servir al Señor.",
+    "explanation": "Invita al pueblo a decidir a quién servirá.",
+    "adapted": true
+  },
+  {
+    "id": "frase-13",
+    "speaker": "Caleb",
+    "other": "Josué",
+    "reference": "Números 13:30",
+    "phrase": "Subamos a conquistar esa tierra; podremos hacerlo.",
+    "explanation": "Anima al pueblo después del informe de los exploradores.",
+    "adapted": true
+  },
+  {
+    "id": "frase-14",
+    "speaker": "Rahab",
+    "other": "Rut",
+    "reference": "Josué 2:9",
+    "phrase": "Sé que el Señor les ha entregado esta tierra.",
+    "explanation": "Habla con los exploradores que ha escondido.",
+    "adapted": true
+  },
+  {
+    "id": "frase-15",
+    "speaker": "Gedeón",
+    "other": "Sansón",
+    "reference": "Jueces 6:15",
+    "phrase": "Mi familia es débil y yo soy el menor de mi casa.",
+    "explanation": "Expresa sus dudas al recibir una misión de liberación.",
+    "adapted": true
+  },
+  {
+    "id": "frase-16",
+    "speaker": "Rut",
+    "other": "Noemí",
+    "reference": "Rut 1:16",
+    "phrase": "Iré adonde tú vayas; tu pueblo y tu Dios serán los míos.",
+    "explanation": "Decide acompañar a su suegra.",
+    "adapted": true
+  },
+  {
+    "id": "frase-17",
+    "speaker": "Noemí",
+    "other": "Rut",
+    "reference": "Rut 1:20",
+    "phrase": "No me llamen por mi antiguo nombre; llámenme amarga.",
+    "explanation": "Expresa su dolor al regresar a su ciudad.",
+    "adapted": true
+  },
+  {
+    "id": "frase-18",
+    "speaker": "Ana",
+    "other": "Ester",
+    "reference": "1 Samuel 1:27",
+    "phrase": "Por este niño oraba, y el Señor escuchó mi petición.",
+    "explanation": "Recuerda la oración que hizo antes de ser madre.",
+    "adapted": true
+  },
+  {
+    "id": "frase-19",
+    "speaker": "Samuel",
+    "other": "David",
+    "reference": "1 Samuel 3:10",
+    "phrase": "Habla, que tu siervo está escuchando.",
+    "explanation": "Responde al llamado nocturno que oye siendo joven.",
+    "adapted": true
+  },
+  {
+    "id": "frase-20",
+    "speaker": "David",
+    "other": "Saúl",
+    "reference": "1 Samuel 17:45",
+    "phrase": "Tú vienes con armas, pero yo voy en el nombre del Señor.",
+    "explanation": "Se dirige al guerrero al que está a punto de enfrentar.",
+    "adapted": true
+  },
+  {
+    "id": "frase-21",
+    "speaker": "Salomón",
+    "other": "David",
+    "reference": "1 Reyes 3:9",
+    "phrase": "Dame un corazón capaz de escuchar y distinguir el bien del mal.",
+    "explanation": "Pide ayuda para gobernar con justicia.",
+    "adapted": true
+  },
+  {
+    "id": "frase-22",
+    "speaker": "Elías",
+    "other": "Eliseo",
+    "reference": "1 Reyes 18:21",
+    "phrase": "¿Hasta cuándo seguirán indecisos entre dos caminos?",
+    "explanation": "Desafía al pueblo a decidir a quién seguir.",
+    "adapted": true
+  },
+  {
+    "id": "frase-23",
+    "speaker": "Eliseo",
+    "other": "Elías",
+    "reference": "2 Reyes 2:9",
+    "phrase": "Quisiera recibir una doble porción de tu espíritu.",
+    "explanation": "Hace una petición antes de la partida de su maestro.",
+    "adapted": true
+  },
+  {
+    "id": "frase-24",
+    "speaker": "Ester",
+    "other": "Débora",
+    "reference": "Ester 4:16",
+    "phrase": "Entraré a ver al rey; si tengo que morir, moriré.",
+    "explanation": "Acepta arriesgar su vida por su pueblo.",
+    "adapted": true
+  },
+  {
+    "id": "frase-25",
+    "speaker": "Job",
+    "other": "Daniel",
+    "reference": "Job 1:21",
+    "phrase": "El Señor dio y el Señor quitó; bendito sea su nombre.",
+    "explanation": "Habla después de recibir noticias de grandes pérdidas.",
+    "adapted": true
+  },
+  {
+    "id": "frase-26",
+    "speaker": "Isaías",
+    "other": "Jeremías",
+    "reference": "Isaías 6:8",
+    "phrase": "Aquí estoy; envíame a mí.",
+    "explanation": "Responde a una pregunta sobre quién llevará el mensaje.",
+    "adapted": true
+  },
+  {
+    "id": "frase-27",
+    "speaker": "Jeremías",
+    "other": "Isaías",
+    "reference": "Jeremías 1:6",
+    "phrase": "No sé hablar; todavía soy muy joven.",
+    "explanation": "Expresa temor ante su llamado como profeta.",
+    "adapted": true
+  },
+  {
+    "id": "frase-28",
+    "speaker": "Daniel",
+    "other": "Nehemías",
+    "reference": "Daniel 6:22",
+    "phrase": "Dios envió a su ángel y cerró la boca de los leones.",
+    "explanation": "Explica al rey por qué ha sobrevivido.",
+    "adapted": true
+  },
+  {
+    "id": "frase-29",
+    "speaker": "Jonás",
+    "other": "Moisés",
+    "reference": "Jonás 1:12",
+    "phrase": "Arrójenme al mar y la tormenta se calmará.",
+    "explanation": "Habla a la tripulación durante una gran tormenta.",
+    "adapted": true
+  },
+  {
+    "id": "frase-30",
+    "speaker": "María",
+    "other": "Elisabet",
+    "reference": "Lucas 1:38",
+    "phrase": "Soy la sierva del Señor; que se cumpla en mí lo que has dicho.",
+    "explanation": "Acepta el anuncio del mensajero de Dios.",
+    "adapted": true
+  },
+  {
+    "id": "frase-31",
+    "speaker": "Elisabet",
+    "other": "María",
+    "reference": "Lucas 1:42",
+    "phrase": "Bendita eres entre las mujeres y bendito es el fruto de tu vientre.",
+    "explanation": "Saluda a su pariente durante una visita.",
+    "adapted": true
+  },
+  {
+    "id": "frase-32",
+    "speaker": "Juan el Bautista",
+    "other": "Pedro",
+    "reference": "Juan 3:30",
+    "phrase": "Es necesario que él crezca y que yo disminuya.",
+    "explanation": "Reconoce que su misión prepara el camino para otro.",
+    "adapted": true
+  },
+  {
+    "id": "frase-33",
+    "speaker": "Jesús",
+    "other": "Juan el Bautista",
+    "reference": "Mateo 4:19",
+    "phrase": "Síganme y les enseñaré a reunir personas, como ahora reúnen peces.",
+    "explanation": "Llama a unos pescadores para que sean sus discípulos.",
+    "adapted": true
+  },
+  {
+    "id": "frase-34",
+    "speaker": "Pedro",
+    "other": "Andrés",
+    "reference": "Lucas 5:8",
+    "phrase": "Apártate de mí, Señor, porque soy un hombre pecador.",
+    "explanation": "Reacciona ante una pesca extraordinaria.",
+    "adapted": true
+  },
+  {
+    "id": "frase-35",
+    "speaker": "Natanael",
+    "other": "Felipe",
+    "reference": "Juan 1:46",
+    "phrase": "¿Puede salir algo bueno de Nazaret?",
+    "explanation": "Duda al escuchar de dónde viene aquel a quien le invitan a conocer.",
+    "adapted": true
+  },
+  {
+    "id": "frase-36",
+    "speaker": "Tomás",
+    "other": "Pedro",
+    "reference": "Juan 20:25",
+    "phrase": "Si no veo las marcas y no las toco, no creeré.",
+    "explanation": "Le cuesta aceptar el testimonio de sus compañeros.",
+    "adapted": true
+  },
+  {
+    "id": "frase-37",
+    "speaker": "Marta",
+    "other": "María Magdalena",
+    "reference": "Juan 11:21",
+    "phrase": "Si hubieras estado aquí, mi hermano no habría muerto.",
+    "explanation": "Sale al encuentro de Jesús tras perder a su hermano.",
+    "adapted": true
+  },
+  {
+    "id": "frase-38",
+    "speaker": "Zaqueo",
+    "other": "Mateo",
+    "reference": "Lucas 19:8",
+    "phrase": "Daré la mitad a los pobres y devolveré cuatro veces lo que defraudé.",
+    "explanation": "Anuncia un cambio en su manera de vivir.",
+    "adapted": true
+  },
+  {
+    "id": "frase-39",
+    "speaker": "Pilato",
+    "other": "Herodes",
+    "reference": "Juan 18:38",
+    "phrase": "¿Qué es la verdad?",
+    "explanation": "Formula esta pregunta durante el interrogatorio de Jesús.",
+    "adapted": true
+  },
+  {
+    "id": "frase-40",
+    "speaker": "Jesús",
+    "other": "Pedro",
+    "reference": "Lucas 23:34",
+    "phrase": "Padre, perdónalos, porque no saben lo que hacen.",
+    "explanation": "Ora por quienes participan en su ejecución.",
+    "adapted": true
+  },
+  {
+    "id": "frase-41",
+    "speaker": "María Magdalena",
+    "other": "Marta",
+    "reference": "Juan 20:18",
+    "phrase": "¡He visto al Señor!",
+    "explanation": "Lleva a los discípulos la noticia de su encuentro.",
+    "adapted": true
+  },
+  {
+    "id": "frase-42",
+    "speaker": "Pedro",
+    "other": "Pablo",
+    "reference": "Hechos 3:6",
+    "phrase": "No tengo plata ni oro, pero te doy lo que sí tengo.",
+    "explanation": "Habla con un hombre que pide ayuda junto al templo.",
+    "adapted": true
+  },
+  {
+    "id": "frase-43",
+    "speaker": "Esteban",
+    "other": "Pablo",
+    "reference": "Hechos 7:60",
+    "phrase": "Señor, no les tomes en cuenta este pecado.",
+    "explanation": "Ora por sus agresores al final de su vida.",
+    "adapted": true
+  },
+  {
+    "id": "frase-44",
+    "speaker": "Felipe",
+    "other": "Andrés",
+    "reference": "Juan 14:8",
+    "phrase": "Señor, muéstranos al Padre; con eso nos basta.",
+    "explanation": "Hace esta petición durante una conversación con Jesús.",
+    "adapted": true
+  },
+  {
+    "id": "frase-45",
+    "speaker": "Pablo",
+    "other": "Silas",
+    "reference": "Hechos 16:28",
+    "phrase": "¡No te hagas daño! Todos estamos aquí.",
+    "explanation": "Detiene al carcelero cuando este teme que los presos hayan escapado.",
+    "adapted": true
+  },
+  {
+    "id": "frase-46",
+    "speaker": "Pablo",
+    "other": "Pedro",
+    "reference": "2 Timoteo 4:7",
+    "phrase": "He luchado la buena batalla, terminado la carrera y conservado la fe.",
+    "explanation": "Resume su camino de servicio al acercarse el final.",
+    "adapted": true
+  },
+  {
+    "id": "frase-47",
+    "speaker": "Jesús",
+    "other": "Moisés",
+    "reference": "Mateo 11:28",
+    "phrase": "Vengan a mí los que están cansados y cargados; yo les daré descanso.",
+    "explanation": "Invita a encontrar alivio en él.",
+    "adapted": true
+  },
+  {
+    "id": "frase-48",
+    "speaker": "Jesús",
+    "other": "Juan el Bautista",
+    "reference": "Juan 14:6",
+    "phrase": "Yo soy el camino, la verdad y la vida.",
+    "explanation": "Responde a una pregunta sobre el camino hacia el Padre.",
+    "adapted": true
+  },
+  {
+    "id": "frase-49",
+    "speaker": "Abraham",
+    "other": "Moisés",
+    "reference": "Génesis 18:27",
+    "phrase": "Me atrevo a hablar con mi Señor aunque solo soy polvo y ceniza.",
+    "explanation": "Intercede por una ciudad y reconoce su pequeñez ante Dios.",
+    "adapted": true
+  },
+  {
+    "id": "frase-50",
+    "speaker": "Lot",
+    "other": "Noé",
+    "reference": "Génesis 19:7",
+    "phrase": "Hermanos, les ruego que no cometan esa maldad.",
+    "explanation": "Intenta detener a la multitud reunida frente a su casa.",
+    "adapted": true
+  },
+  {
+    "id": "frase-51",
+    "speaker": "Labán",
+    "other": "Isaac",
+    "reference": "Génesis 24:31",
+    "phrase": "Entra, bendecido del Señor; ya he preparado la casa y lugar para los camellos.",
+    "explanation": "Recibe al enviado que busca esposa para un familiar.",
+    "adapted": true
+  },
+  {
+    "id": "frase-52",
+    "speaker": "Isaac",
+    "other": "Ismael",
+    "reference": "Génesis 22:7",
+    "phrase": "Tenemos fuego y leña, pero ¿dónde está el cordero para la ofrenda?",
+    "explanation": "Pregunta a su padre mientras ambos se dirigen al lugar del sacrificio.",
+    "adapted": true
+  },
+  {
+    "id": "frase-53",
+    "speaker": "Rebeca",
+    "other": "Sara",
+    "reference": "Génesis 27:13",
+    "phrase": "Que esa maldición caiga sobre mí, hijo mío; tú obedece lo que te digo.",
+    "explanation": "Insiste en que su hijo participe en un engaño para obtener una bendición.",
+    "adapted": true
+  },
+  {
+    "id": "frase-54",
+    "speaker": "Lea",
+    "other": "Raquel",
+    "reference": "Génesis 29:32",
+    "phrase": "El Señor ha visto mi aflicción; ahora mi esposo me amará.",
+    "explanation": "Expresa su esperanza después del nacimiento de su primer hijo.",
+    "adapted": true
+  },
+  {
+    "id": "frase-55",
+    "speaker": "Raquel",
+    "other": "Lea",
+    "reference": "Génesis 30:1",
+    "phrase": "Dame hijos, porque siento que moriré si no los tengo.",
+    "explanation": "Habla con su esposo, angustiada por no poder tener hijos.",
+    "adapted": true
+  },
+  {
+    "id": "frase-56",
+    "speaker": "Judá",
+    "other": "Rubén",
+    "reference": "Génesis 44:33",
+    "phrase": "Déjame a mí como esclavo en lugar del muchacho y permite que él regrese.",
+    "explanation": "Se ofrece para proteger al hermano menor y evitar otro dolor a su padre.",
+    "adapted": true
+  },
+  {
+    "id": "frase-57",
+    "speaker": "Rubén",
+    "other": "Judá",
+    "reference": "Génesis 37:22",
+    "phrase": "No derramen su sangre; déjenlo en esta cisterna sin hacerle daño.",
+    "explanation": "Busca impedir que sus hermanos maten al joven al que han apresado.",
+    "adapted": true
+  },
+  {
+    "id": "frase-58",
+    "speaker": "Jacob",
+    "other": "Abraham",
+    "reference": "Génesis 28:16",
+    "phrase": "El Señor estaba en este lugar y yo no me había dado cuenta.",
+    "explanation": "Despierta asombrado después de un sueño durante su viaje.",
+    "adapted": true
+  },
+  {
+    "id": "frase-59",
+    "speaker": "José",
+    "other": "Daniel",
+    "reference": "Génesis 40:8",
+    "phrase": "Las interpretaciones pertenecen a Dios; cuéntenme sus sueños.",
+    "explanation": "Habla con dos compañeros de prisión preocupados por lo que soñaron.",
+    "adapted": true
+  },
+  {
+    "id": "frase-60",
+    "speaker": "Jetro",
+    "other": "Aarón",
+    "reference": "Éxodo 18:17",
+    "phrase": "No está bien lo que estás haciendo.",
+    "explanation": "Advierte a su yerno sobre la carga de atender solo todos los asuntos del pueblo.",
+    "adapted": true
+  },
+  {
+    "id": "frase-61",
+    "speaker": "Faraón",
+    "other": "Nabucodonosor",
+    "reference": "Éxodo 5:2",
+    "phrase": "¿Quién es el Señor para que yo obedezca su voz y deje ir al pueblo?",
+    "explanation": "Rechaza la petición de liberar a los israelitas.",
+    "adapted": true
+  },
+  {
+    "id": "frase-62",
+    "speaker": "María, hermana de Moisés",
+    "other": "Débora",
+    "reference": "Éxodo 15:21",
+    "phrase": "Canten al Señor, que ha triunfado sobre el caballo y su jinete.",
+    "explanation": "Dirige una celebración después de que el pueblo cruza el mar.",
+    "adapted": true
+  },
+  {
+    "id": "frase-63",
+    "speaker": "Moisés",
+    "other": "Josué",
+    "reference": "Éxodo 14:13",
+    "phrase": "No teman; manténganse firmes y verán cómo el Señor los salva hoy.",
+    "explanation": "Anima al pueblo cuando parece estar atrapado entre el ejército y el mar.",
+    "adapted": true
+  },
+  {
+    "id": "frase-64",
+    "speaker": "Josué",
+    "other": "Moisés",
+    "reference": "Josué 10:12",
+    "phrase": "Sol, detente sobre Gabaón; luna, sobre el valle de Ajalón.",
+    "explanation": "Pronuncia estas palabras durante una batalla.",
+    "adapted": true
+  },
+  {
+    "id": "frase-65",
+    "speaker": "Rahab",
+    "other": "Ester",
+    "reference": "Josué 2:12",
+    "phrase": "Prometan que tratarán con bondad a mi familia, como yo los he tratado a ustedes.",
+    "explanation": "Pide protección a los exploradores que ha ayudado.",
+    "adapted": true
+  },
+  {
+    "id": "frase-66",
+    "speaker": "Débora",
+    "other": "Ester",
+    "reference": "Jueces 4:9",
+    "phrase": "Iré contigo, pero el honor de esta victoria no será tuyo.",
+    "explanation": "Acepta acompañar al jefe militar, pero anuncia que una mujer recibirá el honor.",
+    "adapted": true
+  },
+  {
+    "id": "frase-67",
+    "speaker": "Barac",
+    "other": "Gedeón",
+    "reference": "Jueces 4:8",
+    "phrase": "Si tú vas conmigo, iré; si no vienes, no iré.",
+    "explanation": "Condiciona su participación en la misión a que la profetisa lo acompañe.",
+    "adapted": true
+  },
+  {
+    "id": "frase-68",
+    "speaker": "Gedeón",
+    "other": "Saúl",
+    "reference": "Jueces 8:23",
+    "phrase": "Ni yo ni mi hijo gobernaremos sobre ustedes; el Señor será quien los gobierne.",
+    "explanation": "Rechaza la propuesta de establecer un gobierno hereditario después de la victoria.",
+    "adapted": true
+  },
+  {
+    "id": "frase-69",
+    "speaker": "Sansón",
+    "other": "Elías",
+    "reference": "Jueces 15:18",
+    "phrase": "Me has concedido esta gran victoria; ¿voy a morir ahora de sed?",
+    "explanation": "Clama a Dios después de una batalla que lo ha dejado agotado.",
+    "adapted": true
+  },
+  {
+    "id": "frase-70",
+    "speaker": "Rut",
+    "other": "Ester",
+    "reference": "Rut 2:10",
+    "phrase": "¿Por qué me tratas con tanta bondad si soy extranjera?",
+    "explanation": "Se sorprende por la protección que recibe mientras recoge espigas.",
+    "adapted": true
+  },
+  {
+    "id": "frase-71",
+    "speaker": "Booz",
+    "other": "Elí",
+    "reference": "Rut 2:12",
+    "phrase": "Que el Señor recompense lo que has hecho, pues has venido a refugiarte bajo sus alas.",
+    "explanation": "Bendice a una mujer por la lealtad que ha mostrado hacia su suegra.",
+    "adapted": true
+  },
+  {
+    "id": "frase-72",
+    "speaker": "Elí",
+    "other": "Samuel",
+    "reference": "1 Samuel 3:9",
+    "phrase": "Vuelve a acostarte y, si te llama otra vez, responde que estás escuchando.",
+    "explanation": "Orienta a un muchacho que no comprende quién lo llama durante la noche.",
+    "adapted": true
+  },
+  {
+    "id": "frase-73",
+    "speaker": "Ana",
+    "other": "Noemí",
+    "reference": "1 Samuel 1:15",
+    "phrase": "No he bebido vino; estoy derramando mi alma delante del Señor.",
+    "explanation": "Aclara un malentendido sobre su forma de orar.",
+    "adapted": true
+  },
+  {
+    "id": "frase-74",
+    "speaker": "Saúl",
+    "other": "David",
+    "reference": "1 Samuel 15:24",
+    "phrase": "He pecado, porque tuve miedo del pueblo y escuché su voz.",
+    "explanation": "Reconoce ante el profeta que desobedeció una orden.",
+    "adapted": true
+  },
+  {
+    "id": "frase-75",
+    "speaker": "Jonatán",
+    "other": "David",
+    "reference": "1 Samuel 14:6",
+    "phrase": "Para el Señor no es difícil salvar con muchos o con pocos.",
+    "explanation": "Anima a su escudero antes de acercarse a una posición enemiga.",
+    "adapted": true
+  },
+  {
+    "id": "frase-76",
+    "speaker": "David",
+    "other": "Saúl",
+    "reference": "1 Samuel 24:12",
+    "phrase": "Que el Señor juzgue entre tú y yo; mi mano no se levantará contra ti.",
+    "explanation": "Habla al rey después de haber tenido la oportunidad de matarlo y perdonarle la vida.",
+    "adapted": true
+  },
+  {
+    "id": "frase-77",
+    "speaker": "Abigail",
+    "other": "Betsabé",
+    "reference": "1 Samuel 25:28",
+    "phrase": "Perdona la falta de tu sierva; el Señor hará firme tu casa.",
+    "explanation": "Intercede para evitar que un conflicto termine en derramamiento de sangre.",
+    "adapted": true
+  },
+  {
+    "id": "frase-78",
+    "speaker": "Natán",
+    "other": "Samuel",
+    "reference": "2 Samuel 12:7",
+    "phrase": "¡Tú eres ese hombre!",
+    "explanation": "Revela al rey que la historia que acaba de contar denuncia su propia conducta.",
+    "adapted": true
+  },
+  {
+    "id": "frase-79",
+    "speaker": "Salomón",
+    "other": "David",
+    "reference": "1 Reyes 8:27",
+    "phrase": "Si ni los cielos pueden contenerte, mucho menos esta casa que he construido.",
+    "explanation": "Reconoce la grandeza de Dios al dedicar el templo.",
+    "adapted": true
+  },
+  {
+    "id": "frase-80",
+    "speaker": "Elías",
+    "other": "Eliseo",
+    "reference": "1 Reyes 17:13",
+    "phrase": "No tengas miedo; prepara lo que has dicho, pero primero hazme un pequeño pan.",
+    "explanation": "Pide alimento a una mujer que cree estar preparando su última comida.",
+    "adapted": true
+  },
+  {
+    "id": "frase-81",
+    "speaker": "La viuda de Sarepta",
+    "other": "Rut",
+    "reference": "1 Reyes 17:12",
+    "phrase": "Solo me queda un poco de harina y aceite para una última comida con mi hijo.",
+    "explanation": "Describe la escasez que enfrenta durante una sequía.",
+    "adapted": true
+  },
+  {
+    "id": "frase-82",
+    "speaker": "Naamán",
+    "other": "Giezi",
+    "reference": "2 Reyes 5:11",
+    "phrase": "Pensé que saldría a recibirme, invocaría a su Dios y me sanaría con un gesto.",
+    "explanation": "Se enfada porque las instrucciones del profeta no coinciden con lo que esperaba.",
+    "adapted": true
+  },
+  {
+    "id": "frase-83",
+    "speaker": "Naamán",
+    "other": "Nabucodonosor",
+    "reference": "2 Reyes 5:15",
+    "phrase": "Ahora sé que no hay Dios en toda la tierra sino en Israel.",
+    "explanation": "Regresa agradecido después de recibir sanidad.",
+    "adapted": true
+  },
+  {
+    "id": "frase-84",
+    "speaker": "Eliseo",
+    "other": "Elías",
+    "reference": "2 Reyes 6:16",
+    "phrase": "No tengas miedo; son más los que están con nosotros que los que están con ellos.",
+    "explanation": "Tranquiliza a su siervo cuando un ejército rodea la ciudad.",
+    "adapted": true
+  },
+  {
+    "id": "frase-85",
+    "speaker": "Ezequías",
+    "other": "Josías",
+    "reference": "2 Reyes 20:3",
+    "phrase": "Recuerda, Señor, que he procurado andar delante de ti con fidelidad.",
+    "explanation": "Ora con lágrimas al recibir una noticia sobre su enfermedad.",
+    "adapted": true
+  },
+  {
+    "id": "frase-86",
+    "speaker": "Nehemías",
+    "other": "Esdras",
+    "reference": "Nehemías 2:20",
+    "phrase": "El Dios del cielo nos dará éxito; nosotros nos levantaremos y construiremos.",
+    "explanation": "Responde a quienes se burlan del proyecto de reconstrucción.",
+    "adapted": true
+  },
+  {
+    "id": "frase-87",
+    "speaker": "Mardoqueo",
+    "other": "Amán",
+    "reference": "Ester 4:14",
+    "phrase": "¿Quién sabe si llegaste a ser reina para un momento como este?",
+    "explanation": "Anima a una familiar a actuar ante el peligro que corre su pueblo.",
+    "adapted": true
+  },
+  {
+    "id": "frase-88",
+    "speaker": "Nabucodonosor",
+    "other": "Darío",
+    "reference": "Daniel 3:28",
+    "phrase": "Bendito sea el Dios que envió a su ángel y rescató a sus siervos.",
+    "explanation": "Reconoce la liberación de los jóvenes que se negaron a adorar su estatua.",
+    "adapted": true
+  },
+  {
+    "id": "frase-89",
+    "speaker": "Daniel",
+    "other": "José",
+    "reference": "Daniel 2:27",
+    "phrase": "Ningún sabio, mago o adivino puede revelar al rey ese misterio.",
+    "explanation": "Explica los límites de la sabiduría humana antes de dar a conocer el sueño.",
+    "adapted": true
+  },
+  {
+    "id": "frase-90",
+    "speaker": "Habacuc",
+    "other": "Jonás",
+    "reference": "Habacuc 2:1",
+    "phrase": "Me quedaré en mi puesto de vigilancia, esperando lo que Dios me responda.",
+    "explanation": "Expresa su disposición a escuchar después de presentar sus preguntas.",
+    "adapted": true
+  },
+  {
+    "id": "frase-91",
+    "speaker": "Jeremías",
+    "other": "Isaías",
+    "reference": "Jeremías 20:9",
+    "phrase": "Quise dejar de hablar en su nombre, pero sentí un fuego dentro que no podía contener.",
+    "explanation": "Describe la fuerza del mensaje de Dios pese a su deseo de guardar silencio.",
+    "adapted": true
+  },
+  {
+    "id": "frase-92",
+    "speaker": "Zacarías",
+    "other": "José de Nazaret",
+    "reference": "Lucas 1:18",
+    "phrase": "¿Cómo podré estar seguro? Mi esposa y yo ya somos mayores.",
+    "explanation": "Responde con dudas al anuncio de que tendrá un hijo.",
+    "adapted": true
+  },
+  {
+    "id": "frase-93",
+    "speaker": "Simeón",
+    "other": "Zacarías",
+    "reference": "Lucas 2:29",
+    "phrase": "Señor, ahora puedes dejar que tu siervo se vaya en paz, como prometiste.",
+    "explanation": "Ora al recibir al niño en el templo.",
+    "adapted": true
+  },
+  {
+    "id": "frase-94",
+    "speaker": "María",
+    "other": "Elisabet",
+    "reference": "Lucas 2:48",
+    "phrase": "Hijo, ¿por qué nos hiciste esto? Tu padre y yo te buscábamos angustiados.",
+    "explanation": "Habla después de encontrar al niño conversando en el templo.",
+    "adapted": true
+  },
+  {
+    "id": "frase-95",
+    "speaker": "Jesús",
+    "other": "Juan el Bautista",
+    "reference": "Lucas 2:49",
+    "phrase": "¿Por qué me buscaban? Debo ocuparme de los asuntos de mi Padre.",
+    "explanation": "Responde a sus padres cuando lo encuentran en el templo.",
+    "adapted": true
+  },
+  {
+    "id": "frase-96",
+    "speaker": "Juan el Bautista",
+    "other": "Pedro",
+    "reference": "Juan 1:29",
+    "phrase": "Miren al Cordero de Dios, que quita el pecado del mundo.",
+    "explanation": "Señala a Jesús cuando lo ve acercarse.",
+    "adapted": true
+  },
+  {
+    "id": "frase-97",
+    "speaker": "Andrés",
+    "other": "Felipe",
+    "reference": "Juan 1:41",
+    "phrase": "¡Hemos encontrado al Mesías!",
+    "explanation": "Comparte el descubrimiento con su hermano.",
+    "adapted": true
+  },
+  {
+    "id": "frase-98",
+    "speaker": "Felipe",
+    "other": "Andrés",
+    "reference": "Juan 1:45",
+    "phrase": "Encontramos a aquel de quien escribieron Moisés y los profetas.",
+    "explanation": "Invita a Natanael a conocer a Jesús.",
+    "adapted": true
+  },
+  {
+    "id": "frase-99",
+    "speaker": "Natanael",
+    "other": "Tomás",
+    "reference": "Juan 1:49",
+    "phrase": "Maestro, tú eres el Hijo de Dios y el Rey de Israel.",
+    "explanation": "Reconoce quién es Jesús después de que este demuestra conocerlo.",
+    "adapted": true
+  },
+  {
+    "id": "frase-100",
+    "speaker": "Bartimeo",
+    "other": "Zaqueo",
+    "reference": "Marcos 10:51",
+    "phrase": "Maestro, quiero recuperar la vista.",
+    "explanation": "Responde cuando Jesús le pregunta qué desea que haga por él.",
+    "adapted": true
+  }
+]

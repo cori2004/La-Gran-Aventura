@@ -1,0 +1,322 @@
+[
+  {
+    "id": "Abraham-1",
+    "topic": "Abraham",
+    "difficulty": "Avanzada",
+    "question": "¿Qué edad tenía Abram cuando salió de Harán?",
+    "options": [
+      "75 años",
+      "65 años",
+      "86 años",
+      "99 años"
+    ],
+    "answer": 0,
+    "reference": "Génesis 12:4",
+    "explanation": "El pasaje indica: 75 años.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%2012%3A4&version=RVR1960"
+  },
+  {
+    "id": "Abraham-2",
+    "topic": "Abraham",
+    "difficulty": "Avanzada",
+    "question": "¿Qué lugar aparece asociado con la primera promesa de dar la tierra a la descendencia de Abram?",
+    "options": [
+      "Siquem, junto al encino de More",
+      "Beerseba, junto al pozo",
+      "Hebrón, junto a Macpela",
+      "Sodoma, junto a la puerta"
+    ],
+    "answer": 0,
+    "reference": "Génesis 12:6–7",
+    "explanation": "El pasaje indica: Siquem, junto al encino de More.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%2012%3A6%E2%80%937&version=RVR1960"
+  },
+  {
+    "id": "Abraham-3",
+    "topic": "Abraham",
+    "difficulty": "Avanzada",
+    "question": "¿Qué parentesco tenía Lot con Abram?",
+    "options": [
+      "Era hijo de su hermano",
+      "Era su hermano menor",
+      "Era su primo",
+      "Era hijo de su hermana"
+    ],
+    "answer": 0,
+    "reference": "Génesis 12:5",
+    "explanation": "El pasaje indica: Era hijo de su hermano.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%2012%3A5&version=RVR1960"
+  },
+  {
+    "id": "Abraham-4",
+    "topic": "Abraham",
+    "difficulty": "Avanzada",
+    "question": "¿Quién era Melquisedec en el encuentro con Abram?",
+    "options": [
+      "Rey de Salem y sacerdote del Dios Altísimo",
+      "Rey de Sodoma y profeta",
+      "Rey de Gerar y sacerdote de Baal",
+      "Príncipe de Egipto y escriba"
+    ],
+    "answer": 0,
+    "reference": "Génesis 14:18",
+    "explanation": "El pasaje indica: Rey de Salem y sacerdote del Dios Altísimo.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%2014%3A18&version=RVR1960"
+  },
+  {
+    "id": "Abraham-5",
+    "topic": "Abraham",
+    "difficulty": "Avanzada",
+    "question": "¿Cuántos criados entrenados llevó Abram para rescatar a Lot?",
+    "options": [
+      "318",
+      "300",
+      "120",
+      "400"
+    ],
+    "answer": 0,
+    "reference": "Génesis 14:14",
+    "explanation": "El pasaje indica: 318.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%2014%3A14&version=RVR1960"
+  },
+  {
+    "id": "Abraham-6",
+    "topic": "Abraham",
+    "difficulty": "Avanzada",
+    "question": "¿Qué rechazó Abram del rey de Sodoma para evitar que este se atribuyera su riqueza?",
+    "options": [
+      "Tomar sus bienes, ni siquiera un hilo o una correa",
+      "Aceptar a Lot de regreso",
+      "Recibir la bendición de Melquisedec",
+      "Ofrecer el diezmo"
+    ],
+    "answer": 0,
+    "reference": "Génesis 14:22–24",
+    "explanation": "El pasaje indica: Tomar sus bienes, ni siquiera un hilo o una correa.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%2014%3A22%E2%80%9324&version=RVR1960"
+  },
+  {
+    "id": "Abraham-7",
+    "topic": "Abraham",
+    "difficulty": "Avanzada",
+    "question": "¿Qué fue contado por justicia a Abram?",
+    "options": [
+      "Su fe en la promesa de Dios",
+      "Su victoria militar sobre Egipto",
+      "La compra de Macpela",
+      "Su riqueza en ganado"
+    ],
+    "answer": 0,
+    "reference": "Génesis 15:6",
+    "explanation": "El pasaje indica: Su fe en la promesa de Dios.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%2015%3A6&version=RVR1960"
+  },
+  {
+    "id": "Abraham-8",
+    "topic": "Abraham",
+    "difficulty": "Avanzada",
+    "question": "¿Quién era el heredero que Abram mencionaba antes de recibir la promesa de un hijo propio?",
+    "options": [
+      "Eliezer de Damasco",
+      "Lot de Harán",
+      "Ismael de Egipto",
+      "Abimelec de Gerar"
+    ],
+    "answer": 0,
+    "reference": "Génesis 15:2–4",
+    "explanation": "El pasaje indica: Eliezer de Damasco.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%2015%3A2%E2%80%934&version=RVR1960"
+  },
+  {
+    "id": "Abraham-9",
+    "topic": "Abraham",
+    "difficulty": "Avanzada",
+    "question": "¿Qué señal del pacto recibió Abraham para los varones de su casa?",
+    "options": [
+      "La circuncisión",
+      "El arco iris",
+      "El sacrificio de las primicias",
+      "El uso de vestiduras blancas"
+    ],
+    "answer": 0,
+    "reference": "Génesis 17:10–11",
+    "explanation": "El pasaje indica: La circuncisión.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%2017%3A10%E2%80%9311&version=RVR1960"
+  },
+  {
+    "id": "Abraham-10",
+    "topic": "Abraham",
+    "difficulty": "Avanzada",
+    "question": "¿Qué edad tenía Abraham cuando nació Isaac?",
+    "options": [
+      "100 años",
+      "99 años",
+      "86 años",
+      "120 años"
+    ],
+    "answer": 0,
+    "reference": "Génesis 21:5",
+    "explanation": "El pasaje indica: 100 años.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%2021%3A5&version=RVR1960"
+  },
+  {
+    "id": "Abraham-11",
+    "topic": "Abraham",
+    "difficulty": "Avanzada",
+    "question": "¿Hasta qué número de justos llegó la intercesión de Abraham por Sodoma?",
+    "options": [
+      "Diez",
+      "Cinco",
+      "Veinte",
+      "Cincuenta"
+    ],
+    "answer": 0,
+    "reference": "Génesis 18:32",
+    "explanation": "El pasaje indica: Diez.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%2018%3A32&version=RVR1960"
+  },
+  {
+    "id": "Abraham-12",
+    "topic": "Abraham",
+    "difficulty": "Avanzada",
+    "question": "¿En qué tierra debía Abraham ofrecer a Isaac?",
+    "options": [
+      "Moriah",
+      "Gosén",
+      "Madián",
+      "Moab"
+    ],
+    "answer": 0,
+    "reference": "Génesis 22:2",
+    "explanation": "El pasaje indica: Moriah.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%2022%3A2&version=RVR1960"
+  },
+  {
+    "id": "Abraham-13",
+    "topic": "Abraham",
+    "difficulty": "Avanzada",
+    "question": "¿A quién compró Abraham la heredad y cueva de Macpela?",
+    "options": [
+      "Efrón el heteo",
+      "Abimelec el filisteo",
+      "Melquisedec de Salem",
+      "Faraón de Egipto"
+    ],
+    "answer": 0,
+    "reference": "Génesis 23:16–20",
+    "explanation": "El pasaje indica: Efrón el heteo.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%2023%3A16%E2%80%9320&version=RVR1960"
+  },
+  {
+    "id": "Abraham-ampliacion-0",
+    "topic": "Abraham",
+    "difficulty": "Avanzada",
+    "question": "¿Qué edad tenía Abram cuando nació Ismael?",
+    "options": [
+      "86 años",
+      "75 años",
+      "99 años",
+      "100 años"
+    ],
+    "answer": 0,
+    "reference": "Génesis 16:16",
+    "explanation": "El pasaje relata: 86 años.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%2016%3A16&version=RVR1960"
+  },
+  {
+    "id": "Abraham-ampliacion-1",
+    "topic": "Abraham",
+    "difficulty": "Avanzada",
+    "question": "¿Qué edad tenía Abraham cuando fue circuncidado?",
+    "options": [
+      "99 años",
+      "86 años",
+      "75 años",
+      "110 años"
+    ],
+    "answer": 0,
+    "reference": "Génesis 17:24",
+    "explanation": "El pasaje relata: 99 años.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%2017%3A24&version=RVR1960"
+  },
+  {
+    "id": "Abraham-ampliacion-2",
+    "topic": "Abraham",
+    "difficulty": "Avanzada",
+    "question": "¿Qué sustituyó a Isaac en el sacrificio?",
+    "options": [
+      "Un carnero trabado por los cuernos",
+      "Un becerro traído de Egipto",
+      "Una cabra enviada por Lot",
+      "Un cordero comprado en Jerusalén"
+    ],
+    "answer": 0,
+    "reference": "Génesis 22:13",
+    "explanation": "El pasaje relata: Un carnero trabado por los cuernos.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%2022%3A13&version=RVR1960"
+  },
+  {
+    "id": "Abraham-ampliacion-3",
+    "topic": "Abraham",
+    "difficulty": "Avanzada",
+    "question": "¿Qué territorio escogió Lot cuando se separó de Abram?",
+    "options": [
+      "La llanura del Jordán",
+      "Las montañas de Moriah",
+      "La tierra de Gosén",
+      "La región de Nínive"
+    ],
+    "answer": 0,
+    "reference": "Génesis 13:10–11",
+    "explanation": "El pasaje relata: La llanura del Jordán.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%2013%3A10%E2%80%9311&version=RVR1960"
+  },
+  {
+    "id": "Abraham-ampliacion-4",
+    "topic": "Abraham",
+    "difficulty": "Avanzada",
+    "question": "¿Qué parentesco alegó Abraham con Sara ante Abimelec?",
+    "options": [
+      "Que era su hermana",
+      "Que era su hija",
+      "Que era su sobrina",
+      "Que era su madre"
+    ],
+    "answer": 0,
+    "reference": "Génesis 20:2",
+    "explanation": "El pasaje relata: Que era su hermana.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%2020%3A2&version=RVR1960"
+  },
+  {
+    "id": "Abraham-ampliacion-5",
+    "topic": "Abraham",
+    "difficulty": "Avanzada",
+    "question": "¿Cuántos siclos de plata pagó Abraham por la propiedad de Efrón?",
+    "options": [
+      "400",
+      "300",
+      "50",
+      "1000"
+    ],
+    "answer": 0,
+    "reference": "Génesis 23:16",
+    "explanation": "El pasaje relata: 400.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%2023%3A16&version=RVR1960"
+  },
+  {
+    "id": "Abraham-ampliacion-6",
+    "topic": "Abraham",
+    "difficulty": "Avanzada",
+    "question": "¿Quiénes sepultaron a Abraham?",
+    "options": [
+      "Isaac e Ismael",
+      "Jacob y Esaú",
+      "Moisés y Aarón",
+      "Lot y Melquisedec"
+    ],
+    "answer": 0,
+    "reference": "Génesis 25:9",
+    "explanation": "El pasaje relata: Isaac e Ismael.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%2025%3A9&version=RVR1960"
+  }
+]

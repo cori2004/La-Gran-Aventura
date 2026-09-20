@@ -1,0 +1,2082 @@
+[
+  {
+    "id": "Adán y Eva-1",
+    "topic": "Adán y Eva",
+    "difficulty": "Avanzada",
+    "question": "¿Qué diferencia establece Génesis 2 entre el origen del hombre y el de la mujer?",
+    "options": [
+      "Él fue formado del polvo; ella, de una costilla del hombre",
+      "Ambos fueron formados de una costilla",
+      "Ella fue formada antes que él",
+      "Ambos surgieron de los ríos"
+    ],
+    "answer": 0,
+    "reference": "Génesis 2:7, 21–22",
+    "explanation": "El pasaje indica: Él fue formado del polvo; ella, de una costilla del hombre.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%202%3A7%2C%2021%E2%80%9322&version=RVR1960"
+  },
+  {
+    "id": "Adán y Eva-2",
+    "topic": "Adán y Eva",
+    "difficulty": "Avanzada",
+    "question": "¿Qué responsabilidad recibió el hombre en Edén antes de la desobediencia?",
+    "options": [
+      "Labrar y guardar el huerto",
+      "Construir un altar de piedra",
+      "Gobernar sobre Caín y Abel",
+      "Cultivar fuera del huerto"
+    ],
+    "answer": 0,
+    "reference": "Génesis 2:15",
+    "explanation": "El pasaje indica: Labrar y guardar el huerto.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%202%3A15&version=RVR1960"
+  },
+  {
+    "id": "Adán y Eva-3",
+    "topic": "Adán y Eva",
+    "difficulty": "Avanzada",
+    "question": "¿Qué río de Edén rodeaba la tierra de Havila?",
+    "options": [
+      "Pisón",
+      "Gihón",
+      "Hidekel",
+      "Éufrates"
+    ],
+    "answer": 0,
+    "reference": "Génesis 2:11",
+    "explanation": "El pasaje indica: Pisón.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%202%3A11&version=RVR1960"
+  },
+  {
+    "id": "Adán y Eva-4",
+    "topic": "Adán y Eva",
+    "difficulty": "Avanzada",
+    "question": "¿Qué río rodeaba la tierra de Cus?",
+    "options": [
+      "Gihón",
+      "Pisón",
+      "Éufrates",
+      "Jordán"
+    ],
+    "answer": 0,
+    "reference": "Génesis 2:13",
+    "explanation": "El pasaje indica: Gihón.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%202%3A13&version=RVR1960"
+  },
+  {
+    "id": "Adán y Eva-5",
+    "topic": "Adán y Eva",
+    "difficulty": "Avanzada",
+    "question": "¿Qué árbol quedó protegido para impedir que el hombre viviera para siempre en su condición caída?",
+    "options": [
+      "El árbol de la vida",
+      "El árbol de la ciencia del bien y del mal",
+      "La higuera",
+      "El olivo"
+    ],
+    "answer": 0,
+    "reference": "Génesis 3:22–24",
+    "explanation": "El pasaje indica: El árbol de la vida.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%203%3A22%E2%80%9324&version=RVR1960"
+  },
+  {
+    "id": "Adán y Eva-6",
+    "topic": "Adán y Eva",
+    "difficulty": "Avanzada",
+    "question": "¿Qué motivo dio Adán al explicar por qué se había escondido?",
+    "options": [
+      "Tuvo miedo al verse desnudo",
+      "Había olvidado el nombre de los animales",
+      "No reconoció la voz de Dios",
+      "Buscaba a la serpiente"
+    ],
+    "answer": 0,
+    "reference": "Génesis 3:10",
+    "explanation": "El pasaje indica: Tuvo miedo al verse desnudo.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%203%3A10&version=RVR1960"
+  },
+  {
+    "id": "Adán y Eva-7",
+    "topic": "Adán y Eva",
+    "difficulty": "Avanzada",
+    "question": "¿Sobre qué recayó la maldición relacionada con el trabajo de Adán?",
+    "options": [
+      "Sobre la tierra por causa de él",
+      "Sobre el río Pisón",
+      "Sobre todos los árboles frutales",
+      "Sobre la lluvia"
+    ],
+    "answer": 0,
+    "reference": "Génesis 3:17",
+    "explanation": "El pasaje indica: Sobre la tierra por causa de él.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%203%3A17&version=RVR1960"
+  },
+  {
+    "id": "Adán y Eva-8",
+    "topic": "Adán y Eva",
+    "difficulty": "Avanzada",
+    "question": "¿Qué usaron primero Adán y Eva para cubrirse?",
+    "options": [
+      "Hojas de higuera",
+      "Túnicas de lino",
+      "Pieles de animales",
+      "Hojas de palmera"
+    ],
+    "answer": 0,
+    "reference": "Génesis 3:7",
+    "explanation": "El pasaje indica: Hojas de higuera.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%203%3A7&version=RVR1960"
+  },
+  {
+    "id": "Adán y Eva-9",
+    "topic": "Adán y Eva",
+    "difficulty": "Avanzada",
+    "question": "¿Qué les hizo Dios para vestirlos después?",
+    "options": [
+      "Túnicas de pieles",
+      "Cinturones de hojas",
+      "Vestidos de púrpura",
+      "Mantos de lana tejida"
+    ],
+    "answer": 0,
+    "reference": "Génesis 3:21",
+    "explanation": "El pasaje indica: Túnicas de pieles.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%203%3A21&version=RVR1960"
+  },
+  {
+    "id": "Adán y Eva-10",
+    "topic": "Adán y Eva",
+    "difficulty": "Avanzada",
+    "question": "¿Qué razón explica el nombre que Adán dio a Eva?",
+    "options": [
+      "Sería madre de todos los vivientes",
+      "Había nombrado a los animales",
+      "Había descubierto el río",
+      "Era mayor que Adán"
+    ],
+    "answer": 0,
+    "reference": "Génesis 3:20",
+    "explanation": "El pasaje indica: Sería madre de todos los vivientes.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%203%3A20&version=RVR1960"
+  },
+  {
+    "id": "Adán y Eva-11",
+    "topic": "Adán y Eva",
+    "difficulty": "Avanzada",
+    "question": "¿Qué se colocó al oriente de Edén para custodiar el camino al árbol de la vida?",
+    "options": [
+      "Querubines y una espada encendida",
+      "Un altar y doce piedras",
+      "Serafines y una nube",
+      "Un muro construido por Adán"
+    ],
+    "answer": 0,
+    "reference": "Génesis 3:24",
+    "explanation": "El pasaje indica: Querubines y una espada encendida.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%203%3A24&version=RVR1960"
+  },
+  {
+    "id": "Adán y Eva-12",
+    "topic": "Adán y Eva",
+    "difficulty": "Avanzada",
+    "question": "¿Qué hijo consideró Eva un reemplazo de Abel, muerto por Caín?",
+    "options": [
+      "Set",
+      "Enós",
+      "Enoc",
+      "Lamec"
+    ],
+    "answer": 0,
+    "reference": "Génesis 4:25",
+    "explanation": "El pasaje indica: Set.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%204%3A25&version=RVR1960"
+  },
+  {
+    "id": "Adán y Eva-13",
+    "topic": "Adán y Eva",
+    "difficulty": "Avanzada",
+    "question": "¿Cuál fue la primera pregunta de la serpiente a la mujer?",
+    "options": [
+      "Cuestionó si Dios había prohibido comer de todos los árboles",
+      "Preguntó cómo se llamaba Adán",
+      "Pidió que nombrara a los animales",
+      "Preguntó dónde nacía el Éufrates"
+    ],
+    "answer": 0,
+    "reference": "Génesis 3:1",
+    "explanation": "El pasaje indica: Cuestionó si Dios había prohibido comer de todos los árboles.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%203%3A1&version=RVR1960"
+  },
+  {
+    "id": "Abraham-1",
+    "topic": "Abraham",
+    "difficulty": "Avanzada",
+    "question": "¿Qué edad tenía Abram cuando salió de Harán?",
+    "options": [
+      "75 años",
+      "65 años",
+      "86 años",
+      "99 años"
+    ],
+    "answer": 0,
+    "reference": "Génesis 12:4",
+    "explanation": "El pasaje indica: 75 años.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%2012%3A4&version=RVR1960"
+  },
+  {
+    "id": "Abraham-2",
+    "topic": "Abraham",
+    "difficulty": "Avanzada",
+    "question": "¿Qué lugar aparece asociado con la primera promesa de dar la tierra a la descendencia de Abram?",
+    "options": [
+      "Siquem, junto al encino de More",
+      "Beerseba, junto al pozo",
+      "Hebrón, junto a Macpela",
+      "Sodoma, junto a la puerta"
+    ],
+    "answer": 0,
+    "reference": "Génesis 12:6–7",
+    "explanation": "El pasaje indica: Siquem, junto al encino de More.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%2012%3A6%E2%80%937&version=RVR1960"
+  },
+  {
+    "id": "Abraham-3",
+    "topic": "Abraham",
+    "difficulty": "Avanzada",
+    "question": "¿Qué parentesco tenía Lot con Abram?",
+    "options": [
+      "Era hijo de su hermano",
+      "Era su hermano menor",
+      "Era su primo",
+      "Era hijo de su hermana"
+    ],
+    "answer": 0,
+    "reference": "Génesis 12:5",
+    "explanation": "El pasaje indica: Era hijo de su hermano.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%2012%3A5&version=RVR1960"
+  },
+  {
+    "id": "Abraham-4",
+    "topic": "Abraham",
+    "difficulty": "Avanzada",
+    "question": "¿Quién era Melquisedec en el encuentro con Abram?",
+    "options": [
+      "Rey de Salem y sacerdote del Dios Altísimo",
+      "Rey de Sodoma y profeta",
+      "Rey de Gerar y sacerdote de Baal",
+      "Príncipe de Egipto y escriba"
+    ],
+    "answer": 0,
+    "reference": "Génesis 14:18",
+    "explanation": "El pasaje indica: Rey de Salem y sacerdote del Dios Altísimo.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%2014%3A18&version=RVR1960"
+  },
+  {
+    "id": "Abraham-5",
+    "topic": "Abraham",
+    "difficulty": "Avanzada",
+    "question": "¿Cuántos criados entrenados llevó Abram para rescatar a Lot?",
+    "options": [
+      "318",
+      "300",
+      "120",
+      "400"
+    ],
+    "answer": 0,
+    "reference": "Génesis 14:14",
+    "explanation": "El pasaje indica: 318.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%2014%3A14&version=RVR1960"
+  },
+  {
+    "id": "Abraham-6",
+    "topic": "Abraham",
+    "difficulty": "Avanzada",
+    "question": "¿Qué rechazó Abram del rey de Sodoma para evitar que este se atribuyera su riqueza?",
+    "options": [
+      "Tomar sus bienes, ni siquiera un hilo o una correa",
+      "Aceptar a Lot de regreso",
+      "Recibir la bendición de Melquisedec",
+      "Ofrecer el diezmo"
+    ],
+    "answer": 0,
+    "reference": "Génesis 14:22–24",
+    "explanation": "El pasaje indica: Tomar sus bienes, ni siquiera un hilo o una correa.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%2014%3A22%E2%80%9324&version=RVR1960"
+  },
+  {
+    "id": "Abraham-7",
+    "topic": "Abraham",
+    "difficulty": "Avanzada",
+    "question": "¿Qué fue contado por justicia a Abram?",
+    "options": [
+      "Su fe en la promesa de Dios",
+      "Su victoria militar sobre Egipto",
+      "La compra de Macpela",
+      "Su riqueza en ganado"
+    ],
+    "answer": 0,
+    "reference": "Génesis 15:6",
+    "explanation": "El pasaje indica: Su fe en la promesa de Dios.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%2015%3A6&version=RVR1960"
+  },
+  {
+    "id": "Abraham-8",
+    "topic": "Abraham",
+    "difficulty": "Avanzada",
+    "question": "¿Quién era el heredero que Abram mencionaba antes de recibir la promesa de un hijo propio?",
+    "options": [
+      "Eliezer de Damasco",
+      "Lot de Harán",
+      "Ismael de Egipto",
+      "Abimelec de Gerar"
+    ],
+    "answer": 0,
+    "reference": "Génesis 15:2–4",
+    "explanation": "El pasaje indica: Eliezer de Damasco.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%2015%3A2%E2%80%934&version=RVR1960"
+  },
+  {
+    "id": "Abraham-9",
+    "topic": "Abraham",
+    "difficulty": "Avanzada",
+    "question": "¿Qué señal del pacto recibió Abraham para los varones de su casa?",
+    "options": [
+      "La circuncisión",
+      "El arco iris",
+      "El sacrificio de las primicias",
+      "El uso de vestiduras blancas"
+    ],
+    "answer": 0,
+    "reference": "Génesis 17:10–11",
+    "explanation": "El pasaje indica: La circuncisión.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%2017%3A10%E2%80%9311&version=RVR1960"
+  },
+  {
+    "id": "Abraham-10",
+    "topic": "Abraham",
+    "difficulty": "Avanzada",
+    "question": "¿Qué edad tenía Abraham cuando nació Isaac?",
+    "options": [
+      "100 años",
+      "99 años",
+      "86 años",
+      "120 años"
+    ],
+    "answer": 0,
+    "reference": "Génesis 21:5",
+    "explanation": "El pasaje indica: 100 años.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%2021%3A5&version=RVR1960"
+  },
+  {
+    "id": "Abraham-11",
+    "topic": "Abraham",
+    "difficulty": "Avanzada",
+    "question": "¿Hasta qué número de justos llegó la intercesión de Abraham por Sodoma?",
+    "options": [
+      "Diez",
+      "Cinco",
+      "Veinte",
+      "Cincuenta"
+    ],
+    "answer": 0,
+    "reference": "Génesis 18:32",
+    "explanation": "El pasaje indica: Diez.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%2018%3A32&version=RVR1960"
+  },
+  {
+    "id": "Abraham-12",
+    "topic": "Abraham",
+    "difficulty": "Avanzada",
+    "question": "¿En qué tierra debía Abraham ofrecer a Isaac?",
+    "options": [
+      "Moriah",
+      "Gosén",
+      "Madián",
+      "Moab"
+    ],
+    "answer": 0,
+    "reference": "Génesis 22:2",
+    "explanation": "El pasaje indica: Moriah.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%2022%3A2&version=RVR1960"
+  },
+  {
+    "id": "Abraham-13",
+    "topic": "Abraham",
+    "difficulty": "Avanzada",
+    "question": "¿A quién compró Abraham la heredad y cueva de Macpela?",
+    "options": [
+      "Efrón el heteo",
+      "Abimelec el filisteo",
+      "Melquisedec de Salem",
+      "Faraón de Egipto"
+    ],
+    "answer": 0,
+    "reference": "Génesis 23:16–20",
+    "explanation": "El pasaje indica: Efrón el heteo.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%2023%3A16%E2%80%9320&version=RVR1960"
+  },
+  {
+    "id": "Jonás-1",
+    "topic": "Jonás",
+    "difficulty": "Avanzada",
+    "question": "¿Cómo se llamaba el padre de Jonás?",
+    "options": [
+      "Amitai",
+      "Amós",
+      "Amoz",
+      "Berequías"
+    ],
+    "answer": 0,
+    "reference": "Jonás 1:1",
+    "explanation": "El pasaje indica: Amitai.",
+    "source": "https://www.biblegateway.com/passage/?search=Jon%C3%A1s%201%3A1&version=RVR1960"
+  },
+  {
+    "id": "Jonás-2",
+    "topic": "Jonás",
+    "difficulty": "Avanzada",
+    "question": "¿A qué destino intentó huir Jonás en lugar de ir a Nínive?",
+    "options": [
+      "Tarsis",
+      "Tarso",
+      "Tiro",
+      "Sidón"
+    ],
+    "answer": 0,
+    "reference": "Jonás 1:3",
+    "explanation": "El pasaje indica: Tarsis.",
+    "source": "https://www.biblegateway.com/passage/?search=Jon%C3%A1s%201%3A3&version=RVR1960"
+  },
+  {
+    "id": "Jonás-3",
+    "topic": "Jonás",
+    "difficulty": "Avanzada",
+    "question": "¿En qué puerto encontró Jonás la nave de su huida?",
+    "options": [
+      "Jope",
+      "Cesarea",
+      "Acre",
+      "Cencrea"
+    ],
+    "answer": 0,
+    "reference": "Jonás 1:3",
+    "explanation": "El pasaje indica: Jope.",
+    "source": "https://www.biblegateway.com/passage/?search=Jon%C3%A1s%201%3A3&version=RVR1960"
+  },
+  {
+    "id": "Jonás-4",
+    "topic": "Jonás",
+    "difficulty": "Avanzada",
+    "question": "¿Qué hacía Jonás dentro de la nave mientras la tormenta amenazaba a los marineros?",
+    "options": [
+      "Dormía profundamente",
+      "Echaba suertes",
+      "Vaciaba el cargamento",
+      "Dirigía a los remeros"
+    ],
+    "answer": 0,
+    "reference": "Jonás 1:5",
+    "explanation": "El pasaje indica: Dormía profundamente.",
+    "source": "https://www.biblegateway.com/passage/?search=Jon%C3%A1s%201%3A5&version=RVR1960"
+  },
+  {
+    "id": "Jonás-5",
+    "topic": "Jonás",
+    "difficulty": "Avanzada",
+    "question": "¿Cómo identificaron los marineros a Jonás como relacionado con la desgracia?",
+    "options": [
+      "Echaron suertes y la suerte cayó sobre él",
+      "Lo reconocieron como rey de Nínive",
+      "Leyeron una carta del capitán",
+      "Lo acusó un pasajero de Tarsis"
+    ],
+    "answer": 0,
+    "reference": "Jonás 1:7",
+    "explanation": "El pasaje indica: Echaron suertes y la suerte cayó sobre él.",
+    "source": "https://www.biblegateway.com/passage/?search=Jon%C3%A1s%201%3A7&version=RVR1960"
+  },
+  {
+    "id": "Jonás-6",
+    "topic": "Jonás",
+    "difficulty": "Avanzada",
+    "question": "¿Qué hicieron los marineros antes de aceptar echar a Jonás al mar?",
+    "options": [
+      "Intentaron remar para volver a tierra",
+      "Lo encerraron durante tres días",
+      "Sacrificaron a los animales del barco",
+      "Regresaron inmediatamente a Jope"
+    ],
+    "answer": 0,
+    "reference": "Jonás 1:13",
+    "explanation": "El pasaje indica: Intentaron remar para volver a tierra.",
+    "source": "https://www.biblegateway.com/passage/?search=Jon%C3%A1s%201%3A13&version=RVR1960"
+  },
+  {
+    "id": "Jonás-7",
+    "topic": "Jonás",
+    "difficulty": "Avanzada",
+    "question": "¿Qué ocurrió con el mar cuando echaron a Jonás?",
+    "options": [
+      "Se aquietó de su furor",
+      "Se convirtió en sangre",
+      "Se abrió en dos",
+      "Destruyó la nave"
+    ],
+    "answer": 0,
+    "reference": "Jonás 1:15",
+    "explanation": "El pasaje indica: Se aquietó de su furor.",
+    "source": "https://www.biblegateway.com/passage/?search=Jon%C3%A1s%201%3A15&version=RVR1960"
+  },
+  {
+    "id": "Jonás-8",
+    "topic": "Jonás",
+    "difficulty": "Avanzada",
+    "question": "¿Desde dónde hizo Jonás la oración registrada en el capítulo 2?",
+    "options": [
+      "Desde el vientre del pez",
+      "Desde la puerta de Nínive",
+      "Desde la casa del capitán",
+      "Desde una cueva en Jope"
+    ],
+    "answer": 0,
+    "reference": "Jonás 2:1",
+    "explanation": "El pasaje indica: Desde el vientre del pez.",
+    "source": "https://www.biblegateway.com/passage/?search=Jon%C3%A1s%202%3A1&version=RVR1960"
+  },
+  {
+    "id": "Jonás-9",
+    "topic": "Jonás",
+    "difficulty": "Avanzada",
+    "question": "¿Qué plazo anunció Jonás antes de la destrucción de Nínive?",
+    "options": [
+      "Cuarenta días",
+      "Siete días",
+      "Treinta días",
+      "Setenta días"
+    ],
+    "answer": 0,
+    "reference": "Jonás 3:4",
+    "explanation": "El pasaje indica: Cuarenta días.",
+    "source": "https://www.biblegateway.com/passage/?search=Jon%C3%A1s%203%3A4&version=RVR1960"
+  },
+  {
+    "id": "Jonás-10",
+    "topic": "Jonás",
+    "difficulty": "Avanzada",
+    "question": "¿Qué hizo el rey de Nínive al recibir el mensaje?",
+    "options": [
+      "Dejó su vestido, se cubrió de cilicio y se sentó sobre ceniza",
+      "Organizó un ejército contra Jonás",
+      "Ordenó encarcelar al profeta",
+      "Abandonó la ciudad en barco"
+    ],
+    "answer": 0,
+    "reference": "Jonás 3:6",
+    "explanation": "El pasaje indica: Dejó su vestido, se cubrió de cilicio y se sentó sobre ceniza.",
+    "source": "https://www.biblegateway.com/passage/?search=Jon%C3%A1s%203%3A6&version=RVR1960"
+  },
+  {
+    "id": "Jonás-11",
+    "topic": "Jonás",
+    "difficulty": "Avanzada",
+    "question": "¿Qué aspecto del carácter de Dios explicó Jonás como motivo de su huida inicial?",
+    "options": [
+      "Sabía que Dios es misericordioso y puede desistir del castigo",
+      "Creía que Dios ignoraba Nínive",
+      "Pensaba que Dios no dominaba el mar",
+      "Creía que Dios solo hablaba en Jerusalén"
+    ],
+    "answer": 0,
+    "reference": "Jonás 4:2",
+    "explanation": "El pasaje indica: Sabía que Dios es misericordioso y puede desistir del castigo.",
+    "source": "https://www.biblegateway.com/passage/?search=Jon%C3%A1s%204%3A2&version=RVR1960"
+  },
+  {
+    "id": "Jonás-12",
+    "topic": "Jonás",
+    "difficulty": "Avanzada",
+    "question": "¿Qué preparó Dios para dañar la planta que daba sombra a Jonás?",
+    "options": [
+      "Un gusano",
+      "Un enjambre de langostas",
+      "Una serpiente",
+      "Un ave de rapiña"
+    ],
+    "answer": 0,
+    "reference": "Jonás 4:7",
+    "explanation": "El pasaje indica: Un gusano.",
+    "source": "https://www.biblegateway.com/passage/?search=Jon%C3%A1s%204%3A7&version=RVR1960"
+  },
+  {
+    "id": "Jonás-13",
+    "topic": "Jonás",
+    "difficulty": "Avanzada",
+    "question": "¿Qué cantidad de personas que no distinguían entre su mano derecha e izquierda se menciona al final?",
+    "options": [
+      "Más de 120.000",
+      "Exactamente 40.000",
+      "Más de 12.000",
+      "Exactamente 70.000"
+    ],
+    "answer": 0,
+    "reference": "Jonás 4:11",
+    "explanation": "El pasaje indica: Más de 120.000.",
+    "source": "https://www.biblegateway.com/passage/?search=Jon%C3%A1s%204%3A11&version=RVR1960"
+  },
+  {
+    "id": "Daniel-1",
+    "topic": "Daniel",
+    "difficulty": "Avanzada",
+    "question": "¿Qué nombre babilónico recibió Daniel?",
+    "options": [
+      "Beltsasar",
+      "Belsasar",
+      "Abed-nego",
+      "Aspenaz"
+    ],
+    "answer": 0,
+    "reference": "Daniel 1:7",
+    "explanation": "El pasaje indica: Beltsasar.",
+    "source": "https://www.biblegateway.com/passage/?search=Daniel%201%3A7&version=RVR1960"
+  },
+  {
+    "id": "Daniel-2",
+    "topic": "Daniel",
+    "difficulty": "Avanzada",
+    "question": "¿Qué decidió Daniel respecto a la comida del rey?",
+    "options": [
+      "No contaminarse con su comida y su vino",
+      "Comer solo durante las fiestas",
+      "Compartirla únicamente con los sacerdotes",
+      "Rechazar toda comida por un año"
+    ],
+    "answer": 0,
+    "reference": "Daniel 1:8",
+    "explanation": "El pasaje indica: No contaminarse con su comida y su vino.",
+    "source": "https://www.biblegateway.com/passage/?search=Daniel%201%3A8&version=RVR1960"
+  },
+  {
+    "id": "Daniel-3",
+    "topic": "Daniel",
+    "difficulty": "Avanzada",
+    "question": "¿Cuántos días duró la prueba alimentaria que pidió Daniel?",
+    "options": [
+      "Diez",
+      "Siete",
+      "Veintiuno",
+      "Cuarenta"
+    ],
+    "answer": 0,
+    "reference": "Daniel 1:12",
+    "explanation": "El pasaje indica: Diez.",
+    "source": "https://www.biblegateway.com/passage/?search=Daniel%201%3A12&version=RVR1960"
+  },
+  {
+    "id": "Daniel-4",
+    "topic": "Daniel",
+    "difficulty": "Avanzada",
+    "question": "¿Quién era el capitán encargado de ejecutar a los sabios con quien habló Daniel?",
+    "options": [
+      "Arioc",
+      "Aspenaz",
+      "Nabuzaradán",
+      "Darío"
+    ],
+    "answer": 0,
+    "reference": "Daniel 2:14",
+    "explanation": "El pasaje indica: Arioc.",
+    "source": "https://www.biblegateway.com/passage/?search=Daniel%202%3A14&version=RVR1960"
+  },
+  {
+    "id": "Daniel-5",
+    "topic": "Daniel",
+    "difficulty": "Avanzada",
+    "question": "¿Qué pidió Daniel a sus compañeros antes de recibir la revelación del sueño?",
+    "options": [
+      "Que pidieran misericordia a Dios acerca del misterio",
+      "Que huyeran de Babilonia",
+      "Que consultaran a los astrólogos",
+      "Que reunieran oro para el rey"
+    ],
+    "answer": 0,
+    "reference": "Daniel 2:17–18",
+    "explanation": "El pasaje indica: Que pidieran misericordia a Dios acerca del misterio.",
+    "source": "https://www.biblegateway.com/passage/?search=Daniel%202%3A17%E2%80%9318&version=RVR1960"
+  },
+  {
+    "id": "Daniel-6",
+    "topic": "Daniel",
+    "difficulty": "Avanzada",
+    "question": "¿Cómo recibió Daniel la revelación del misterio del sueño?",
+    "options": [
+      "En una visión de noche",
+      "En una inscripción sobre una pared",
+      "En un mensaje de Arioc",
+      "Al examinar las estrellas"
+    ],
+    "answer": 0,
+    "reference": "Daniel 2:19",
+    "explanation": "El pasaje indica: En una visión de noche.",
+    "source": "https://www.biblegateway.com/passage/?search=Daniel%202%3A19&version=RVR1960"
+  },
+  {
+    "id": "Daniel-7",
+    "topic": "Daniel",
+    "difficulty": "Avanzada",
+    "question": "¿Qué representaba la cabeza de oro de la estatua en la explicación de Daniel?",
+    "options": [
+      "Nabucodonosor y su reino",
+      "El imperio romano exclusivamente",
+      "Los sacerdotes de Jerusalén",
+      "El reino de Darío exclusivamente"
+    ],
+    "answer": 0,
+    "reference": "Daniel 2:37–38",
+    "explanation": "El pasaje indica: Nabucodonosor y su reino.",
+    "source": "https://www.biblegateway.com/passage/?search=Daniel%202%3A37%E2%80%9338&version=RVR1960"
+  },
+  {
+    "id": "Daniel-8",
+    "topic": "Daniel",
+    "difficulty": "Avanzada",
+    "question": "¿Qué derribó la estatua del sueño?",
+    "options": [
+      "Una piedra cortada sin intervención de manos",
+      "Una espada sostenida por un ángel",
+      "Un río salido del templo",
+      "El fuego del horno"
+    ],
+    "answer": 0,
+    "reference": "Daniel 2:34–35",
+    "explanation": "El pasaje indica: Una piedra cortada sin intervención de manos.",
+    "source": "https://www.biblegateway.com/passage/?search=Daniel%202%3A34%E2%80%9335&version=RVR1960"
+  },
+  {
+    "id": "Daniel-9",
+    "topic": "Daniel",
+    "difficulty": "Avanzada",
+    "question": "¿Cuántas veces al día oraba Daniel cuando se promulgó el decreto?",
+    "options": [
+      "Tres",
+      "Dos",
+      "Siete",
+      "Una"
+    ],
+    "answer": 0,
+    "reference": "Daniel 6:10",
+    "explanation": "El pasaje indica: Tres.",
+    "source": "https://www.biblegateway.com/passage/?search=Daniel%206%3A10&version=RVR1960"
+  },
+  {
+    "id": "Daniel-10",
+    "topic": "Daniel",
+    "difficulty": "Avanzada",
+    "question": "¿Hacia dónde estaban abiertas las ventanas cuando Daniel oraba?",
+    "options": [
+      "Hacia Jerusalén",
+      "Hacia el palacio",
+      "Hacia el río Éufrates",
+      "Hacia el desierto"
+    ],
+    "answer": 0,
+    "reference": "Daniel 6:10",
+    "explanation": "El pasaje indica: Hacia Jerusalén.",
+    "source": "https://www.biblegateway.com/passage/?search=Daniel%206%3A10&version=RVR1960"
+  },
+  {
+    "id": "Daniel-11",
+    "topic": "Daniel",
+    "difficulty": "Avanzada",
+    "question": "¿Qué encontró el rey como causa de que Daniel no sufriera daño entre los leones?",
+    "options": [
+      "Daniel había confiado en su Dios",
+      "Los leones estaban dormidos por una droga",
+      "Los guardias le habían dado armas",
+      "El foso no contenía animales"
+    ],
+    "answer": 0,
+    "reference": "Daniel 6:23",
+    "explanation": "El pasaje indica: Daniel había confiado en su Dios.",
+    "source": "https://www.biblegateway.com/passage/?search=Daniel%206%3A23&version=RVR1960"
+  },
+  {
+    "id": "Daniel-12",
+    "topic": "Daniel",
+    "difficulty": "Avanzada",
+    "question": "¿Cuántos días transcurrieron antes de que el mensajero de Daniel 10 llegara, según su explicación?",
+    "options": [
+      "Veintiún días",
+      "Diez días",
+      "Cuarenta días",
+      "Setenta días"
+    ],
+    "answer": 0,
+    "reference": "Daniel 10:12–13",
+    "explanation": "El pasaje indica: Veintiún días.",
+    "source": "https://www.biblegateway.com/passage/?search=Daniel%2010%3A12%E2%80%9313&version=RVR1960"
+  },
+  {
+    "id": "Daniel-13",
+    "topic": "Daniel",
+    "difficulty": "Avanzada",
+    "question": "¿Qué escritos estudiaba Daniel al comprender el período de setenta años?",
+    "options": [
+      "Los del profeta Jeremías",
+      "Los del profeta Jonás",
+      "Los de Moisés sobre el diluvio",
+      "Los del rey Darío"
+    ],
+    "answer": 0,
+    "reference": "Daniel 9:2",
+    "explanation": "El pasaje indica: Los del profeta Jeremías.",
+    "source": "https://www.biblegateway.com/passage/?search=Daniel%209%3A2&version=RVR1960"
+  },
+  {
+    "id": "Pablo-1",
+    "topic": "Pablo",
+    "difficulty": "Avanzada",
+    "question": "¿A los pies de qué maestro fue instruido Pablo?",
+    "options": [
+      "Gamaliel",
+      "Nicodemo",
+      "Anás",
+      "Apolos"
+    ],
+    "answer": 0,
+    "reference": "Hechos 22:3",
+    "explanation": "El pasaje indica: Gamaliel.",
+    "source": "https://www.biblegateway.com/passage/?search=Hechos%2022%3A3&version=RVR1960"
+  },
+  {
+    "id": "Pablo-2",
+    "topic": "Pablo",
+    "difficulty": "Avanzada",
+    "question": "¿Qué oficio compartía Pablo con Aquila y Priscila?",
+    "options": [
+      "Hacer tiendas",
+      "Fabricar ídolos de plata",
+      "Trabajar como médico",
+      "Vender púrpura"
+    ],
+    "answer": 0,
+    "reference": "Hechos 18:3",
+    "explanation": "El pasaje indica: Hacer tiendas.",
+    "source": "https://www.biblegateway.com/passage/?search=Hechos%2018%3A3&version=RVR1960"
+  },
+  {
+    "id": "Pablo-3",
+    "topic": "Pablo",
+    "difficulty": "Avanzada",
+    "question": "¿En qué ciudad encontró Pablo un altar dedicado al dios no conocido?",
+    "options": [
+      "Atenas",
+      "Corinto",
+      "Éfeso",
+      "Filipos"
+    ],
+    "answer": 0,
+    "reference": "Hechos 17:22–23",
+    "explanation": "El pasaje indica: Atenas.",
+    "source": "https://www.biblegateway.com/passage/?search=Hechos%2017%3A22%E2%80%9323&version=RVR1960"
+  },
+  {
+    "id": "Pablo-4",
+    "topic": "Pablo",
+    "difficulty": "Avanzada",
+    "question": "¿Quién era el procónsul que escuchó a Pablo en Chipre?",
+    "options": [
+      "Sergio Paulo",
+      "Galión",
+      "Félix",
+      "Festo"
+    ],
+    "answer": 0,
+    "reference": "Hechos 13:7",
+    "explanation": "El pasaje indica: Sergio Paulo.",
+    "source": "https://www.biblegateway.com/passage/?search=Hechos%2013%3A7&version=RVR1960"
+  },
+  {
+    "id": "Pablo-5",
+    "topic": "Pablo",
+    "difficulty": "Avanzada",
+    "question": "¿Qué nombre tenía el mago que se oponía a Pablo ante el procónsul?",
+    "options": [
+      "Elimas",
+      "Simón Pedro",
+      "Demetrio",
+      "Tíquico"
+    ],
+    "answer": 0,
+    "reference": "Hechos 13:8",
+    "explanation": "El pasaje indica: Elimas.",
+    "source": "https://www.biblegateway.com/passage/?search=Hechos%2013%3A8&version=RVR1960"
+  },
+  {
+    "id": "Pablo-6",
+    "topic": "Pablo",
+    "difficulty": "Avanzada",
+    "question": "¿Qué oficio tenía Demetrio, quien provocó oposición contra Pablo en Éfeso?",
+    "options": [
+      "Platero",
+      "Carcelero",
+      "Fabricante de tiendas",
+      "Escriba"
+    ],
+    "answer": 0,
+    "reference": "Hechos 19:24",
+    "explanation": "El pasaje indica: Platero.",
+    "source": "https://www.biblegateway.com/passage/?search=Hechos%2019%3A24&version=RVR1960"
+  },
+  {
+    "id": "Pablo-7",
+    "topic": "Pablo",
+    "difficulty": "Avanzada",
+    "question": "¿En qué ciudad fueron encarcelados juntos Pablo y Silas tras liberar a una muchacha?",
+    "options": [
+      "Filipos",
+      "Berea",
+      "Atenas",
+      "Tarso"
+    ],
+    "answer": 0,
+    "reference": "Hechos 16:12–24",
+    "explanation": "El pasaje indica: Filipos.",
+    "source": "https://www.biblegateway.com/passage/?search=Hechos%2016%3A12%E2%80%9324&version=RVR1960"
+  },
+  {
+    "id": "Pablo-8",
+    "topic": "Pablo",
+    "difficulty": "Avanzada",
+    "question": "¿Qué hacían Pablo y Silas a medianoche en la cárcel?",
+    "options": [
+      "Oraban y cantaban himnos",
+      "Discutían con el procónsul",
+      "Dormían junto a la puerta abierta",
+      "Preparaban una fuga con armas"
+    ],
+    "answer": 0,
+    "reference": "Hechos 16:25",
+    "explanation": "El pasaje indica: Oraban y cantaban himnos.",
+    "source": "https://www.biblegateway.com/passage/?search=Hechos%2016%3A25&version=RVR1960"
+  },
+  {
+    "id": "Pablo-9",
+    "topic": "Pablo",
+    "difficulty": "Avanzada",
+    "question": "¿Qué derecho invocó Pablo para evitar ser azotado sin condena?",
+    "options": [
+      "Su ciudadanía romana",
+      "Su cargo de sumo sacerdote",
+      "Su parentesco con César",
+      "Su oficio de fabricante de tiendas"
+    ],
+    "answer": 0,
+    "reference": "Hechos 22:25",
+    "explanation": "El pasaje indica: Su ciudadanía romana.",
+    "source": "https://www.biblegateway.com/passage/?search=Hechos%2022%3A25&version=RVR1960"
+  },
+  {
+    "id": "Pablo-10",
+    "topic": "Pablo",
+    "difficulty": "Avanzada",
+    "question": "¿En qué isla supieron que estaban después del naufragio?",
+    "options": [
+      "Malta",
+      "Creta",
+      "Patmos",
+      "Chipre"
+    ],
+    "answer": 0,
+    "reference": "Hechos 28:1",
+    "explanation": "El pasaje indica: Malta.",
+    "source": "https://www.biblegateway.com/passage/?search=Hechos%2028%3A1&version=RVR1960"
+  },
+  {
+    "id": "Pablo-11",
+    "topic": "Pablo",
+    "difficulty": "Avanzada",
+    "question": "¿Qué joven cayó de una ventana durante una larga enseñanza de Pablo?",
+    "options": [
+      "Eutico",
+      "Trófimo",
+      "Onésimo",
+      "Tito"
+    ],
+    "answer": 0,
+    "reference": "Hechos 20:9",
+    "explanation": "El pasaje indica: Eutico.",
+    "source": "https://www.biblegateway.com/passage/?search=Hechos%2020%3A9&version=RVR1960"
+  },
+  {
+    "id": "Pablo-12",
+    "topic": "Pablo",
+    "difficulty": "Avanzada",
+    "question": "¿Dónde dejó Pablo a Trófimo enfermo, según la carta de Pablo?",
+    "options": [
+      "Mileto",
+      "Troas",
+      "Corinto",
+      "Tesalónica"
+    ],
+    "answer": 0,
+    "reference": "2 Timoteo 4:20",
+    "explanation": "El pasaje indica: Mileto.",
+    "source": "https://www.biblegateway.com/passage/?search=2%20Timoteo%204%3A20&version=RVR1960"
+  },
+  {
+    "id": "Pablo-13",
+    "topic": "Pablo",
+    "difficulty": "Avanzada",
+    "question": "¿Qué respuesta recibió Pablo al pedir que le fuera quitado el aguijón?",
+    "options": [
+      "Que la gracia era suficiente y el poder se perfecciona en la debilidad",
+      "Que nunca volvería a sufrir",
+      "Que debía abandonar su ministerio",
+      "Que se hiciera rico para ser sanado"
+    ],
+    "answer": 0,
+    "reference": "2 Corintios 12:8–9",
+    "explanation": "El pasaje indica: Que la gracia era suficiente y el poder se perfecciona en la debilidad.",
+    "source": "https://www.biblegateway.com/passage/?search=2%20Corintios%2012%3A8%E2%80%939&version=RVR1960"
+  },
+  {
+    "id": "jesus-accesible-0",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Dónde nació Jesús?",
+    "options": [
+      "Belén",
+      "Nazaret",
+      "Roma",
+      "Jericó"
+    ],
+    "answer": 0,
+    "reference": "Mateo 2:1",
+    "explanation": "El relato enseña: Belén.",
+    "source": "https://www.biblegateway.com/passage/?search=Mateo%202%3A1&version=RVR1960"
+  },
+  {
+    "id": "jesus-accesible-1",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Cómo se llamaba la madre de Jesús?",
+    "options": [
+      "María",
+      "Marta",
+      "Elisabet",
+      "Ana"
+    ],
+    "answer": 0,
+    "reference": "Lucas 1:30–31",
+    "explanation": "El relato enseña: María.",
+    "source": "https://www.biblegateway.com/passage/?search=Lucas%201%3A30%E2%80%9331&version=RVR1960"
+  },
+  {
+    "id": "jesus-accesible-2",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Quién bautizó a Jesús?",
+    "options": [
+      "Juan el Bautista",
+      "Pedro",
+      "Moisés",
+      "Pablo"
+    ],
+    "answer": 0,
+    "reference": "Mateo 3:13–16",
+    "explanation": "El relato enseña: Juan el Bautista.",
+    "source": "https://www.biblegateway.com/passage/?search=Mateo%203%3A13%E2%80%9316&version=RVR1960"
+  },
+  {
+    "id": "jesus-accesible-3",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿En qué río fue bautizado Jesús?",
+    "options": [
+      "Jordán",
+      "Nilo",
+      "Éufrates",
+      "Tigris"
+    ],
+    "answer": 0,
+    "reference": "Mateo 3:13",
+    "explanation": "El relato enseña: Jordán.",
+    "source": "https://www.biblegateway.com/passage/?search=Mateo%203%3A13&version=RVR1960"
+  },
+  {
+    "id": "jesus-accesible-4",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Qué transformó Jesús en vino en Caná?",
+    "options": [
+      "Agua",
+      "Aceite",
+      "Leche",
+      "Miel"
+    ],
+    "answer": 0,
+    "reference": "Juan 2:7–9",
+    "explanation": "El relato enseña: Agua.",
+    "source": "https://www.biblegateway.com/passage/?search=Juan%202%3A7%E2%80%939&version=RVR1960"
+  },
+  {
+    "id": "jesus-accesible-5",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Cuántos apóstoles escogió Jesús?",
+    "options": [
+      "Doce",
+      "Siete",
+      "Diez",
+      "Veinte"
+    ],
+    "answer": 0,
+    "reference": "Lucas 6:13",
+    "explanation": "El relato enseña: Doce.",
+    "source": "https://www.biblegateway.com/passage/?search=Lucas%206%3A13&version=RVR1960"
+  },
+  {
+    "id": "jesus-accesible-6",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Qué oficio tenían Pedro y Andrés cuando Jesús los llamó?",
+    "options": [
+      "Pescadores",
+      "Médicos",
+      "Carpinteros",
+      "Soldados"
+    ],
+    "answer": 0,
+    "reference": "Mateo 4:18–19",
+    "explanation": "El relato enseña: Pescadores.",
+    "source": "https://www.biblegateway.com/passage/?search=Mateo%204%3A18%E2%80%9319&version=RVR1960"
+  },
+  {
+    "id": "jesus-accesible-7",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Qué hizo Jesús durante una gran tempestad en el mar?",
+    "options": [
+      "Calmó el viento y el mar",
+      "Abandonó a sus discípulos",
+      "Construyó otro barco",
+      "Ordenó regresar nadando"
+    ],
+    "answer": 0,
+    "reference": "Marcos 4:39",
+    "explanation": "El relato enseña: Calmó el viento y el mar.",
+    "source": "https://www.biblegateway.com/passage/?search=Marcos%204%3A39&version=RVR1960"
+  },
+  {
+    "id": "jesus-accesible-8",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Con cuántos panes y peces alimentó Jesús a cinco mil hombres?",
+    "options": [
+      "Cinco panes y dos peces",
+      "Dos panes y cinco peces",
+      "Siete panes y un pez",
+      "Doce panes y tres peces"
+    ],
+    "answer": 0,
+    "reference": "Mateo 14:17–21",
+    "explanation": "El relato enseña: Cinco panes y dos peces.",
+    "source": "https://www.biblegateway.com/passage/?search=Mateo%2014%3A17%E2%80%9321&version=RVR1960"
+  },
+  {
+    "id": "jesus-accesible-9",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Quién se subió a un árbol para poder ver a Jesús?",
+    "options": [
+      "Zaqueo",
+      "Pilato",
+      "Herodes",
+      "Tomás"
+    ],
+    "answer": 0,
+    "reference": "Lucas 19:2–4",
+    "explanation": "El relato enseña: Zaqueo.",
+    "source": "https://www.biblegateway.com/passage/?search=Lucas%2019%3A2%E2%80%934&version=RVR1960"
+  },
+  {
+    "id": "jesus-accesible-10",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Cómo se llamaba el amigo de Jesús que salió del sepulcro al ser llamado?",
+    "options": [
+      "Lázaro",
+      "Bartimeo",
+      "José",
+      "Nicodemo"
+    ],
+    "answer": 0,
+    "reference": "Juan 11:43–44",
+    "explanation": "El relato enseña: Lázaro.",
+    "source": "https://www.biblegateway.com/passage/?search=Juan%2011%3A43%E2%80%9344&version=RVR1960"
+  },
+  {
+    "id": "jesus-accesible-11",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Qué enseñó Jesús acerca de los enemigos?",
+    "options": [
+      "Que debemos amarlos y orar por quienes nos persiguen",
+      "Que debemos vengarnos siempre",
+      "Que no debemos perdonarles nunca",
+      "Que debemos imitarlos"
+    ],
+    "answer": 0,
+    "reference": "Mateo 5:44",
+    "explanation": "El relato enseña: Que debemos amarlos y orar por quienes nos persiguen.",
+    "source": "https://www.biblegateway.com/passage/?search=Mateo%205%3A44&version=RVR1960"
+  },
+  {
+    "id": "jesus-accesible-12",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Qué oración enseñó Jesús a sus discípulos?",
+    "options": [
+      "El Padre nuestro",
+      "La oración de Jonás en el pez",
+      "El cántico de Moisés",
+      "La oración de Jabes"
+    ],
+    "answer": 0,
+    "reference": "Mateo 6:9–13",
+    "explanation": "El relato enseña: El Padre nuestro.",
+    "source": "https://www.biblegateway.com/passage/?search=Mateo%206%3A9%E2%80%9313&version=RVR1960"
+  },
+  {
+    "id": "jesus-accesible-13",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Quién negó conocer a Jesús tres veces?",
+    "options": [
+      "Pedro",
+      "Andrés",
+      "Felipe",
+      "Natanael"
+    ],
+    "answer": 0,
+    "reference": "Mateo 26:69–75",
+    "explanation": "El relato enseña: Pedro.",
+    "source": "https://www.biblegateway.com/passage/?search=Mateo%2026%3A69%E2%80%9375&version=RVR1960"
+  },
+  {
+    "id": "jesus-accesible-14",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Qué discípulo entregó a Jesús?",
+    "options": [
+      "Judas Iscariote",
+      "Juan",
+      "Jacobo",
+      "Tomás"
+    ],
+    "answer": 0,
+    "reference": "Mateo 26:14–16",
+    "explanation": "El relato enseña: Judas Iscariote.",
+    "source": "https://www.biblegateway.com/passage/?search=Mateo%2026%3A14%E2%80%9316&version=RVR1960"
+  },
+  {
+    "id": "jesus-accesible-15",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Qué hizo Jesús con los pies de sus discípulos?",
+    "options": [
+      "Los lavó para dar ejemplo de servicio",
+      "Les puso sandalias de oro",
+      "Los cubrió con ceniza",
+      "Les prohibió caminar"
+    ],
+    "answer": 0,
+    "reference": "Juan 13:5, 14–15",
+    "explanation": "El relato enseña: Los lavó para dar ejemplo de servicio.",
+    "source": "https://www.biblegateway.com/passage/?search=Juan%2013%3A5%2C%2014%E2%80%9315&version=RVR1960"
+  },
+  {
+    "id": "jesus-accesible-16",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Qué llevaba el buen samaritano de la parábola para cuidar las heridas?",
+    "options": [
+      "Aceite y vino",
+      "Arena y sal",
+      "Hojas secas y carbón",
+      "Harina y agua de mar"
+    ],
+    "answer": 0,
+    "reference": "Lucas 10:34",
+    "explanation": "El relato enseña: Aceite y vino.",
+    "source": "https://www.biblegateway.com/passage/?search=Lucas%2010%3A34&version=RVR1960"
+  },
+  {
+    "id": "jesus-accesible-17",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Qué hizo el padre de la parábola cuando regresó su hijo perdido?",
+    "options": [
+      "Corrió a recibirlo y lo abrazó",
+      "Le cerró la puerta",
+      "Lo entregó a los soldados",
+      "Se fue de la casa"
+    ],
+    "answer": 0,
+    "reference": "Lucas 15:20",
+    "explanation": "El relato enseña: Corrió a recibirlo y lo abrazó.",
+    "source": "https://www.biblegateway.com/passage/?search=Lucas%2015%3A20&version=RVR1960"
+  },
+  {
+    "id": "jesus-accesible-18",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Dónde oró Jesús antes de ser arrestado?",
+    "options": [
+      "Getsemaní",
+      "El palacio de Herodes",
+      "La torre de Babel",
+      "El monte Carmelo"
+    ],
+    "answer": 0,
+    "reference": "Mateo 26:36",
+    "explanation": "El relato enseña: Getsemaní.",
+    "source": "https://www.biblegateway.com/passage/?search=Mateo%2026%3A36&version=RVR1960"
+  },
+  {
+    "id": "jesus-accesible-19",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Qué pidió Jesús respecto a los niños que se acercaban?",
+    "options": [
+      "Que los dejaran venir a él",
+      "Que solo vinieran los adultos",
+      "Que esperaran hasta ser mayores",
+      "Que regresaran al día siguiente"
+    ],
+    "answer": 0,
+    "reference": "Marcos 10:14",
+    "explanation": "El relato enseña: Que los dejaran venir a él.",
+    "source": "https://www.biblegateway.com/passage/?search=Marcos%2010%3A14&version=RVR1960"
+  },
+  {
+    "id": "jesus-accesible-20",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Qué animal montó Jesús al entrar en Jerusalén, según Juan?",
+    "options": [
+      "Un asnillo",
+      "Un caballo de guerra",
+      "Un camello",
+      "Un buey"
+    ],
+    "answer": 0,
+    "reference": "Juan 12:14–15",
+    "explanation": "El relato enseña: Un asnillo.",
+    "source": "https://www.biblegateway.com/passage/?search=Juan%2012%3A14%E2%80%9315&version=RVR1960"
+  },
+  {
+    "id": "jesus-accesible-21",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Quién pidió el cuerpo de Jesús para sepultarlo?",
+    "options": [
+      "José de Arimatea",
+      "Zaqueo",
+      "Herodes",
+      "Bartimeo"
+    ],
+    "answer": 0,
+    "reference": "Mateo 27:57–60",
+    "explanation": "El relato enseña: José de Arimatea.",
+    "source": "https://www.biblegateway.com/passage/?search=Mateo%2027%3A57%E2%80%9360&version=RVR1960"
+  },
+  {
+    "id": "jesus-accesible-22",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Qué encontraron las mujeres al llegar al sepulcro en Lucas 24?",
+    "options": [
+      "La piedra removida y el cuerpo de Jesús ausente",
+      "A Jesús todavía envuelto en el sepulcro",
+      "Un barco junto a la entrada",
+      "El sepulcro lleno de agua"
+    ],
+    "answer": 0,
+    "reference": "Lucas 24:2–3",
+    "explanation": "El relato enseña: La piedra removida y el cuerpo de Jesús ausente.",
+    "source": "https://www.biblegateway.com/passage/?search=Lucas%2024%3A2%E2%80%933&version=RVR1960"
+  },
+  {
+    "id": "jesus-accesible-23",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Qué discípulo quiso ver las marcas de los clavos para creer que Jesús había resucitado?",
+    "options": [
+      "Tomás",
+      "Felipe",
+      "Andrés",
+      "Mateo"
+    ],
+    "answer": 0,
+    "reference": "Juan 20:24–25",
+    "explanation": "El relato enseña: Tomás.",
+    "source": "https://www.biblegateway.com/passage/?search=Juan%2020%3A24%E2%80%9325&version=RVR1960"
+  },
+  {
+    "id": "jesus-accesible-24",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Qué mandó Jesús en Mateo 28:19?",
+    "options": [
+      "Hacer discípulos de todas las naciones",
+      "Guardar silencio para siempre",
+      "Construir un palacio en Roma",
+      "Formar un ejército"
+    ],
+    "answer": 0,
+    "reference": "Mateo 28:19",
+    "explanation": "El relato enseña: Hacer discípulos de todas las naciones.",
+    "source": "https://www.biblegateway.com/passage/?search=Mateo%2028%3A19&version=RVR1960"
+  },
+  {
+    "id": "jesus-accesible-25",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Con qué comparó Jesús a quien oye sus palabras y las hace?",
+    "options": [
+      "Con alguien que construye su casa sobre la roca",
+      "Con alguien que construye sobre arena",
+      "Con un barco sin timón",
+      "Con una lámpara apagada"
+    ],
+    "answer": 0,
+    "reference": "Mateo 7:24",
+    "explanation": "El relato enseña: Con alguien que construye su casa sobre la roca.",
+    "source": "https://www.biblegateway.com/passage/?search=Mateo%207%3A24&version=RVR1960"
+  },
+  {
+    "id": "Adán y Eva-ampliacion-0",
+    "topic": "Adán y Eva",
+    "difficulty": "Avanzada",
+    "question": "¿Qué puso Dios en el hombre formado del polvo para darle vida?",
+    "options": [
+      "Aliento de vida",
+      "Aceite del altar",
+      "Agua del río",
+      "Fuego del cielo"
+    ],
+    "answer": 0,
+    "reference": "Génesis 2:7",
+    "explanation": "El pasaje relata: Aliento de vida.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%202%3A7&version=RVR1960"
+  },
+  {
+    "id": "Adán y Eva-ampliacion-1",
+    "topic": "Adán y Eva",
+    "difficulty": "Avanzada",
+    "question": "¿Qué hizo Dios con Adán antes de formar a la mujer de su costilla?",
+    "options": [
+      "Lo hizo caer en un sueño profundo",
+      "Lo envió fuera del huerto",
+      "Lo llevó a Egipto",
+      "Le ordenó ayunar"
+    ],
+    "answer": 0,
+    "reference": "Génesis 2:21",
+    "explanation": "El pasaje relata: Lo hizo caer en un sueño profundo.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%202%3A21&version=RVR1960"
+  },
+  {
+    "id": "Adán y Eva-ampliacion-2",
+    "topic": "Adán y Eva",
+    "difficulty": "Avanzada",
+    "question": "¿Qué tarea realizó Adán con los animales que Dios llevó ante él?",
+    "options": [
+      "Les puso nombre",
+      "Construyó un arca para ellos",
+      "Los dividió en doce tribus",
+      "Los llevó a un altar"
+    ],
+    "answer": 0,
+    "reference": "Génesis 2:19–20",
+    "explanation": "El pasaje relata: Les puso nombre.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%202%3A19%E2%80%9320&version=RVR1960"
+  },
+  {
+    "id": "Adán y Eva-ampliacion-3",
+    "topic": "Adán y Eva",
+    "difficulty": "Avanzada",
+    "question": "¿Cuál de estas instrucciones corresponde al matrimonio en Génesis 2:24?",
+    "options": [
+      "Dejar padre y madre y unirse a la esposa",
+      "Permanecer separados toda la vida",
+      "Abandonar la tierra prometida",
+      "Vivir sin ninguna responsabilidad"
+    ],
+    "answer": 0,
+    "reference": "Génesis 2:24",
+    "explanation": "El pasaje relata: Dejar padre y madre y unirse a la esposa.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%202%3A24&version=RVR1960"
+  },
+  {
+    "id": "Adán y Eva-ampliacion-4",
+    "topic": "Adán y Eva",
+    "difficulty": "Avanzada",
+    "question": "¿Qué árbol no debían comer según la prohibición dada al hombre?",
+    "options": [
+      "El de la ciencia del bien y del mal",
+      "Todos los árboles frutales",
+      "La higuera únicamente",
+      "El olivo del huerto"
+    ],
+    "answer": 0,
+    "reference": "Génesis 2:16–17",
+    "explanation": "El pasaje relata: El de la ciencia del bien y del mal.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%202%3A16%E2%80%9317&version=RVR1960"
+  },
+  {
+    "id": "Adán y Eva-ampliacion-5",
+    "topic": "Adán y Eva",
+    "difficulty": "Avanzada",
+    "question": "¿Cómo respondió Adán cuando Dios preguntó si había comido del árbol prohibido?",
+    "options": [
+      "Señaló que la mujer le había dado del árbol",
+      "Dijo que lo había obligado Caín",
+      "Afirmó que no existía ningún árbol",
+      "Dijo que había salido de Edén antes"
+    ],
+    "answer": 0,
+    "reference": "Génesis 3:12",
+    "explanation": "El pasaje relata: Señaló que la mujer le había dado del árbol.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%203%3A12&version=RVR1960"
+  },
+  {
+    "id": "Adán y Eva-ampliacion-6",
+    "topic": "Adán y Eva",
+    "difficulty": "Avanzada",
+    "question": "¿Cuántos años vivió Adán según Génesis 5?",
+    "options": [
+      "930 años",
+      "969 años",
+      "777 años",
+      "120 años"
+    ],
+    "answer": 0,
+    "reference": "Génesis 5:5",
+    "explanation": "El pasaje relata: 930 años.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%205%3A5&version=RVR1960"
+  },
+  {
+    "id": "Abraham-ampliacion-0",
+    "topic": "Abraham",
+    "difficulty": "Avanzada",
+    "question": "¿Qué edad tenía Abram cuando nació Ismael?",
+    "options": [
+      "86 años",
+      "75 años",
+      "99 años",
+      "100 años"
+    ],
+    "answer": 0,
+    "reference": "Génesis 16:16",
+    "explanation": "El pasaje relata: 86 años.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%2016%3A16&version=RVR1960"
+  },
+  {
+    "id": "Abraham-ampliacion-1",
+    "topic": "Abraham",
+    "difficulty": "Avanzada",
+    "question": "¿Qué edad tenía Abraham cuando fue circuncidado?",
+    "options": [
+      "99 años",
+      "86 años",
+      "75 años",
+      "110 años"
+    ],
+    "answer": 0,
+    "reference": "Génesis 17:24",
+    "explanation": "El pasaje relata: 99 años.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%2017%3A24&version=RVR1960"
+  },
+  {
+    "id": "Abraham-ampliacion-2",
+    "topic": "Abraham",
+    "difficulty": "Avanzada",
+    "question": "¿Qué sustituyó a Isaac en el sacrificio?",
+    "options": [
+      "Un carnero trabado por los cuernos",
+      "Un becerro traído de Egipto",
+      "Una cabra enviada por Lot",
+      "Un cordero comprado en Jerusalén"
+    ],
+    "answer": 0,
+    "reference": "Génesis 22:13",
+    "explanation": "El pasaje relata: Un carnero trabado por los cuernos.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%2022%3A13&version=RVR1960"
+  },
+  {
+    "id": "Abraham-ampliacion-3",
+    "topic": "Abraham",
+    "difficulty": "Avanzada",
+    "question": "¿Qué territorio escogió Lot cuando se separó de Abram?",
+    "options": [
+      "La llanura del Jordán",
+      "Las montañas de Moriah",
+      "La tierra de Gosén",
+      "La región de Nínive"
+    ],
+    "answer": 0,
+    "reference": "Génesis 13:10–11",
+    "explanation": "El pasaje relata: La llanura del Jordán.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%2013%3A10%E2%80%9311&version=RVR1960"
+  },
+  {
+    "id": "Abraham-ampliacion-4",
+    "topic": "Abraham",
+    "difficulty": "Avanzada",
+    "question": "¿Qué parentesco alegó Abraham con Sara ante Abimelec?",
+    "options": [
+      "Que era su hermana",
+      "Que era su hija",
+      "Que era su sobrina",
+      "Que era su madre"
+    ],
+    "answer": 0,
+    "reference": "Génesis 20:2",
+    "explanation": "El pasaje relata: Que era su hermana.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%2020%3A2&version=RVR1960"
+  },
+  {
+    "id": "Abraham-ampliacion-5",
+    "topic": "Abraham",
+    "difficulty": "Avanzada",
+    "question": "¿Cuántos siclos de plata pagó Abraham por la propiedad de Efrón?",
+    "options": [
+      "400",
+      "300",
+      "50",
+      "1000"
+    ],
+    "answer": 0,
+    "reference": "Génesis 23:16",
+    "explanation": "El pasaje relata: 400.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%2023%3A16&version=RVR1960"
+  },
+  {
+    "id": "Abraham-ampliacion-6",
+    "topic": "Abraham",
+    "difficulty": "Avanzada",
+    "question": "¿Quiénes sepultaron a Abraham?",
+    "options": [
+      "Isaac e Ismael",
+      "Jacob y Esaú",
+      "Moisés y Aarón",
+      "Lot y Melquisedec"
+    ],
+    "answer": 0,
+    "reference": "Génesis 25:9",
+    "explanation": "El pasaje relata: Isaac e Ismael.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%2025%3A9&version=RVR1960"
+  },
+  {
+    "id": "Jonás-ampliacion-0",
+    "topic": "Jonás",
+    "difficulty": "Avanzada",
+    "question": "¿Qué arrojaron primero al mar los marineros durante la tormenta?",
+    "options": [
+      "Los enseres de la nave",
+      "El pez que habían pescado",
+      "Al capitán",
+      "Las anclas únicamente"
+    ],
+    "answer": 0,
+    "reference": "Jonás 1:5",
+    "explanation": "El pasaje relata: Los enseres de la nave.",
+    "source": "https://www.biblegateway.com/passage/?search=Jon%C3%A1s%201%3A5&version=RVR1960"
+  },
+  {
+    "id": "Jonás-ampliacion-1",
+    "topic": "Jonás",
+    "difficulty": "Avanzada",
+    "question": "¿Cómo se identificó Jonás ante los marineros?",
+    "options": [
+      "Como hebreo que temía a Jehová, creador del mar y la tierra",
+      "Como rey de Nínive",
+      "Como sacerdote de Baal",
+      "Como soldado de Tarsis"
+    ],
+    "answer": 0,
+    "reference": "Jonás 1:9",
+    "explanation": "El pasaje relata: Como hebreo que temía a Jehová, creador del mar y la tierra.",
+    "source": "https://www.biblegateway.com/passage/?search=Jon%C3%A1s%201%3A9&version=RVR1960"
+  },
+  {
+    "id": "Jonás-ampliacion-2",
+    "topic": "Jonás",
+    "difficulty": "Avanzada",
+    "question": "¿Cuánto tiempo permaneció Jonás en el pez?",
+    "options": [
+      "Tres días y tres noches",
+      "Siete días y siete noches",
+      "Cuarenta días",
+      "Una noche"
+    ],
+    "answer": 0,
+    "reference": "Jonás 1:17",
+    "explanation": "El pasaje relata: Tres días y tres noches.",
+    "source": "https://www.biblegateway.com/passage/?search=Jon%C3%A1s%201%3A17&version=RVR1960"
+  },
+  {
+    "id": "Jonás-ampliacion-3",
+    "topic": "Jonás",
+    "difficulty": "Avanzada",
+    "question": "¿Qué hizo el pez después de recibir la orden de Dios?",
+    "options": [
+      "Vomitó a Jonás en tierra",
+      "Lo llevó directamente al palacio",
+      "Regresó a Jope con la nave",
+      "Se convirtió en una isla"
+    ],
+    "answer": 0,
+    "reference": "Jonás 2:10",
+    "explanation": "El pasaje relata: Vomitó a Jonás en tierra.",
+    "source": "https://www.biblegateway.com/passage/?search=Jon%C3%A1s%202%3A10&version=RVR1960"
+  },
+  {
+    "id": "Jonás-ampliacion-4",
+    "topic": "Jonás",
+    "difficulty": "Avanzada",
+    "question": "¿Cuántas veces había recibido Jonás el llamado a Nínive al comenzar el capítulo 3?",
+    "options": [
+      "Dos",
+      "Una",
+      "Tres",
+      "Siete"
+    ],
+    "answer": 0,
+    "reference": "Jonás 3:1–2",
+    "explanation": "El pasaje relata: Dos.",
+    "source": "https://www.biblegateway.com/passage/?search=Jon%C3%A1s%203%3A1%E2%80%932&version=RVR1960"
+  },
+  {
+    "id": "Jonás-ampliacion-5",
+    "topic": "Jonás",
+    "difficulty": "Avanzada",
+    "question": "¿Qué orden del decreto de Nínive alcanzó también a los animales?",
+    "options": [
+      "Que no comieran ni bebieran y fueran cubiertos de cilicio",
+      "Que fueran enviados a Tarsis",
+      "Que fueran vendidos al capitán",
+      "Que recibieran coronas"
+    ],
+    "answer": 0,
+    "reference": "Jonás 3:7–8",
+    "explanation": "El pasaje relata: Que no comieran ni bebieran y fueran cubiertos de cilicio.",
+    "source": "https://www.biblegateway.com/passage/?search=Jon%C3%A1s%203%3A7%E2%80%938&version=RVR1960"
+  },
+  {
+    "id": "Jonás-ampliacion-6",
+    "topic": "Jonás",
+    "difficulty": "Avanzada",
+    "question": "¿Hacia qué lado de la ciudad se sentó Jonás para ver qué sucedería?",
+    "options": [
+      "Al oriente",
+      "Al occidente",
+      "Al norte",
+      "Al sur"
+    ],
+    "answer": 0,
+    "reference": "Jonás 4:5",
+    "explanation": "El pasaje relata: Al oriente.",
+    "source": "https://www.biblegateway.com/passage/?search=Jon%C3%A1s%204%3A5&version=RVR1960"
+  },
+  {
+    "id": "Daniel-ampliacion-0",
+    "topic": "Daniel",
+    "difficulty": "Avanzada",
+    "question": "¿Qué alimentos pidió Daniel para la prueba de diez días?",
+    "options": [
+      "Legumbres y agua",
+      "Carne y vino",
+      "Pan y miel",
+      "Pescado y leche"
+    ],
+    "answer": 0,
+    "reference": "Daniel 1:12",
+    "explanation": "El pasaje relata: Legumbres y agua.",
+    "source": "https://www.biblegateway.com/passage/?search=Daniel%201%3A12&version=RVR1960"
+  },
+  {
+    "id": "Daniel-ampliacion-1",
+    "topic": "Daniel",
+    "difficulty": "Avanzada",
+    "question": "¿Quién era el jefe de los eunucos nombrado en Daniel 1?",
+    "options": [
+      "Aspenaz",
+      "Arioc",
+      "Sergio Paulo",
+      "Abimelec"
+    ],
+    "answer": 0,
+    "reference": "Daniel 1:3",
+    "explanation": "El pasaje relata: Aspenaz.",
+    "source": "https://www.biblegateway.com/passage/?search=Daniel%201%3A3&version=RVR1960"
+  },
+  {
+    "id": "Daniel-ampliacion-2",
+    "topic": "Daniel",
+    "difficulty": "Avanzada",
+    "question": "¿Qué rey vio la escritura en la pared durante un banquete?",
+    "options": [
+      "Belsasar",
+      "Darío",
+      "Ciro",
+      "Saúl"
+    ],
+    "answer": 0,
+    "reference": "Daniel 5:1–5",
+    "explanation": "El pasaje relata: Belsasar.",
+    "source": "https://www.biblegateway.com/passage/?search=Daniel%205%3A1%E2%80%935&version=RVR1960"
+  },
+  {
+    "id": "Daniel-ampliacion-3",
+    "topic": "Daniel",
+    "difficulty": "Avanzada",
+    "question": "¿Qué se estaba usando en el banquete cuando apareció la escritura?",
+    "options": [
+      "Vasos tomados del templo de Jerusalén",
+      "Piedras del río Jordán",
+      "Las tablas de la ley",
+      "La túnica de José"
+    ],
+    "answer": 0,
+    "reference": "Daniel 5:2–3",
+    "explanation": "El pasaje relata: Vasos tomados del templo de Jerusalén.",
+    "source": "https://www.biblegateway.com/passage/?search=Daniel%205%3A2%E2%80%933&version=RVR1960"
+  },
+  {
+    "id": "Daniel-ampliacion-4",
+    "topic": "Daniel",
+    "difficulty": "Avanzada",
+    "question": "¿Qué explicó Daniel con respecto a TEKEL?",
+    "options": [
+      "El rey había sido pesado en balanza y hallado falto",
+      "El rey viviría cien años más",
+      "El templo sería construido esa noche",
+      "La sequía terminaría pronto"
+    ],
+    "answer": 0,
+    "reference": "Daniel 5:27",
+    "explanation": "El pasaje relata: El rey había sido pesado en balanza y hallado falto.",
+    "source": "https://www.biblegateway.com/passage/?search=Daniel%205%3A27&version=RVR1960"
+  },
+  {
+    "id": "Daniel-ampliacion-5",
+    "topic": "Daniel",
+    "difficulty": "Avanzada",
+    "question": "¿Cuánto tiempo prohibía el decreto pedir a otro dios u hombre que no fuera el rey?",
+    "options": [
+      "Treinta días",
+      "Siete días",
+      "Diez años",
+      "Cuarenta días"
+    ],
+    "answer": 0,
+    "reference": "Daniel 6:7",
+    "explanation": "El pasaje relata: Treinta días.",
+    "source": "https://www.biblegateway.com/passage/?search=Daniel%206%3A7&version=RVR1960"
+  },
+  {
+    "id": "Daniel-ampliacion-6",
+    "topic": "Daniel",
+    "difficulty": "Avanzada",
+    "question": "¿Quién cerró la boca de los leones, según explicó Daniel?",
+    "options": [
+      "Un ángel enviado por Dios",
+      "Un guardia de palacio",
+      "El propio rey",
+      "Un sabio de Babilonia"
+    ],
+    "answer": 0,
+    "reference": "Daniel 6:22",
+    "explanation": "El pasaje relata: Un ángel enviado por Dios.",
+    "source": "https://www.biblegateway.com/passage/?search=Daniel%206%3A22&version=RVR1960"
+  },
+  {
+    "id": "Pablo-ampliacion-0",
+    "topic": "Pablo",
+    "difficulty": "Avanzada",
+    "question": "¿En qué ciudad nació Pablo?",
+    "options": [
+      "Tarso",
+      "Jerusalén",
+      "Antioquía",
+      "Roma"
+    ],
+    "answer": 0,
+    "reference": "Hechos 22:3",
+    "explanation": "El pasaje relata: Tarso.",
+    "source": "https://www.biblegateway.com/passage/?search=Hechos%2022%3A3&version=RVR1960"
+  },
+  {
+    "id": "Pablo-ampliacion-1",
+    "topic": "Pablo",
+    "difficulty": "Avanzada",
+    "question": "¿A qué ciudad viajaba Saulo cuando fue rodeado por una luz del cielo?",
+    "options": [
+      "Damasco",
+      "Atenas",
+      "Éfeso",
+      "Belén"
+    ],
+    "answer": 0,
+    "reference": "Hechos 9:3",
+    "explanation": "El pasaje relata: Damasco.",
+    "source": "https://www.biblegateway.com/passage/?search=Hechos%209%3A3&version=RVR1960"
+  },
+  {
+    "id": "Pablo-ampliacion-2",
+    "topic": "Pablo",
+    "difficulty": "Avanzada",
+    "question": "¿Quién fue enviado a buscar a Saulo en la calle llamada Derecha?",
+    "options": [
+      "Ananías",
+      "Bernabé",
+      "Silas",
+      "Aquila"
+    ],
+    "answer": 0,
+    "reference": "Hechos 9:10–11",
+    "explanation": "El pasaje relata: Ananías.",
+    "source": "https://www.biblegateway.com/passage/?search=Hechos%209%3A10%E2%80%9311&version=RVR1960"
+  },
+  {
+    "id": "Pablo-ampliacion-3",
+    "topic": "Pablo",
+    "difficulty": "Avanzada",
+    "question": "¿Cómo escapó Saulo de Damasco cuando vigilaban las puertas?",
+    "options": [
+      "Lo bajaron por el muro en una canasta",
+      "Salió disfrazado de soldado",
+      "Cruzó el mar a nado",
+      "Atravesó un túnel del templo"
+    ],
+    "answer": 0,
+    "reference": "Hechos 9:25",
+    "explanation": "El pasaje relata: Lo bajaron por el muro en una canasta.",
+    "source": "https://www.biblegateway.com/passage/?search=Hechos%209%3A25&version=RVR1960"
+  },
+  {
+    "id": "Pablo-ampliacion-4",
+    "topic": "Pablo",
+    "difficulty": "Avanzada",
+    "question": "¿Quién presentó a Saulo ante los apóstoles cuando otros desconfiaban de él?",
+    "options": [
+      "Bernabé",
+      "Herodes",
+      "Pilato",
+      "Demetrio"
+    ],
+    "answer": 0,
+    "reference": "Hechos 9:27",
+    "explanation": "El pasaje relata: Bernabé.",
+    "source": "https://www.biblegateway.com/passage/?search=Hechos%209%3A27&version=RVR1960"
+  },
+  {
+    "id": "Pablo-ampliacion-5",
+    "topic": "Pablo",
+    "difficulty": "Avanzada",
+    "question": "¿Qué comerciante escuchó a Pablo junto al río y fue bautizada con su familia?",
+    "options": [
+      "Lidia",
+      "Priscila",
+      "Marta",
+      "Dorcas"
+    ],
+    "answer": 0,
+    "reference": "Hechos 16:14–15",
+    "explanation": "El pasaje relata: Lidia.",
+    "source": "https://www.biblegateway.com/passage/?search=Hechos%2016%3A14%E2%80%9315&version=RVR1960"
+  },
+  {
+    "id": "Pablo-ampliacion-6",
+    "topic": "Pablo",
+    "difficulty": "Avanzada",
+    "question": "¿Qué nombre tenía el centurión que custodiaba a Pablo en el viaje a Italia?",
+    "options": [
+      "Julio",
+      "Cornelio",
+      "Claudio",
+      "Sergio"
+    ],
+    "answer": 0,
+    "reference": "Hechos 27:1",
+    "explanation": "El pasaje relata: Julio.",
+    "source": "https://www.biblegateway.com/passage/?search=Hechos%2027%3A1&version=RVR1960"
+  },
+  {
+    "id": "Jesús-ampliacion-0",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Qué discípulo caminó sobre el agua hacia Jesús?",
+    "options": [
+      "Pedro",
+      "Mateo",
+      "Felipe",
+      "Judas"
+    ],
+    "answer": 0,
+    "reference": "Mateo 14:28–29",
+    "explanation": "El pasaje relata: Pedro.",
+    "source": "https://www.biblegateway.com/passage/?search=Mateo%2014%3A28%E2%80%9329&version=RVR1960"
+  },
+  {
+    "id": "Jesús-ampliacion-1",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Qué título usó Jesús para describirse en Juan 10:11?",
+    "options": [
+      "El buen pastor",
+      "El rey de Babilonia",
+      "El sacerdote de Baal",
+      "El capitán de Roma"
+    ],
+    "answer": 0,
+    "reference": "Juan 10:11",
+    "explanation": "El pasaje relata: El buen pastor.",
+    "source": "https://www.biblegateway.com/passage/?search=Juan%2010%3A11&version=RVR1960"
+  },
+  {
+    "id": "Jesús-ampliacion-2",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Qué cobrador de impuestos fue llamado por Jesús mientras estaba en el banco de los tributos?",
+    "options": [
+      "Mateo",
+      "Andrés",
+      "Juan",
+      "Tomás"
+    ],
+    "answer": 0,
+    "reference": "Mateo 9:9",
+    "explanation": "El pasaje relata: Mateo.",
+    "source": "https://www.biblegateway.com/passage/?search=Mateo%209%3A9&version=RVR1960"
+  },
+  {
+    "id": "Jesús-ampliacion-3",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Qué hizo Jesús cuando llevaron a un paralítico ante él y luego le ordenó levantarse?",
+    "options": [
+      "El hombre se levantó y llevó su lecho",
+      "El hombre huyó sin sanar",
+      "Los discípulos lo llevaron a Roma",
+      "Jesús se negó a hablarle"
+    ],
+    "answer": 0,
+    "reference": "Marcos 2:11–12",
+    "explanation": "El pasaje relata: El hombre se levantó y llevó su lecho.",
+    "source": "https://www.biblegateway.com/passage/?search=Marcos%202%3A11%E2%80%9312&version=RVR1960"
+  }
+]

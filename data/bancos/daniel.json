@@ -1,0 +1,322 @@
+[
+  {
+    "id": "Daniel-1",
+    "topic": "Daniel",
+    "difficulty": "Avanzada",
+    "question": "¿Qué nombre babilónico recibió Daniel?",
+    "options": [
+      "Beltsasar",
+      "Belsasar",
+      "Abed-nego",
+      "Aspenaz"
+    ],
+    "answer": 0,
+    "reference": "Daniel 1:7",
+    "explanation": "El pasaje indica: Beltsasar.",
+    "source": "https://www.biblegateway.com/passage/?search=Daniel%201%3A7&version=RVR1960"
+  },
+  {
+    "id": "Daniel-2",
+    "topic": "Daniel",
+    "difficulty": "Avanzada",
+    "question": "¿Qué decidió Daniel respecto a la comida del rey?",
+    "options": [
+      "No contaminarse con su comida y su vino",
+      "Comer solo durante las fiestas",
+      "Compartirla únicamente con los sacerdotes",
+      "Rechazar toda comida por un año"
+    ],
+    "answer": 0,
+    "reference": "Daniel 1:8",
+    "explanation": "El pasaje indica: No contaminarse con su comida y su vino.",
+    "source": "https://www.biblegateway.com/passage/?search=Daniel%201%3A8&version=RVR1960"
+  },
+  {
+    "id": "Daniel-3",
+    "topic": "Daniel",
+    "difficulty": "Avanzada",
+    "question": "¿Cuántos días duró la prueba alimentaria que pidió Daniel?",
+    "options": [
+      "Diez",
+      "Siete",
+      "Veintiuno",
+      "Cuarenta"
+    ],
+    "answer": 0,
+    "reference": "Daniel 1:12",
+    "explanation": "El pasaje indica: Diez.",
+    "source": "https://www.biblegateway.com/passage/?search=Daniel%201%3A12&version=RVR1960"
+  },
+  {
+    "id": "Daniel-4",
+    "topic": "Daniel",
+    "difficulty": "Avanzada",
+    "question": "¿Quién era el capitán encargado de ejecutar a los sabios con quien habló Daniel?",
+    "options": [
+      "Arioc",
+      "Aspenaz",
+      "Nabuzaradán",
+      "Darío"
+    ],
+    "answer": 0,
+    "reference": "Daniel 2:14",
+    "explanation": "El pasaje indica: Arioc.",
+    "source": "https://www.biblegateway.com/passage/?search=Daniel%202%3A14&version=RVR1960"
+  },
+  {
+    "id": "Daniel-5",
+    "topic": "Daniel",
+    "difficulty": "Avanzada",
+    "question": "¿Qué pidió Daniel a sus compañeros antes de recibir la revelación del sueño?",
+    "options": [
+      "Que pidieran misericordia a Dios acerca del misterio",
+      "Que huyeran de Babilonia",
+      "Que consultaran a los astrólogos",
+      "Que reunieran oro para el rey"
+    ],
+    "answer": 0,
+    "reference": "Daniel 2:17–18",
+    "explanation": "El pasaje indica: Que pidieran misericordia a Dios acerca del misterio.",
+    "source": "https://www.biblegateway.com/passage/?search=Daniel%202%3A17%E2%80%9318&version=RVR1960"
+  },
+  {
+    "id": "Daniel-6",
+    "topic": "Daniel",
+    "difficulty": "Avanzada",
+    "question": "¿Cómo recibió Daniel la revelación del misterio del sueño?",
+    "options": [
+      "En una visión de noche",
+      "En una inscripción sobre una pared",
+      "En un mensaje de Arioc",
+      "Al examinar las estrellas"
+    ],
+    "answer": 0,
+    "reference": "Daniel 2:19",
+    "explanation": "El pasaje indica: En una visión de noche.",
+    "source": "https://www.biblegateway.com/passage/?search=Daniel%202%3A19&version=RVR1960"
+  },
+  {
+    "id": "Daniel-7",
+    "topic": "Daniel",
+    "difficulty": "Avanzada",
+    "question": "¿Qué representaba la cabeza de oro de la estatua en la explicación de Daniel?",
+    "options": [
+      "Nabucodonosor y su reino",
+      "El imperio romano exclusivamente",
+      "Los sacerdotes de Jerusalén",
+      "El reino de Darío exclusivamente"
+    ],
+    "answer": 0,
+    "reference": "Daniel 2:37–38",
+    "explanation": "El pasaje indica: Nabucodonosor y su reino.",
+    "source": "https://www.biblegateway.com/passage/?search=Daniel%202%3A37%E2%80%9338&version=RVR1960"
+  },
+  {
+    "id": "Daniel-8",
+    "topic": "Daniel",
+    "difficulty": "Avanzada",
+    "question": "¿Qué derribó la estatua del sueño?",
+    "options": [
+      "Una piedra cortada sin intervención de manos",
+      "Una espada sostenida por un ángel",
+      "Un río salido del templo",
+      "El fuego del horno"
+    ],
+    "answer": 0,
+    "reference": "Daniel 2:34–35",
+    "explanation": "El pasaje indica: Una piedra cortada sin intervención de manos.",
+    "source": "https://www.biblegateway.com/passage/?search=Daniel%202%3A34%E2%80%9335&version=RVR1960"
+  },
+  {
+    "id": "Daniel-9",
+    "topic": "Daniel",
+    "difficulty": "Avanzada",
+    "question": "¿Cuántas veces al día oraba Daniel cuando se promulgó el decreto?",
+    "options": [
+      "Tres",
+      "Dos",
+      "Siete",
+      "Una"
+    ],
+    "answer": 0,
+    "reference": "Daniel 6:10",
+    "explanation": "El pasaje indica: Tres.",
+    "source": "https://www.biblegateway.com/passage/?search=Daniel%206%3A10&version=RVR1960"
+  },
+  {
+    "id": "Daniel-10",
+    "topic": "Daniel",
+    "difficulty": "Avanzada",
+    "question": "¿Hacia dónde estaban abiertas las ventanas cuando Daniel oraba?",
+    "options": [
+      "Hacia Jerusalén",
+      "Hacia el palacio",
+      "Hacia el río Éufrates",
+      "Hacia el desierto"
+    ],
+    "answer": 0,
+    "reference": "Daniel 6:10",
+    "explanation": "El pasaje indica: Hacia Jerusalén.",
+    "source": "https://www.biblegateway.com/passage/?search=Daniel%206%3A10&version=RVR1960"
+  },
+  {
+    "id": "Daniel-11",
+    "topic": "Daniel",
+    "difficulty": "Avanzada",
+    "question": "¿Qué encontró el rey como causa de que Daniel no sufriera daño entre los leones?",
+    "options": [
+      "Daniel había confiado en su Dios",
+      "Los leones estaban dormidos por una droga",
+      "Los guardias le habían dado armas",
+      "El foso no contenía animales"
+    ],
+    "answer": 0,
+    "reference": "Daniel 6:23",
+    "explanation": "El pasaje indica: Daniel había confiado en su Dios.",
+    "source": "https://www.biblegateway.com/passage/?search=Daniel%206%3A23&version=RVR1960"
+  },
+  {
+    "id": "Daniel-12",
+    "topic": "Daniel",
+    "difficulty": "Avanzada",
+    "question": "¿Cuántos días transcurrieron antes de que el mensajero de Daniel 10 llegara, según su explicación?",
+    "options": [
+      "Veintiún días",
+      "Diez días",
+      "Cuarenta días",
+      "Setenta días"
+    ],
+    "answer": 0,
+    "reference": "Daniel 10:12–13",
+    "explanation": "El pasaje indica: Veintiún días.",
+    "source": "https://www.biblegateway.com/passage/?search=Daniel%2010%3A12%E2%80%9313&version=RVR1960"
+  },
+  {
+    "id": "Daniel-13",
+    "topic": "Daniel",
+    "difficulty": "Avanzada",
+    "question": "¿Qué escritos estudiaba Daniel al comprender el período de setenta años?",
+    "options": [
+      "Los del profeta Jeremías",
+      "Los del profeta Jonás",
+      "Los de Moisés sobre el diluvio",
+      "Los del rey Darío"
+    ],
+    "answer": 0,
+    "reference": "Daniel 9:2",
+    "explanation": "El pasaje indica: Los del profeta Jeremías.",
+    "source": "https://www.biblegateway.com/passage/?search=Daniel%209%3A2&version=RVR1960"
+  },
+  {
+    "id": "Daniel-ampliacion-0",
+    "topic": "Daniel",
+    "difficulty": "Avanzada",
+    "question": "¿Qué alimentos pidió Daniel para la prueba de diez días?",
+    "options": [
+      "Legumbres y agua",
+      "Carne y vino",
+      "Pan y miel",
+      "Pescado y leche"
+    ],
+    "answer": 0,
+    "reference": "Daniel 1:12",
+    "explanation": "El pasaje relata: Legumbres y agua.",
+    "source": "https://www.biblegateway.com/passage/?search=Daniel%201%3A12&version=RVR1960"
+  },
+  {
+    "id": "Daniel-ampliacion-1",
+    "topic": "Daniel",
+    "difficulty": "Avanzada",
+    "question": "¿Quién era el jefe de los eunucos nombrado en Daniel 1?",
+    "options": [
+      "Aspenaz",
+      "Arioc",
+      "Sergio Paulo",
+      "Abimelec"
+    ],
+    "answer": 0,
+    "reference": "Daniel 1:3",
+    "explanation": "El pasaje relata: Aspenaz.",
+    "source": "https://www.biblegateway.com/passage/?search=Daniel%201%3A3&version=RVR1960"
+  },
+  {
+    "id": "Daniel-ampliacion-2",
+    "topic": "Daniel",
+    "difficulty": "Avanzada",
+    "question": "¿Qué rey vio la escritura en la pared durante un banquete?",
+    "options": [
+      "Belsasar",
+      "Darío",
+      "Ciro",
+      "Saúl"
+    ],
+    "answer": 0,
+    "reference": "Daniel 5:1–5",
+    "explanation": "El pasaje relata: Belsasar.",
+    "source": "https://www.biblegateway.com/passage/?search=Daniel%205%3A1%E2%80%935&version=RVR1960"
+  },
+  {
+    "id": "Daniel-ampliacion-3",
+    "topic": "Daniel",
+    "difficulty": "Avanzada",
+    "question": "¿Qué se estaba usando en el banquete cuando apareció la escritura?",
+    "options": [
+      "Vasos tomados del templo de Jerusalén",
+      "Piedras del río Jordán",
+      "Las tablas de la ley",
+      "La túnica de José"
+    ],
+    "answer": 0,
+    "reference": "Daniel 5:2–3",
+    "explanation": "El pasaje relata: Vasos tomados del templo de Jerusalén.",
+    "source": "https://www.biblegateway.com/passage/?search=Daniel%205%3A2%E2%80%933&version=RVR1960"
+  },
+  {
+    "id": "Daniel-ampliacion-4",
+    "topic": "Daniel",
+    "difficulty": "Avanzada",
+    "question": "¿Qué explicó Daniel con respecto a TEKEL?",
+    "options": [
+      "El rey había sido pesado en balanza y hallado falto",
+      "El rey viviría cien años más",
+      "El templo sería construido esa noche",
+      "La sequía terminaría pronto"
+    ],
+    "answer": 0,
+    "reference": "Daniel 5:27",
+    "explanation": "El pasaje relata: El rey había sido pesado en balanza y hallado falto.",
+    "source": "https://www.biblegateway.com/passage/?search=Daniel%205%3A27&version=RVR1960"
+  },
+  {
+    "id": "Daniel-ampliacion-5",
+    "topic": "Daniel",
+    "difficulty": "Avanzada",
+    "question": "¿Cuánto tiempo prohibía el decreto pedir a otro dios u hombre que no fuera el rey?",
+    "options": [
+      "Treinta días",
+      "Siete días",
+      "Diez años",
+      "Cuarenta días"
+    ],
+    "answer": 0,
+    "reference": "Daniel 6:7",
+    "explanation": "El pasaje relata: Treinta días.",
+    "source": "https://www.biblegateway.com/passage/?search=Daniel%206%3A7&version=RVR1960"
+  },
+  {
+    "id": "Daniel-ampliacion-6",
+    "topic": "Daniel",
+    "difficulty": "Avanzada",
+    "question": "¿Quién cerró la boca de los leones, según explicó Daniel?",
+    "options": [
+      "Un ángel enviado por Dios",
+      "Un guardia de palacio",
+      "El propio rey",
+      "Un sabio de Babilonia"
+    ],
+    "answer": 0,
+    "reference": "Daniel 6:22",
+    "explanation": "El pasaje relata: Un ángel enviado por Dios.",
+    "source": "https://www.biblegateway.com/passage/?search=Daniel%206%3A22&version=RVR1960"
+  }
+]

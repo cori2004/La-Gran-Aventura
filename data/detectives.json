@@ -1,0 +1,706 @@
+[
+  {
+    "id": "caso-1",
+    "topic": "Adán y Eva",
+    "title": "Un comienzo lleno de vida",
+    "reference": "Génesis 1:26-31",
+    "priority": true,
+    "mistakes": [
+      {
+        "wrong": "Los seres humanos fueron creados a imagen de los animales.",
+        "correct": "Fueron creados a imagen de Dios."
+      },
+      {
+        "wrong": "Dios les encargó cuidar únicamente las plantas.",
+        "correct": "Recibieron dominio sobre los peces, las aves y los animales."
+      },
+      {
+        "wrong": "Al mirar todo lo creado, Dios dijo que era malo.",
+        "correct": "Dios vio que todo lo que había hecho era muy bueno."
+      }
+    ],
+    "fact": "Dios bendijo al hombre y a la mujer."
+  },
+  {
+    "id": "caso-2",
+    "topic": "Adán y Eva",
+    "title": "El encargo del huerto",
+    "reference": "Génesis 2:15-22",
+    "priority": true,
+    "mistakes": [
+      {
+        "wrong": "Dios puso al hombre en el huerto para construir una ciudad.",
+        "correct": "Lo puso allí para labrarlo y guardarlo."
+      },
+      {
+        "wrong": "Le prohibió comer de todos los árboles.",
+        "correct": "Le permitió comer de los árboles, excepto del árbol del conocimiento del bien y del mal."
+      },
+      {
+        "wrong": "La mujer fue formada de una piedra.",
+        "correct": "Fue formada de una costilla del hombre."
+      }
+    ],
+    "fact": "Dios hizo que el hombre cayera en un sueño profundo."
+  },
+  {
+    "id": "caso-3",
+    "topic": "Adán y Eva",
+    "title": "¿Quién se escondió?",
+    "reference": "Génesis 3:1-13",
+    "priority": true,
+    "mistakes": [
+      {
+        "wrong": "Un cuervo habló con la mujer acerca del fruto.",
+        "correct": "El animal del relato es la serpiente."
+      },
+      {
+        "wrong": "Después de comer, la pareja salió a recibir a Dios sin esconderse.",
+        "correct": "Se escondieron entre los árboles del huerto."
+      },
+      {
+        "wrong": "El hombre dijo que un ángel le había dado el fruto.",
+        "correct": "Dijo que la mujer que Dios había puesto con él se lo había dado."
+      }
+    ],
+    "fact": "La pareja oyó la voz de Dios en el huerto."
+  },
+  {
+    "id": "caso-4",
+    "topic": "Pablo",
+    "title": "Una luz en el camino",
+    "reference": "Hechos 9:1-18",
+    "priority": true,
+    "mistakes": [
+      {
+        "wrong": "Saulo se dirigía a Belén con cartas para perseguir a los discípulos.",
+        "correct": "Se dirigía a Damasco."
+      },
+      {
+        "wrong": "Tras la luz del cielo, quedó sin poder oír durante tres días.",
+        "correct": "Quedó sin poder ver durante tres días."
+      },
+      {
+        "wrong": "Pedro fue enviado a la casa para imponerle las manos.",
+        "correct": "Dios envió a Ananías."
+      }
+    ],
+    "fact": "Saulo había pedido autorización para llevar presos a los discípulos."
+  },
+  {
+    "id": "caso-5",
+    "topic": "Pablo",
+    "title": "Una noche en Filipos",
+    "reference": "Hechos 16:22-34",
+    "priority": true,
+    "mistakes": [
+      {
+        "wrong": "Pablo fue encarcelado junto con Bernabé en esta ocasión.",
+        "correct": "Su compañero era Silas."
+      },
+      {
+        "wrong": "A medianoche, los dos estaban insultando al carcelero.",
+        "correct": "Oraban y cantaban himnos a Dios."
+      },
+      {
+        "wrong": "Cuando se abrieron las puertas, todos los presos huyeron.",
+        "correct": "Ninguno huyó; Pablo dijo al carcelero que todos estaban allí."
+      }
+    ],
+    "fact": "El carcelero recibió la orden de guardar bien a los prisioneros."
+  },
+  {
+    "id": "caso-6",
+    "topic": "Pablo",
+    "title": "Después del naufragio",
+    "reference": "Hechos 28:1-6",
+    "priority": true,
+    "mistakes": [
+      {
+        "wrong": "Los náufragos descubrieron que estaban en la isla de Creta.",
+        "correct": "La isla era Malta."
+      },
+      {
+        "wrong": "Al recoger ramas, una paloma se sujetó de la mano de Pablo.",
+        "correct": "Fue una víbora."
+      },
+      {
+        "wrong": "Pablo cayó muerto inmediatamente por el ataque.",
+        "correct": "Sacudió el animal al fuego y no sufrió daño."
+      }
+    ],
+    "fact": "Los habitantes encendieron un fuego para recibir a los náufragos."
+  },
+  {
+    "id": "caso-7",
+    "topic": "Timoteo",
+    "title": "Una familia que enseñaba",
+    "reference": "2 Timoteo 1:5; 3:15",
+    "priority": true,
+    "mistakes": [
+      {
+        "wrong": "La abuela de Timoteo se llamaba Marta.",
+        "correct": "Su abuela se llamaba Loida."
+      },
+      {
+        "wrong": "Su madre se llamaba Sara.",
+        "correct": "Su madre se llamaba Eunice."
+      },
+      {
+        "wrong": "Timoteo conoció las Escrituras por primera vez cuando ya era anciano.",
+        "correct": "Las conocía desde la niñez."
+      }
+    ],
+    "fact": "Pablo recordaba la fe sincera que había en aquella familia."
+  },
+  {
+    "id": "caso-8",
+    "topic": "Timoteo",
+    "title": "Un nuevo compañero de viaje",
+    "reference": "Hechos 16:1-3",
+    "priority": true,
+    "mistakes": [
+      {
+        "wrong": "Pablo encontró a Timoteo durante su visita a Roma.",
+        "correct": "Lo encontró en Listra, después de llegar a Derbe y Listra."
+      },
+      {
+        "wrong": "Su padre era romano.",
+        "correct": "Su padre era griego."
+      },
+      {
+        "wrong": "Los hermanos de Listra e Iconio daban malos informes de él.",
+        "correct": "Daban buen testimonio de él."
+      }
+    ],
+    "fact": "Pablo quiso que el joven viajara con él."
+  },
+  {
+    "id": "caso-9",
+    "topic": "Timoteo",
+    "title": "Consejos para un joven",
+    "reference": "1 Timoteo 4:12-13",
+    "priority": true,
+    "mistakes": [
+      {
+        "wrong": "Pablo le aconsejó que dejara que todos despreciaran su juventud.",
+        "correct": "Le dijo que no permitiera que nadie la tuviera en poco."
+      },
+      {
+        "wrong": "Le pidió que fuera ejemplo solo por su riqueza.",
+        "correct": "Le pidió ser ejemplo en palabra, conducta, amor, espíritu, fe y pureza."
+      },
+      {
+        "wrong": "Le aconsejó abandonar la lectura mientras esperaba su llegada.",
+        "correct": "Le indicó ocuparse en la lectura, la exhortación y la enseñanza."
+      }
+    ],
+    "fact": "La carta contiene instrucciones para la vida y el servicio del joven."
+  },
+  {
+    "id": "caso-10",
+    "topic": "Jonás",
+    "title": "Un viaje en dirección contraria",
+    "reference": "Jonás 1:1-5",
+    "priority": true,
+    "mistakes": [
+      {
+        "wrong": "Dios envió a Jonás a predicar a Jericó.",
+        "correct": "Lo envió a Nínive."
+      },
+      {
+        "wrong": "Jonás compró pasaje hacia Egipto para escapar.",
+        "correct": "Se embarcó hacia Tarsis."
+      },
+      {
+        "wrong": "Durante la tormenta, Jonás estaba dirigiendo a los marineros en cubierta.",
+        "correct": "Había bajado al interior de la nave y dormía."
+      }
+    ],
+    "fact": "Los marineros tuvieron miedo y clamaron cada uno a su dios."
+  },
+  {
+    "id": "caso-11",
+    "topic": "Jonás",
+    "title": "En medio del mar",
+    "reference": "Jonás 1:12-17; 2:1",
+    "priority": true,
+    "mistakes": [
+      {
+        "wrong": "Jonás pidió a los marineros que arrojaran al capitán al agua.",
+        "correct": "Les pidió que lo arrojaran a él."
+      },
+      {
+        "wrong": "Dios preparó una pequeña barca para que Jonás pasara la tormenta.",
+        "correct": "Preparó un gran pez que lo tragó."
+      },
+      {
+        "wrong": "Jonás estuvo dentro del pez durante siete días.",
+        "correct": "Estuvo tres días y tres noches."
+      }
+    ],
+    "fact": "Desde su encierro, el profeta oró al Señor."
+  },
+  {
+    "id": "caso-12",
+    "topic": "Jonás",
+    "title": "La segunda oportunidad",
+    "reference": "Jonás 3:1-10",
+    "priority": true,
+    "mistakes": [
+      {
+        "wrong": "Después de recibir otra vez el llamado, Jonás volvió a huir.",
+        "correct": "Esta vez fue a Nínive."
+      },
+      {
+        "wrong": "Los habitantes se negaron a creer el mensaje.",
+        "correct": "Creyeron a Dios y proclamaron ayuno."
+      },
+      {
+        "wrong": "El rey ordenó continuar haciendo violencia.",
+        "correct": "Mandó que cada uno se apartara de su mal camino y de la violencia."
+      }
+    ],
+    "fact": "El rey se levantó de su trono y se cubrió con ropa de duelo."
+  },
+  {
+    "id": "caso-13",
+    "topic": "Jesús",
+    "title": "Una noche en Belén",
+    "reference": "Lucas 2:1-16",
+    "priority": true,
+    "mistakes": [
+      {
+        "wrong": "Jesús nació en Nazaret durante el viaje del censo.",
+        "correct": "Nació en Belén."
+      },
+      {
+        "wrong": "María acostó al niño en un trono.",
+        "correct": "Lo acostó en un pesebre."
+      },
+      {
+        "wrong": "Los primeros visitantes de este relato eran pescadores que cuidaban sus redes.",
+        "correct": "Eran pastores que cuidaban sus rebaños."
+      }
+    ],
+    "fact": "María envolvió al niño en pañales."
+  },
+  {
+    "id": "caso-14",
+    "topic": "Jesús",
+    "title": "Comida para la multitud",
+    "reference": "Juan 6:1-13",
+    "priority": true,
+    "mistakes": [
+      {
+        "wrong": "El muchacho tenía dos panes y cinco peces.",
+        "correct": "Tenía cinco panes de cebada y dos peces."
+      },
+      {
+        "wrong": "Jesús despidió a todos sin darles alimento.",
+        "correct": "Distribuyó el alimento y la multitud comió."
+      },
+      {
+        "wrong": "Al recoger lo que sobró, llenaron dos cestas.",
+        "correct": "Llenaron doce cestas."
+      }
+    ],
+    "fact": "Había mucha hierba en aquel lugar y la gente se sentó."
+  },
+  {
+    "id": "caso-15",
+    "topic": "Jesús",
+    "title": "La tumba abierta",
+    "reference": "Mateo 28:1-8",
+    "priority": true,
+    "mistakes": [
+      {
+        "wrong": "Las mujeres fueron a la tumba el último día antes del sábado.",
+        "correct": "Fueron al amanecer del primer día de la semana, después del sábado."
+      },
+      {
+        "wrong": "El ángel anunció que Jesús seguía muerto.",
+        "correct": "Anunció que había resucitado."
+      },
+      {
+        "wrong": "Les ordenó guardar silencio y no avisar a nadie.",
+        "correct": "Les mandó ir pronto a comunicarlo a los discípulos."
+      }
+    ],
+    "fact": "María Magdalena fue al sepulcro acompañada por la otra María."
+  },
+  {
+    "id": "caso-16",
+    "topic": "Abraham",
+    "title": "Un llamado para salir",
+    "reference": "Génesis 12:1-5",
+    "priority": true,
+    "mistakes": [
+      {
+        "wrong": "Dios pidió a Abram que permaneciera para siempre en su tierra.",
+        "correct": "Le pidió salir de su tierra y de su parentela hacia la tierra que le mostraría."
+      },
+      {
+        "wrong": "Le prometió convertirlo en un pueblo insignificante.",
+        "correct": "Le prometió hacer de él una gran nación."
+      },
+      {
+        "wrong": "Abram tenía veinticinco años al salir de Harán.",
+        "correct": "Tenía setenta y cinco años."
+      }
+    ],
+    "fact": "Lot salió con Abram cuando este emprendió el viaje."
+  },
+  {
+    "id": "caso-17",
+    "topic": "Abraham",
+    "title": "Una promesa bajo las estrellas",
+    "reference": "Génesis 15:1-6",
+    "priority": true,
+    "mistakes": [
+      {
+        "wrong": "Dios pidió a Abram que contara las piedras de su casa.",
+        "correct": "Le pidió mirar al cielo y contar las estrellas, si podía."
+      },
+      {
+        "wrong": "Le dijo que nunca tendría un heredero propio.",
+        "correct": "Le anunció que un hijo suyo sería su heredero."
+      },
+      {
+        "wrong": "Abram rechazó la promesa y se negó a creer.",
+        "correct": "Creyó al Señor, y le fue contado por justicia."
+      }
+    ],
+    "fact": "Abram habló con Dios acerca de su falta de descendencia."
+  },
+  {
+    "id": "caso-18",
+    "topic": "Abraham",
+    "title": "En el monte de la prueba",
+    "reference": "Génesis 22:1-13",
+    "priority": true,
+    "mistakes": [
+      {
+        "wrong": "Abraham llevó a Ismael al lugar de la prueba.",
+        "correct": "Llevó a Isaac."
+      },
+      {
+        "wrong": "Un soldado interrumpió el sacrificio.",
+        "correct": "El ángel del Señor lo llamó desde el cielo."
+      },
+      {
+        "wrong": "En lugar de su hijo ofreció una paloma.",
+        "correct": "Ofreció un carnero que estaba trabado por los cuernos en un zarzal."
+      }
+    ],
+    "fact": "Isaac preguntó a su padre dónde estaba el cordero para el sacrificio."
+  },
+  {
+    "id": "caso-19",
+    "topic": "Daniel",
+    "title": "Una decisión a la mesa",
+    "reference": "Daniel 1:8-16",
+    "priority": true,
+    "mistakes": [
+      {
+        "wrong": "Daniel pidió comer más de la comida del rey que los demás.",
+        "correct": "Decidió no contaminarse con la comida ni con el vino del rey."
+      },
+      {
+        "wrong": "Propuso una prueba de cuarenta días.",
+        "correct": "Propuso diez días."
+      },
+      {
+        "wrong": "Solicitó carne y vino durante la prueba.",
+        "correct": "Pidió legumbres y agua."
+      }
+    ],
+    "fact": "El encargado temía lo que el rey pudiera hacer si veía débiles a los jóvenes."
+  },
+  {
+    "id": "caso-20",
+    "topic": "Daniel",
+    "title": "Una ventana y una oración",
+    "reference": "Daniel 6:10-23",
+    "priority": true,
+    "mistakes": [
+      {
+        "wrong": "Al conocer la prohibición, Daniel dejó de orar.",
+        "correct": "Siguió orando como acostumbraba."
+      },
+      {
+        "wrong": "El rey ordenó echarlo a un horno.",
+        "correct": "Ordenó echarlo al foso de los leones."
+      },
+      {
+        "wrong": "Los animales lo hirieron gravemente durante la noche.",
+        "correct": "No sufrió lesión; Dios envió a su ángel y cerró la boca de los leones."
+      }
+    ],
+    "fact": "Aquella noche, el rey no pudo dormir."
+  },
+  {
+    "id": "caso-21",
+    "topic": "Daniel",
+    "title": "Los compañeros ante la estatua",
+    "reference": "Daniel 3:16-27",
+    "priority": true,
+    "mistakes": [
+      {
+        "wrong": "Los tres compañeros aceptaron adorar la estatua del rey.",
+        "correct": "Se negaron a adorarla."
+      },
+      {
+        "wrong": "Fueron arrojados a un pozo de agua.",
+        "correct": "Fueron arrojados a un horno de fuego."
+      },
+      {
+        "wrong": "El rey vio solamente a tres hombres atados entre las llamas.",
+        "correct": "Vio a cuatro hombres sueltos que caminaban en el fuego."
+      }
+    ],
+    "fact": "Los hombres salieron sin que el fuego hubiera quemado sus cabellos."
+  },
+  {
+    "id": "caso-22",
+    "topic": "Isaías",
+    "title": "Una visión en el templo",
+    "reference": "Isaías 6:1-4",
+    "priority": true,
+    "mistakes": [
+      {
+        "wrong": "Isaías vio al Señor sentado en una barca.",
+        "correct": "Lo vio sentado sobre un trono alto y sublime."
+      },
+      {
+        "wrong": "Los serafines tenían dos alas cada uno.",
+        "correct": "Tenían seis alas cada uno."
+      },
+      {
+        "wrong": "La casa se llenó de arena.",
+        "correct": "La casa se llenó de humo."
+      }
+    ],
+    "fact": "Los serafines proclamaban la santidad del Señor."
+  },
+  {
+    "id": "caso-23",
+    "topic": "Isaías",
+    "title": "Una respuesta al llamado",
+    "reference": "Isaías 6:5-8",
+    "priority": true,
+    "mistakes": [
+      {
+        "wrong": "Isaías afirmó que sus labios ya eran completamente limpios.",
+        "correct": "Reconoció que era un hombre de labios inmundos."
+      },
+      {
+        "wrong": "Un serafín tocó sus pies con agua del río.",
+        "correct": "Tocó su boca con un carbón encendido tomado del altar."
+      },
+      {
+        "wrong": "Al oír quién iría, Isaías pidió que enviaran a otro.",
+        "correct": "Se ofreció diciendo que estaba dispuesto a ser enviado."
+      }
+    ],
+    "fact": "El carbón había sido tomado del altar con unas tenazas."
+  },
+  {
+    "id": "caso-24",
+    "topic": "Isaías",
+    "title": "Palabras de esperanza",
+    "reference": "Isaías 40:8, 29-31",
+    "priority": true,
+    "mistakes": [
+      {
+        "wrong": "El mensaje enseña que la palabra de Dios desaparece como la hierba.",
+        "correct": "Enseña que permanece para siempre."
+      },
+      {
+        "wrong": "Dice que Dios quita las fuerzas al cansado.",
+        "correct": "Dice que da esfuerzo al cansado y multiplica las fuerzas al que no tiene ninguna."
+      },
+      {
+        "wrong": "Los que esperan en el Señor quedan sin fuerzas para caminar.",
+        "correct": "Reciben nuevas fuerzas; corren y caminan sin desfallecer."
+      }
+    ],
+    "fact": "El pasaje reconoce que incluso los jóvenes pueden cansarse."
+  },
+  {
+    "id": "caso-25",
+    "topic": "Otros relatos",
+    "title": "La lluvia y la promesa",
+    "reference": "Génesis 7:12; 8:4; 9:13",
+    "priority": false,
+    "mistakes": [
+      {
+        "wrong": "La lluvia del diluvio cayó durante tres días.",
+        "correct": "Cayó cuarenta días y cuarenta noches."
+      },
+      {
+        "wrong": "El arca descansó en los montes de Sinaí.",
+        "correct": "Descansó sobre los montes de Ararat."
+      },
+      {
+        "wrong": "Dios dio una espada como señal de su pacto.",
+        "correct": "Dio el arco en las nubes como señal del pacto."
+      }
+    ],
+    "fact": "Después del diluvio, Dios habló con Noé sobre su pacto."
+  },
+  {
+    "id": "caso-26",
+    "topic": "Otros relatos",
+    "title": "Entre el ejército y el mar",
+    "reference": "Éxodo 14:21-29",
+    "priority": false,
+    "mistakes": [
+      {
+        "wrong": "David extendió su mano sobre el mar.",
+        "correct": "Fue Moisés."
+      },
+      {
+        "wrong": "Los israelitas cruzaron nadando.",
+        "correct": "Pasaron por el mar en seco."
+      },
+      {
+        "wrong": "El ejército egipcio cruzó sin sufrir daño.",
+        "correct": "Las aguas volvieron y cubrieron sus carros y jinetes."
+      }
+    ],
+    "fact": "Las aguas formaban una pared a la derecha y a la izquierda del pueblo."
+  },
+  {
+    "id": "caso-27",
+    "topic": "Otros relatos",
+    "title": "Alrededor de la ciudad",
+    "reference": "Josué 6:3-5, 15-20",
+    "priority": false,
+    "mistakes": [
+      {
+        "wrong": "El pueblo rodeó Jericó durante treinta días.",
+        "correct": "La marcha alrededor de la ciudad duró siete días."
+      },
+      {
+        "wrong": "En el último día dieron solamente una vuelta.",
+        "correct": "Dieron siete vueltas ese día."
+      },
+      {
+        "wrong": "Los muros cayeron porque los soldados los derribaron con martillos.",
+        "correct": "Cayeron cuando el pueblo gritó al oír el sonido de las trompetas."
+      }
+    ],
+    "fact": "Los sacerdotes llevaban trompetas y el pueblo siguió las instrucciones recibidas."
+  },
+  {
+    "id": "caso-28",
+    "topic": "Otros relatos",
+    "title": "Un pastor frente al gigante",
+    "reference": "1 Samuel 17:38-50",
+    "priority": false,
+    "mistakes": [
+      {
+        "wrong": "David conservó la armadura de Saúl para pelear.",
+        "correct": "Se la quitó porque no estaba acostumbrado a ella."
+      },
+      {
+        "wrong": "Escogió cinco monedas del arroyo.",
+        "correct": "Escogió cinco piedras lisas."
+      },
+      {
+        "wrong": "Derribó al gigante con una flecha.",
+        "correct": "Lo hirió con una piedra lanzada con la honda."
+      }
+    ],
+    "fact": "El joven llevaba también su cayado cuando se acercó al adversario."
+  },
+  {
+    "id": "caso-29",
+    "topic": "Otros relatos",
+    "title": "Espigas y bondad",
+    "reference": "Rut 1:16-22; 2:1-3",
+    "priority": false,
+    "mistakes": [
+      {
+        "wrong": "Rut abandonó a su suegra y regresó sola a su casa.",
+        "correct": "Decidió acompañar a Noemí."
+      },
+      {
+        "wrong": "Las dos llegaron a Jerusalén.",
+        "correct": "Llegaron a Belén."
+      },
+      {
+        "wrong": "Rut recogió espigas en el campo de Saúl.",
+        "correct": "Recogió espigas en un campo de Booz."
+      }
+    ],
+    "fact": "Llegaron a la ciudad al comenzar la cosecha de la cebada."
+  },
+  {
+    "id": "caso-30",
+    "topic": "Otros relatos",
+    "title": "Una reina toma una decisión",
+    "reference": "Ester 4:13-16; 5:1-2",
+    "priority": false,
+    "mistakes": [
+      {
+        "wrong": "Ester pidió a su pueblo que celebrara un banquete antes de su visita.",
+        "correct": "Pidió que ayunaran por ella."
+      },
+      {
+        "wrong": "Afirmó que no corría ningún riesgo al entrar ante el rey.",
+        "correct": "Aceptó el riesgo de morir por presentarse sin haber sido llamada."
+      },
+      {
+        "wrong": "El rey la rechazó sin extender su cetro.",
+        "correct": "Extendió hacia ella el cetro de oro."
+      }
+    ],
+    "fact": "La reina se vistió con sus ropas reales antes de presentarse."
+  },
+  {
+    "id": "caso-31",
+    "topic": "Otros relatos",
+    "title": "Ayuda en el camino",
+    "reference": "Lucas 10:30-35",
+    "priority": false,
+    "mistakes": [
+      {
+        "wrong": "El hombre herido viajaba de Jericó a Jerusalén.",
+        "correct": "Descendía de Jerusalén a Jericó."
+      },
+      {
+        "wrong": "El sacerdote se detuvo a curarle las heridas.",
+        "correct": "Pasó de largo; quien lo atendió fue un samaritano."
+      },
+      {
+        "wrong": "Su ayudador lo dejó solo junto al camino.",
+        "correct": "Lo llevó a un mesón y pagó para que lo cuidaran."
+      }
+    ],
+    "fact": "El viajero había sido atacado y dejado medio muerto."
+  },
+  {
+    "id": "caso-32",
+    "topic": "Otros relatos",
+    "title": "Un regreso inesperado",
+    "reference": "Lucas 15:11-24",
+    "priority": false,
+    "mistakes": [
+      {
+        "wrong": "El hijo menor guardó toda su herencia sin gastarla.",
+        "correct": "La desperdició viviendo perdidamente."
+      },
+      {
+        "wrong": "Cuando tuvo hambre, consiguió trabajo cuidando ovejas.",
+        "correct": "Fue enviado a cuidar cerdos."
+      },
+      {
+        "wrong": "Su padre lo rechazó cuando volvió.",
+        "correct": "Lo recibió con compasión y celebró su regreso."
+      }
+    ],
+    "fact": "Lejos de casa, el muchacho comenzó a pasar necesidad."
+  }
+]

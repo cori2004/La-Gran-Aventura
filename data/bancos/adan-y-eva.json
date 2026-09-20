@@ -1,0 +1,322 @@
+[
+  {
+    "id": "Adán y Eva-1",
+    "topic": "Adán y Eva",
+    "difficulty": "Avanzada",
+    "question": "¿Qué diferencia establece Génesis 2 entre el origen del hombre y el de la mujer?",
+    "options": [
+      "Él fue formado del polvo; ella, de una costilla del hombre",
+      "Ambos fueron formados de una costilla",
+      "Ella fue formada antes que él",
+      "Ambos surgieron de los ríos"
+    ],
+    "answer": 0,
+    "reference": "Génesis 2:7, 21–22",
+    "explanation": "El pasaje indica: Él fue formado del polvo; ella, de una costilla del hombre.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%202%3A7%2C%2021%E2%80%9322&version=RVR1960"
+  },
+  {
+    "id": "Adán y Eva-2",
+    "topic": "Adán y Eva",
+    "difficulty": "Avanzada",
+    "question": "¿Qué responsabilidad recibió el hombre en Edén antes de la desobediencia?",
+    "options": [
+      "Labrar y guardar el huerto",
+      "Construir un altar de piedra",
+      "Gobernar sobre Caín y Abel",
+      "Cultivar fuera del huerto"
+    ],
+    "answer": 0,
+    "reference": "Génesis 2:15",
+    "explanation": "El pasaje indica: Labrar y guardar el huerto.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%202%3A15&version=RVR1960"
+  },
+  {
+    "id": "Adán y Eva-3",
+    "topic": "Adán y Eva",
+    "difficulty": "Avanzada",
+    "question": "¿Qué río de Edén rodeaba la tierra de Havila?",
+    "options": [
+      "Pisón",
+      "Gihón",
+      "Hidekel",
+      "Éufrates"
+    ],
+    "answer": 0,
+    "reference": "Génesis 2:11",
+    "explanation": "El pasaje indica: Pisón.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%202%3A11&version=RVR1960"
+  },
+  {
+    "id": "Adán y Eva-4",
+    "topic": "Adán y Eva",
+    "difficulty": "Avanzada",
+    "question": "¿Qué río rodeaba la tierra de Cus?",
+    "options": [
+      "Gihón",
+      "Pisón",
+      "Éufrates",
+      "Jordán"
+    ],
+    "answer": 0,
+    "reference": "Génesis 2:13",
+    "explanation": "El pasaje indica: Gihón.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%202%3A13&version=RVR1960"
+  },
+  {
+    "id": "Adán y Eva-5",
+    "topic": "Adán y Eva",
+    "difficulty": "Avanzada",
+    "question": "¿Qué árbol quedó protegido para impedir que el hombre viviera para siempre en su condición caída?",
+    "options": [
+      "El árbol de la vida",
+      "El árbol de la ciencia del bien y del mal",
+      "La higuera",
+      "El olivo"
+    ],
+    "answer": 0,
+    "reference": "Génesis 3:22–24",
+    "explanation": "El pasaje indica: El árbol de la vida.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%203%3A22%E2%80%9324&version=RVR1960"
+  },
+  {
+    "id": "Adán y Eva-6",
+    "topic": "Adán y Eva",
+    "difficulty": "Avanzada",
+    "question": "¿Qué motivo dio Adán al explicar por qué se había escondido?",
+    "options": [
+      "Tuvo miedo al verse desnudo",
+      "Había olvidado el nombre de los animales",
+      "No reconoció la voz de Dios",
+      "Buscaba a la serpiente"
+    ],
+    "answer": 0,
+    "reference": "Génesis 3:10",
+    "explanation": "El pasaje indica: Tuvo miedo al verse desnudo.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%203%3A10&version=RVR1960"
+  },
+  {
+    "id": "Adán y Eva-7",
+    "topic": "Adán y Eva",
+    "difficulty": "Avanzada",
+    "question": "¿Sobre qué recayó la maldición relacionada con el trabajo de Adán?",
+    "options": [
+      "Sobre la tierra por causa de él",
+      "Sobre el río Pisón",
+      "Sobre todos los árboles frutales",
+      "Sobre la lluvia"
+    ],
+    "answer": 0,
+    "reference": "Génesis 3:17",
+    "explanation": "El pasaje indica: Sobre la tierra por causa de él.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%203%3A17&version=RVR1960"
+  },
+  {
+    "id": "Adán y Eva-8",
+    "topic": "Adán y Eva",
+    "difficulty": "Avanzada",
+    "question": "¿Qué usaron primero Adán y Eva para cubrirse?",
+    "options": [
+      "Hojas de higuera",
+      "Túnicas de lino",
+      "Pieles de animales",
+      "Hojas de palmera"
+    ],
+    "answer": 0,
+    "reference": "Génesis 3:7",
+    "explanation": "El pasaje indica: Hojas de higuera.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%203%3A7&version=RVR1960"
+  },
+  {
+    "id": "Adán y Eva-9",
+    "topic": "Adán y Eva",
+    "difficulty": "Avanzada",
+    "question": "¿Qué les hizo Dios para vestirlos después?",
+    "options": [
+      "Túnicas de pieles",
+      "Cinturones de hojas",
+      "Vestidos de púrpura",
+      "Mantos de lana tejida"
+    ],
+    "answer": 0,
+    "reference": "Génesis 3:21",
+    "explanation": "El pasaje indica: Túnicas de pieles.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%203%3A21&version=RVR1960"
+  },
+  {
+    "id": "Adán y Eva-10",
+    "topic": "Adán y Eva",
+    "difficulty": "Avanzada",
+    "question": "¿Qué razón explica el nombre que Adán dio a Eva?",
+    "options": [
+      "Sería madre de todos los vivientes",
+      "Había nombrado a los animales",
+      "Había descubierto el río",
+      "Era mayor que Adán"
+    ],
+    "answer": 0,
+    "reference": "Génesis 3:20",
+    "explanation": "El pasaje indica: Sería madre de todos los vivientes.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%203%3A20&version=RVR1960"
+  },
+  {
+    "id": "Adán y Eva-11",
+    "topic": "Adán y Eva",
+    "difficulty": "Avanzada",
+    "question": "¿Qué se colocó al oriente de Edén para custodiar el camino al árbol de la vida?",
+    "options": [
+      "Querubines y una espada encendida",
+      "Un altar y doce piedras",
+      "Serafines y una nube",
+      "Un muro construido por Adán"
+    ],
+    "answer": 0,
+    "reference": "Génesis 3:24",
+    "explanation": "El pasaje indica: Querubines y una espada encendida.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%203%3A24&version=RVR1960"
+  },
+  {
+    "id": "Adán y Eva-12",
+    "topic": "Adán y Eva",
+    "difficulty": "Avanzada",
+    "question": "¿Qué hijo consideró Eva un reemplazo de Abel, muerto por Caín?",
+    "options": [
+      "Set",
+      "Enós",
+      "Enoc",
+      "Lamec"
+    ],
+    "answer": 0,
+    "reference": "Génesis 4:25",
+    "explanation": "El pasaje indica: Set.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%204%3A25&version=RVR1960"
+  },
+  {
+    "id": "Adán y Eva-13",
+    "topic": "Adán y Eva",
+    "difficulty": "Avanzada",
+    "question": "¿Cuál fue la primera pregunta de la serpiente a la mujer?",
+    "options": [
+      "Cuestionó si Dios había prohibido comer de todos los árboles",
+      "Preguntó cómo se llamaba Adán",
+      "Pidió que nombrara a los animales",
+      "Preguntó dónde nacía el Éufrates"
+    ],
+    "answer": 0,
+    "reference": "Génesis 3:1",
+    "explanation": "El pasaje indica: Cuestionó si Dios había prohibido comer de todos los árboles.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%203%3A1&version=RVR1960"
+  },
+  {
+    "id": "Adán y Eva-ampliacion-0",
+    "topic": "Adán y Eva",
+    "difficulty": "Avanzada",
+    "question": "¿Qué puso Dios en el hombre formado del polvo para darle vida?",
+    "options": [
+      "Aliento de vida",
+      "Aceite del altar",
+      "Agua del río",
+      "Fuego del cielo"
+    ],
+    "answer": 0,
+    "reference": "Génesis 2:7",
+    "explanation": "El pasaje relata: Aliento de vida.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%202%3A7&version=RVR1960"
+  },
+  {
+    "id": "Adán y Eva-ampliacion-1",
+    "topic": "Adán y Eva",
+    "difficulty": "Avanzada",
+    "question": "¿Qué hizo Dios con Adán antes de formar a la mujer de su costilla?",
+    "options": [
+      "Lo hizo caer en un sueño profundo",
+      "Lo envió fuera del huerto",
+      "Lo llevó a Egipto",
+      "Le ordenó ayunar"
+    ],
+    "answer": 0,
+    "reference": "Génesis 2:21",
+    "explanation": "El pasaje relata: Lo hizo caer en un sueño profundo.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%202%3A21&version=RVR1960"
+  },
+  {
+    "id": "Adán y Eva-ampliacion-2",
+    "topic": "Adán y Eva",
+    "difficulty": "Avanzada",
+    "question": "¿Qué tarea realizó Adán con los animales que Dios llevó ante él?",
+    "options": [
+      "Les puso nombre",
+      "Construyó un arca para ellos",
+      "Los dividió en doce tribus",
+      "Los llevó a un altar"
+    ],
+    "answer": 0,
+    "reference": "Génesis 2:19–20",
+    "explanation": "El pasaje relata: Les puso nombre.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%202%3A19%E2%80%9320&version=RVR1960"
+  },
+  {
+    "id": "Adán y Eva-ampliacion-3",
+    "topic": "Adán y Eva",
+    "difficulty": "Avanzada",
+    "question": "¿Cuál de estas instrucciones corresponde al matrimonio en Génesis 2:24?",
+    "options": [
+      "Dejar padre y madre y unirse a la esposa",
+      "Permanecer separados toda la vida",
+      "Abandonar la tierra prometida",
+      "Vivir sin ninguna responsabilidad"
+    ],
+    "answer": 0,
+    "reference": "Génesis 2:24",
+    "explanation": "El pasaje relata: Dejar padre y madre y unirse a la esposa.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%202%3A24&version=RVR1960"
+  },
+  {
+    "id": "Adán y Eva-ampliacion-4",
+    "topic": "Adán y Eva",
+    "difficulty": "Avanzada",
+    "question": "¿Qué árbol no debían comer según la prohibición dada al hombre?",
+    "options": [
+      "El de la ciencia del bien y del mal",
+      "Todos los árboles frutales",
+      "La higuera únicamente",
+      "El olivo del huerto"
+    ],
+    "answer": 0,
+    "reference": "Génesis 2:16–17",
+    "explanation": "El pasaje relata: El de la ciencia del bien y del mal.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%202%3A16%E2%80%9317&version=RVR1960"
+  },
+  {
+    "id": "Adán y Eva-ampliacion-5",
+    "topic": "Adán y Eva",
+    "difficulty": "Avanzada",
+    "question": "¿Cómo respondió Adán cuando Dios preguntó si había comido del árbol prohibido?",
+    "options": [
+      "Señaló que la mujer le había dado del árbol",
+      "Dijo que lo había obligado Caín",
+      "Afirmó que no existía ningún árbol",
+      "Dijo que había salido de Edén antes"
+    ],
+    "answer": 0,
+    "reference": "Génesis 3:12",
+    "explanation": "El pasaje relata: Señaló que la mujer le había dado del árbol.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%203%3A12&version=RVR1960"
+  },
+  {
+    "id": "Adán y Eva-ampliacion-6",
+    "topic": "Adán y Eva",
+    "difficulty": "Avanzada",
+    "question": "¿Cuántos años vivió Adán según Génesis 5?",
+    "options": [
+      "930 años",
+      "969 años",
+      "777 años",
+      "120 años"
+    ],
+    "answer": 0,
+    "reference": "Génesis 5:5",
+    "explanation": "El pasaje relata: 930 años.",
+    "source": "https://www.biblegateway.com/passage/?search=G%C3%A9nesis%205%3A5&version=RVR1960"
+  }
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "id": "Jonás-1",
+    "topic": "Jonás",
+    "difficulty": "Avanzada",
+    "question": "¿Cómo se llamaba el padre de Jonás?",
+    "options": [
+      "Amitai",
+      "Amós",
+      "Amoz",
+      "Berequías"
+    ],
+    "answer": 0,
+    "reference": "Jonás 1:1",
+    "explanation": "El pasaje indica: Amitai.",
+    "source": "https://www.biblegateway.com/passage/?search=Jon%C3%A1s%201%3A1&version=RVR1960"
+  },
+  {
+    "id": "Jonás-2",
+    "topic": "Jonás",
+    "difficulty": "Avanzada",
+    "question": "¿A qué destino intentó huir Jonás en lugar de ir a Nínive?",
+    "options": [
+      "Tarsis",
+      "Tarso",
+      "Tiro",
+      "Sidón"
+    ],
+    "answer": 0,
+    "reference": "Jonás 1:3",
+    "explanation": "El pasaje indica: Tarsis.",
+    "source": "https://www.biblegateway.com/passage/?search=Jon%C3%A1s%201%3A3&version=RVR1960"
+  },
+  {
+    "id": "Jonás-3",
+    "topic": "Jonás",
+    "difficulty": "Avanzada",
+    "question": "¿En qué puerto encontró Jonás la nave de su huida?",
+    "options": [
+      "Jope",
+      "Cesarea",
+      "Acre",
+      "Cencrea"
+    ],
+    "answer": 0,
+    "reference": "Jonás 1:3",
+    "explanation": "El pasaje indica: Jope.",
+    "source": "https://www.biblegateway.com/passage/?search=Jon%C3%A1s%201%3A3&version=RVR1960"
+  },
+  {
+    "id": "Jonás-4",
+    "topic": "Jonás",
+    "difficulty": "Avanzada",
+    "question": "¿Qué hacía Jonás dentro de la nave mientras la tormenta amenazaba a los marineros?",
+    "options": [
+      "Dormía profundamente",
+      "Echaba suertes",
+      "Vaciaba el cargamento",
+      "Dirigía a los remeros"
+    ],
+    "answer": 0,
+    "reference": "Jonás 1:5",
+    "explanation": "El pasaje indica: Dormía profundamente.",
+    "source": "https://www.biblegateway.com/passage/?search=Jon%C3%A1s%201%3A5&version=RVR1960"
+  },
+  {
+    "id": "Jonás-5",
+    "topic": "Jonás",
+    "difficulty": "Avanzada",
+    "question": "¿Cómo identificaron los marineros a Jonás como relacionado con la desgracia?",
+    "options": [
+      "Echaron suertes y la suerte cayó sobre él",
+      "Lo reconocieron como rey de Nínive",
+      "Leyeron una carta del capitán",
+      "Lo acusó un pasajero de Tarsis"
+    ],
+    "answer": 0,
+    "reference": "Jonás 1:7",
+    "explanation": "El pasaje indica: Echaron suertes y la suerte cayó sobre él.",
+    "source": "https://www.biblegateway.com/passage/?search=Jon%C3%A1s%201%3A7&version=RVR1960"
+  },
+  {
+    "id": "Jonás-6",
+    "topic": "Jonás",
+    "difficulty": "Avanzada",
+    "question": "¿Qué hicieron los marineros antes de aceptar echar a Jonás al mar?",
+    "options": [
+      "Intentaron remar para volver a tierra",
+      "Lo encerraron durante tres días",
+      "Sacrificaron a los animales del barco",
+      "Regresaron inmediatamente a Jope"
+    ],
+    "answer": 0,
+    "reference": "Jonás 1:13",
+    "explanation": "El pasaje indica: Intentaron remar para volver a tierra.",
+    "source": "https://www.biblegateway.com/passage/?search=Jon%C3%A1s%201%3A13&version=RVR1960"
+  },
+  {
+    "id": "Jonás-7",
+    "topic": "Jonás",
+    "difficulty": "Avanzada",
+    "question": "¿Qué ocurrió con el mar cuando echaron a Jonás?",
+    "options": [
+      "Se aquietó de su furor",
+      "Se convirtió en sangre",
+      "Se abrió en dos",
+      "Destruyó la nave"
+    ],
+    "answer": 0,
+    "reference": "Jonás 1:15",
+    "explanation": "El pasaje indica: Se aquietó de su furor.",
+    "source": "https://www.biblegateway.com/passage/?search=Jon%C3%A1s%201%3A15&version=RVR1960"
+  },
+  {
+    "id": "Jonás-8",
+    "topic": "Jonás",
+    "difficulty": "Avanzada",
+    "question": "¿Desde dónde hizo Jonás la oración registrada en el capítulo 2?",
+    "options": [
+      "Desde el vientre del pez",
+      "Desde la puerta de Nínive",
+      "Desde la casa del capitán",
+      "Desde una cueva en Jope"
+    ],
+    "answer": 0,
+    "reference": "Jonás 2:1",
+    "explanation": "El pasaje indica: Desde el vientre del pez.",
+    "source": "https://www.biblegateway.com/passage/?search=Jon%C3%A1s%202%3A1&version=RVR1960"
+  },
+  {
+    "id": "Jonás-9",
+    "topic": "Jonás",
+    "difficulty": "Avanzada",
+    "question": "¿Qué plazo anunció Jonás antes de la destrucción de Nínive?",
+    "options": [
+      "Cuarenta días",
+      "Siete días",
+      "Treinta días",
+      "Setenta días"
+    ],
+    "answer": 0,
+    "reference": "Jonás 3:4",
+    "explanation": "El pasaje indica: Cuarenta días.",
+    "source": "https://www.biblegateway.com/passage/?search=Jon%C3%A1s%203%3A4&version=RVR1960"
+  },
+  {
+    "id": "Jonás-10",
+    "topic": "Jonás",
+    "difficulty": "Avanzada",
+    "question": "¿Qué hizo el rey de Nínive al recibir el mensaje?",
+    "options": [
+      "Dejó su vestido, se cubrió de cilicio y se sentó sobre ceniza",
+      "Organizó un ejército contra Jonás",
+      "Ordenó encarcelar al profeta",
+      "Abandonó la ciudad en barco"
+    ],
+    "answer": 0,
+    "reference": "Jonás 3:6",
+    "explanation": "El pasaje indica: Dejó su vestido, se cubrió de cilicio y se sentó sobre ceniza.",
+    "source": "https://www.biblegateway.com/passage/?search=Jon%C3%A1s%203%3A6&version=RVR1960"
+  },
+  {
+    "id": "Jonás-11",
+    "topic": "Jonás",
+    "difficulty": "Avanzada",
+    "question": "¿Qué aspecto del carácter de Dios explicó Jonás como motivo de su huida inicial?",
+    "options": [
+      "Sabía que Dios es misericordioso y puede desistir del castigo",
+      "Creía que Dios ignoraba Nínive",
+      "Pensaba que Dios no dominaba el mar",
+      "Creía que Dios solo hablaba en Jerusalén"
+    ],
+    "answer": 0,
+    "reference": "Jonás 4:2",
+    "explanation": "El pasaje indica: Sabía que Dios es misericordioso y puede desistir del castigo.",
+    "source": "https://www.biblegateway.com/passage/?search=Jon%C3%A1s%204%3A2&version=RVR1960"
+  },
+  {
+    "id": "Jonás-12",
+    "topic": "Jonás",
+    "difficulty": "Avanzada",
+    "question": "¿Qué preparó Dios para dañar la planta que daba sombra a Jonás?",
+    "options": [
+      "Un gusano",
+      "Un enjambre de langostas",
+      "Una serpiente",
+      "Un ave de rapiña"
+    ],
+    "answer": 0,
+    "reference": "Jonás 4:7",
+    "explanation": "El pasaje indica: Un gusano.",
+    "source": "https://www.biblegateway.com/passage/?search=Jon%C3%A1s%204%3A7&version=RVR1960"
+  },
+  {
+    "id": "Jonás-13",
+    "topic": "Jonás",
+    "difficulty": "Avanzada",
+    "question": "¿Qué cantidad de personas que no distinguían entre su mano derecha e izquierda se menciona al final?",
+    "options": [
+      "Más de 120.000",
+      "Exactamente 40.000",
+      "Más de 12.000",
+      "Exactamente 70.000"
+    ],
+    "answer": 0,
+    "reference": "Jonás 4:11",
+    "explanation": "El pasaje indica: Más de 120.000.",
+    "source": "https://www.biblegateway.com/passage/?search=Jon%C3%A1s%204%3A11&version=RVR1960"
+  },
+  {
+    "id": "Jonás-ampliacion-0",
+    "topic": "Jonás",
+    "difficulty": "Avanzada",
+    "question": "¿Qué arrojaron primero al mar los marineros durante la tormenta?",
+    "options": [
+      "Los enseres de la nave",
+      "El pez que habían pescado",
+      "Al capitán",
+      "Las anclas únicamente"
+    ],
+    "answer": 0,
+    "reference": "Jonás 1:5",
+    "explanation": "El pasaje relata: Los enseres de la nave.",
+    "source": "https://www.biblegateway.com/passage/?search=Jon%C3%A1s%201%3A5&version=RVR1960"
+  },
+  {
+    "id": "Jonás-ampliacion-1",
+    "topic": "Jonás",
+    "difficulty": "Avanzada",
+    "question": "¿Cómo se identificó Jonás ante los marineros?",
+    "options": [
+      "Como hebreo que temía a Jehová, creador del mar y la tierra",
+      "Como rey de Nínive",
+      "Como sacerdote de Baal",
+      "Como soldado de Tarsis"
+    ],
+    "answer": 0,
+    "reference": "Jonás 1:9",
+    "explanation": "El pasaje relata: Como hebreo que temía a Jehová, creador del mar y la tierra.",
+    "source": "https://www.biblegateway.com/passage/?search=Jon%C3%A1s%201%3A9&version=RVR1960"
+  },
+  {
+    "id": "Jonás-ampliacion-2",
+    "topic": "Jonás",
+    "difficulty": "Avanzada",
+    "question": "¿Cuánto tiempo permaneció Jonás en el pez?",
+    "options": [
+      "Tres días y tres noches",
+      "Siete días y siete noches",
+      "Cuarenta días",
+      "Una noche"
+    ],
+    "answer": 0,
+    "reference": "Jonás 1:17",
+    "explanation": "El pasaje relata: Tres días y tres noches.",
+    "source": "https://www.biblegateway.com/passage/?search=Jon%C3%A1s%201%3A17&version=RVR1960"
+  },
+  {
+    "id": "Jonás-ampliacion-3",
+    "topic": "Jonás",
+    "difficulty": "Avanzada",
+    "question": "¿Qué hizo el pez después de recibir la orden de Dios?",
+    "options": [
+      "Vomitó a Jonás en tierra",
+      "Lo llevó directamente al palacio",
+      "Regresó a Jope con la nave",
+      "Se convirtió en una isla"
+    ],
+    "answer": 0,
+    "reference": "Jonás 2:10",
+    "explanation": "El pasaje relata: Vomitó a Jonás en tierra.",
+    "source": "https://www.biblegateway.com/passage/?search=Jon%C3%A1s%202%3A10&version=RVR1960"
+  },
+  {
+    "id": "Jonás-ampliacion-4",
+    "topic": "Jonás",
+    "difficulty": "Avanzada",
+    "question": "¿Cuántas veces había recibido Jonás el llamado a Nínive al comenzar el capítulo 3?",
+    "options": [
+      "Dos",
+      "Una",
+      "Tres",
+      "Siete"
+    ],
+    "answer": 0,
+    "reference": "Jonás 3:1–2",
+    "explanation": "El pasaje relata: Dos.",
+    "source": "https://www.biblegateway.com/passage/?search=Jon%C3%A1s%203%3A1%E2%80%932&version=RVR1960"
+  },
+  {
+    "id": "Jonás-ampliacion-5",
+    "topic": "Jonás",
+    "difficulty": "Avanzada",
+    "question": "¿Qué orden del decreto de Nínive alcanzó también a los animales?",
+    "options": [
+      "Que no comieran ni bebieran y fueran cubiertos de cilicio",
+      "Que fueran enviados a Tarsis",
+      "Que fueran vendidos al capitán",
+      "Que recibieran coronas"
+    ],
+    "answer": 0,
+    "reference": "Jonás 3:7–8",
+    "explanation": "El pasaje relata: Que no comieran ni bebieran y fueran cubiertos de cilicio.",
+    "source": "https://www.biblegateway.com/passage/?search=Jon%C3%A1s%203%3A7%E2%80%938&version=RVR1960"
+  },
+  {
+    "id": "Jonás-ampliacion-6",
+    "topic": "Jonás",
+    "difficulty": "Avanzada",
+    "question": "¿Hacia qué lado de la ciudad se sentó Jonás para ver qué sucedería?",
+    "options": [
+      "Al oriente",
+      "Al occidente",
+      "Al norte",
+      "Al sur"
+    ],
+    "answer": 0,
+    "reference": "Jonás 4:5",
+    "explanation": "El pasaje relata: Al oriente.",
+    "source": "https://www.biblegateway.com/passage/?search=Jon%C3%A1s%204%3A5&version=RVR1960"
+  }
+]

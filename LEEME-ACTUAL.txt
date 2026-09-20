@@ -1,0 +1,45 @@
+LA GRAN AVENTURA · VERSIÓN LOCAL
+
+Abre index.html. No requiere servidor.
+
+Individual: solo nombre, 20 preguntas, 30 segundos para todos, un único intento por navegador. Cambiar el nombre no habilita otro. Puedes recuperar tu intento o descargar su resultado. NO se puede garantizar un intento por persona sin servidor: borrar datos o cambiar de navegador/dispositivo elude la restricción. La imagen de calificación es local, no una certificación verificada.
+
+Grupal: hasta 5 equipos, 20 preguntas seguidas por equipo, sin repetir preguntas.
+
+Bancos: data/bancos contiene 6 JSON independientes: Adán y Eva, Abraham, Jonás, Daniel, Pablo y Jesús. 130 preguntas en total. Cada cuestionario tiene 4 preguntas de dos temas y 3 de los otros cuatro, con selección y orden aleatorios; cada equipo comparte la misma distribución en una partida.
+
+js/quiz-data.js incorpora los bancos para abrir la página sin servidor; si editas los JSON, actualiza también este archivo.
+
+El pato reutiliza el dibujo y animaciones del inicio. En celulares camina en un espacio reservado bajo el juego, para no tapar respuestas.
+
+ESGRIMA BÍBLICO
+Abre pages/esgrima.html desde la tarjeta de la portada. De 2 a 8 grupos, solo nombres. Referencias de los 66 libros, sin texto ni reloj. 100 puntos al equipo seleccionado por quien dirige. Anular no suma puntos. Último versículo marca el texto actual: al resolverlo o anularlo aparecen los resultados. Se puede deshacer la última acción, guardar y continuar. Quiz y configuración de portada ahora solicitan únicamente nombres de grupos.
+
+AHORCADO BÍBLICO
+Solo grupal, 2–8 equipos y nombres de grupo. Una palabra completa por turno. Banco de 110 personajes y lugares de ambos testamentos, sin repeticiones. Seis errores completan el muñeco y activan su caída; aciertos y errores tienen animaciones. 100 puntos al resolver. El botón Última ronda cierra únicamente cuando todos los equipos completaron una palabra en esa ronda. Al agotarse el banco también se cierra en una ronda completa. Teclado en pantalla y teclado físico; las vocales sin tilde descubren las vocales acentuadas, y Ñ es distinta de N. Pato y guardado local incluidos.
+
+COMPLETA EL TEXTO
+Juego solo grupal en pages/completa.html. Fichas de palabras que se añaden al tocar y se devuelven tocándolas en el texto construido. Comprobar valida el orden completo; palabras idénticas son intercambiables sin penalizar mayúsculas o puntuación. Un versículo por equipo, tiempo de 90/120/180 segundos (120 por defecto), 100 puntos al acertar, posibilidad de corregir antes de que termine el tiempo. Último turno cierra al completar la ronda para todos los equipos. Pausa, recuperación local y pato incluidos.
+Banco de ocho textos de la imagen y cuatro conocidos breves. Los ocho de clase son la selección predeterminada. Sin repeticiones hasta agotar cada ciclo; luego se mezcla nuevamente para que el juego continúe con turnos iguales. Timoteo e Isaías se incluyen en este juego por la lista explícita del usuario; no cambia el banco del Quiz. Ver data/completa-notas.txt para las referencias corregidas.
+
+Completa el Texto: configuración simplificada. Tiempo fijo de 120 segundos; banco completo mezclado, sin repetir referencias en la partida. Al no quedar textos para otra ronda completa, se muestran resultados. Una nueva partida vuelve a mezclar el banco. Esta actualización usa un guardado nuevo para evitar recuperar partidas anteriores con otras reglas.
+
+BANCO AMPLIADO: Completa el Texto contiene 108 referencias únicas: 8 textos originales + 100 de Reina-Valera 1909. Tiempo fijo de 120 segundos, sin selectores de tiempo ni colección. Cada texto muestra su versión. Nueva partida necesaria para usar el banco ampliado.
+
+ACTUALIZACIÓN: 106 textos de la lista del usuario. Reemplaza el banco de 108. Se conservan los 8 obligatorios, sin duplicar los 2 que ya aparecen en la lista nueva. Se respetan las palabras enviadas y se identifican los fragmentos. Iniciar una nueva partida.
+
+PALABRA OCULTA: pages/palabra-oculta.html. 104 palabras de 4 a 7 letras (personajes, lugares y conceptos), seis intentos, sin reloj, de 2 a 8 equipos. Categoría visible y pista contextual opcional sin penalización. 60/50/40/30/20/10 puntos. Se admiten combinaciones de letras sin diccionario de intentos, se ignoran tildes y se distingue Ñ. Última ronda equilibrada, palabras sin repetir en la partida, guardado local, teclado físico y táctil, pato animado.
+
+PALABRA OCULTA: pages/palabra-oculta.html. 104 palabras de 4 a 7 letras (personajes, lugares y conceptos), seis intentos, sin reloj, de 2 a 8 equipos. Categoría visible y pista contextual opcional sin penalización. 60/50/40/30/20/10 puntos. Se admiten combinaciones de letras sin diccionario de intentos, se ignoran tildes y se distingue Ñ. Última ronda equilibrada, palabras sin repetir en la partida, guardado local, teclado físico y táctil, pato animado.
+
+WORDLE AMPLIADO: 134 palabras. Pistas concretas por palabra; geografía, personajes, elementos y conceptos intercalados para variar la partida. El banco nuevo se usa al iniciar una partida nueva.
+
+PALABRA PROHIBIDA: pages/prohibida.html. 72 tarjetas: personajes, parábolas e historias. 2–8 equipos. Un participante de espaldas adivina; sus compañeros ven la pantalla y explican sin el título ni las cuatro palabras prohibidas. 90 segundos y hasta 6 tarjetas por turno. +10 por acierto, 0 por pase o infracción. El maestro marca manualmente. Pausa oculta la tarjeta; guardado local. Última ronda completa los turnos de todos. Tarjetas reservadas por turnos: las no utilizadas se descartan y no se repiten durante esa partida. Al agotarse las rondas completas, resultados.
+
+ADIVINA EN EQUIPO sustituye a Palabra Prohibida, también en el index. 530 tarjetas únicas. Pistas libres, solo respuesta y derivados prohibidos. 90 segundos sin tope fijo por turno; dos botones: Acertó (+10) y Pasar (0). Bancos exclusivos del mismo tamaño por equipo: sin repetición entre equipos ni al pasar o agotar tiempo. Si se termina un banco, se cierra la ronda respetando el turno de los demás. Nueva partida necesaria tras actualizar.
+
+¿QUIÉN LO DIJO?: pages/quien-dijo.html. 48 frases adaptadas, con referencia y contexto; no son citas literales de una traducción. Cinco frases seguidas por equipo, 20 segundos por frase, 10 puntos por acierto. Dos figuras sin rostro hechas con divs: cabello largo en las figuras femeninas. Retroalimentación de 3,5 s y avance automático dentro del turno. Última ronda equilibrada y sin repetir frases durante la partida.
+
+¿QUIÉN LO DIJO? ampliado a 100 frases adaptadas, con referencias, contexto y dos opciones. Se conservan las 48 originales y se añaden 52; nueva partida para cargar todo el banco.
+
+DETECTIVES BÍBLICOS: 32 casos con tres errores deliberados y sus correcciones. 24 casos principales: tres de cada tema (Adán y Eva, Pablo, Timoteo, Jonás, Jesús, Abraham, Daniel e Isaías), más 8 relatos conocidos. Primero se mezclan los 24 prioritarios, después los otros ocho. Casos de Timoteo e Isaías incluyen enseñanzas además de relatos. 90 segundos, consulta bíblica permitida; maestro revela y marca correcciones, 10 puntos cada una. Una investigación por turno, última ronda equitativa.

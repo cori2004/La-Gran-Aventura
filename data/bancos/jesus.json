@@ -1,0 +1,482 @@
+[
+  {
+    "id": "jesus-accesible-0",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Dónde nació Jesús?",
+    "options": [
+      "Belén",
+      "Nazaret",
+      "Roma",
+      "Jericó"
+    ],
+    "answer": 0,
+    "reference": "Mateo 2:1",
+    "explanation": "El relato enseña: Belén.",
+    "source": "https://www.biblegateway.com/passage/?search=Mateo%202%3A1&version=RVR1960"
+  },
+  {
+    "id": "jesus-accesible-1",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Cómo se llamaba la madre de Jesús?",
+    "options": [
+      "María",
+      "Marta",
+      "Elisabet",
+      "Ana"
+    ],
+    "answer": 0,
+    "reference": "Lucas 1:30–31",
+    "explanation": "El relato enseña: María.",
+    "source": "https://www.biblegateway.com/passage/?search=Lucas%201%3A30%E2%80%9331&version=RVR1960"
+  },
+  {
+    "id": "jesus-accesible-2",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Quién bautizó a Jesús?",
+    "options": [
+      "Juan el Bautista",
+      "Pedro",
+      "Moisés",
+      "Pablo"
+    ],
+    "answer": 0,
+    "reference": "Mateo 3:13–16",
+    "explanation": "El relato enseña: Juan el Bautista.",
+    "source": "https://www.biblegateway.com/passage/?search=Mateo%203%3A13%E2%80%9316&version=RVR1960"
+  },
+  {
+    "id": "jesus-accesible-3",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿En qué río fue bautizado Jesús?",
+    "options": [
+      "Jordán",
+      "Nilo",
+      "Éufrates",
+      "Tigris"
+    ],
+    "answer": 0,
+    "reference": "Mateo 3:13",
+    "explanation": "El relato enseña: Jordán.",
+    "source": "https://www.biblegateway.com/passage/?search=Mateo%203%3A13&version=RVR1960"
+  },
+  {
+    "id": "jesus-accesible-4",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Qué transformó Jesús en vino en Caná?",
+    "options": [
+      "Agua",
+      "Aceite",
+      "Leche",
+      "Miel"
+    ],
+    "answer": 0,
+    "reference": "Juan 2:7–9",
+    "explanation": "El relato enseña: Agua.",
+    "source": "https://www.biblegateway.com/passage/?search=Juan%202%3A7%E2%80%939&version=RVR1960"
+  },
+  {
+    "id": "jesus-accesible-5",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Cuántos apóstoles escogió Jesús?",
+    "options": [
+      "Doce",
+      "Siete",
+      "Diez",
+      "Veinte"
+    ],
+    "answer": 0,
+    "reference": "Lucas 6:13",
+    "explanation": "El relato enseña: Doce.",
+    "source": "https://www.biblegateway.com/passage/?search=Lucas%206%3A13&version=RVR1960"
+  },
+  {
+    "id": "jesus-accesible-6",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Qué oficio tenían Pedro y Andrés cuando Jesús los llamó?",
+    "options": [
+      "Pescadores",
+      "Médicos",
+      "Carpinteros",
+      "Soldados"
+    ],
+    "answer": 0,
+    "reference": "Mateo 4:18–19",
+    "explanation": "El relato enseña: Pescadores.",
+    "source": "https://www.biblegateway.com/passage/?search=Mateo%204%3A18%E2%80%9319&version=RVR1960"
+  },
+  {
+    "id": "jesus-accesible-7",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Qué hizo Jesús durante una gran tempestad en el mar?",
+    "options": [
+      "Calmó el viento y el mar",
+      "Abandonó a sus discípulos",
+      "Construyó otro barco",
+      "Ordenó regresar nadando"
+    ],
+    "answer": 0,
+    "reference": "Marcos 4:39",
+    "explanation": "El relato enseña: Calmó el viento y el mar.",
+    "source": "https://www.biblegateway.com/passage/?search=Marcos%204%3A39&version=RVR1960"
+  },
+  {
+    "id": "jesus-accesible-8",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Con cuántos panes y peces alimentó Jesús a cinco mil hombres?",
+    "options": [
+      "Cinco panes y dos peces",
+      "Dos panes y cinco peces",
+      "Siete panes y un pez",
+      "Doce panes y tres peces"
+    ],
+    "answer": 0,
+    "reference": "Mateo 14:17–21",
+    "explanation": "El relato enseña: Cinco panes y dos peces.",
+    "source": "https://www.biblegateway.com/passage/?search=Mateo%2014%3A17%E2%80%9321&version=RVR1960"
+  },
+  {
+    "id": "jesus-accesible-9",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Quién se subió a un árbol para poder ver a Jesús?",
+    "options": [
+      "Zaqueo",
+      "Pilato",
+      "Herodes",
+      "Tomás"
+    ],
+    "answer": 0,
+    "reference": "Lucas 19:2–4",
+    "explanation": "El relato enseña: Zaqueo.",
+    "source": "https://www.biblegateway.com/passage/?search=Lucas%2019%3A2%E2%80%934&version=RVR1960"
+  },
+  {
+    "id": "jesus-accesible-10",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Cómo se llamaba el amigo de Jesús que salió del sepulcro al ser llamado?",
+    "options": [
+      "Lázaro",
+      "Bartimeo",
+      "José",
+      "Nicodemo"
+    ],
+    "answer": 0,
+    "reference": "Juan 11:43–44",
+    "explanation": "El relato enseña: Lázaro.",
+    "source": "https://www.biblegateway.com/passage/?search=Juan%2011%3A43%E2%80%9344&version=RVR1960"
+  },
+  {
+    "id": "jesus-accesible-11",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Qué enseñó Jesús acerca de los enemigos?",
+    "options": [
+      "Que debemos amarlos y orar por quienes nos persiguen",
+      "Que debemos vengarnos siempre",
+      "Que no debemos perdonarles nunca",
+      "Que debemos imitarlos"
+    ],
+    "answer": 0,
+    "reference": "Mateo 5:44",
+    "explanation": "El relato enseña: Que debemos amarlos y orar por quienes nos persiguen.",
+    "source": "https://www.biblegateway.com/passage/?search=Mateo%205%3A44&version=RVR1960"
+  },
+  {
+    "id": "jesus-accesible-12",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Qué oración enseñó Jesús a sus discípulos?",
+    "options": [
+      "El Padre nuestro",
+      "La oración de Jonás en el pez",
+      "El cántico de Moisés",
+      "La oración de Jabes"
+    ],
+    "answer": 0,
+    "reference": "Mateo 6:9–13",
+    "explanation": "El relato enseña: El Padre nuestro.",
+    "source": "https://www.biblegateway.com/passage/?search=Mateo%206%3A9%E2%80%9313&version=RVR1960"
+  },
+  {
+    "id": "jesus-accesible-13",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Quién negó conocer a Jesús tres veces?",
+    "options": [
+      "Pedro",
+      "Andrés",
+      "Felipe",
+      "Natanael"
+    ],
+    "answer": 0,
+    "reference": "Mateo 26:69–75",
+    "explanation": "El relato enseña: Pedro.",
+    "source": "https://www.biblegateway.com/passage/?search=Mateo%2026%3A69%E2%80%9375&version=RVR1960"
+  },
+  {
+    "id": "jesus-accesible-14",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Qué discípulo entregó a Jesús?",
+    "options": [
+      "Judas Iscariote",
+      "Juan",
+      "Jacobo",
+      "Tomás"
+    ],
+    "answer": 0,
+    "reference": "Mateo 26:14–16",
+    "explanation": "El relato enseña: Judas Iscariote.",
+    "source": "https://www.biblegateway.com/passage/?search=Mateo%2026%3A14%E2%80%9316&version=RVR1960"
+  },
+  {
+    "id": "jesus-accesible-15",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Qué hizo Jesús con los pies de sus discípulos?",
+    "options": [
+      "Los lavó para dar ejemplo de servicio",
+      "Les puso sandalias de oro",
+      "Los cubrió con ceniza",
+      "Les prohibió caminar"
+    ],
+    "answer": 0,
+    "reference": "Juan 13:5, 14–15",
+    "explanation": "El relato enseña: Los lavó para dar ejemplo de servicio.",
+    "source": "https://www.biblegateway.com/passage/?search=Juan%2013%3A5%2C%2014%E2%80%9315&version=RVR1960"
+  },
+  {
+    "id": "jesus-accesible-16",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Qué llevaba el buen samaritano de la parábola para cuidar las heridas?",
+    "options": [
+      "Aceite y vino",
+      "Arena y sal",
+      "Hojas secas y carbón",
+      "Harina y agua de mar"
+    ],
+    "answer": 0,
+    "reference": "Lucas 10:34",
+    "explanation": "El relato enseña: Aceite y vino.",
+    "source": "https://www.biblegateway.com/passage/?search=Lucas%2010%3A34&version=RVR1960"
+  },
+  {
+    "id": "jesus-accesible-17",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Qué hizo el padre de la parábola cuando regresó su hijo perdido?",
+    "options": [
+      "Corrió a recibirlo y lo abrazó",
+      "Le cerró la puerta",
+      "Lo entregó a los soldados",
+      "Se fue de la casa"
+    ],
+    "answer": 0,
+    "reference": "Lucas 15:20",
+    "explanation": "El relato enseña: Corrió a recibirlo y lo abrazó.",
+    "source": "https://www.biblegateway.com/passage/?search=Lucas%2015%3A20&version=RVR1960"
+  },
+  {
+    "id": "jesus-accesible-18",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Dónde oró Jesús antes de ser arrestado?",
+    "options": [
+      "Getsemaní",
+      "El palacio de Herodes",
+      "La torre de Babel",
+      "El monte Carmelo"
+    ],
+    "answer": 0,
+    "reference": "Mateo 26:36",
+    "explanation": "El relato enseña: Getsemaní.",
+    "source": "https://www.biblegateway.com/passage/?search=Mateo%2026%3A36&version=RVR1960"
+  },
+  {
+    "id": "jesus-accesible-19",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Qué pidió Jesús respecto a los niños que se acercaban?",
+    "options": [
+      "Que los dejaran venir a él",
+      "Que solo vinieran los adultos",
+      "Que esperaran hasta ser mayores",
+      "Que regresaran al día siguiente"
+    ],
+    "answer": 0,
+    "reference": "Marcos 10:14",
+    "explanation": "El relato enseña: Que los dejaran venir a él.",
+    "source": "https://www.biblegateway.com/passage/?search=Marcos%2010%3A14&version=RVR1960"
+  },
+  {
+    "id": "jesus-accesible-20",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Qué animal montó Jesús al entrar en Jerusalén, según Juan?",
+    "options": [
+      "Un asnillo",
+      "Un caballo de guerra",
+      "Un camello",
+      "Un buey"
+    ],
+    "answer": 0,
+    "reference": "Juan 12:14–15",
+    "explanation": "El relato enseña: Un asnillo.",
+    "source": "https://www.biblegateway.com/passage/?search=Juan%2012%3A14%E2%80%9315&version=RVR1960"
+  },
+  {
+    "id": "jesus-accesible-21",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Quién pidió el cuerpo de Jesús para sepultarlo?",
+    "options": [
+      "José de Arimatea",
+      "Zaqueo",
+      "Herodes",
+      "Bartimeo"
+    ],
+    "answer": 0,
+    "reference": "Mateo 27:57–60",
+    "explanation": "El relato enseña: José de Arimatea.",
+    "source": "https://www.biblegateway.com/passage/?search=Mateo%2027%3A57%E2%80%9360&version=RVR1960"
+  },
+  {
+    "id": "jesus-accesible-22",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Qué encontraron las mujeres al llegar al sepulcro en Lucas 24?",
+    "options": [
+      "La piedra removida y el cuerpo de Jesús ausente",
+      "A Jesús todavía envuelto en el sepulcro",
+      "Un barco junto a la entrada",
+      "El sepulcro lleno de agua"
+    ],
+    "answer": 0,
+    "reference": "Lucas 24:2–3",
+    "explanation": "El relato enseña: La piedra removida y el cuerpo de Jesús ausente.",
+    "source": "https://www.biblegateway.com/passage/?search=Lucas%2024%3A2%E2%80%933&version=RVR1960"
+  },
+  {
+    "id": "jesus-accesible-23",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Qué discípulo quiso ver las marcas de los clavos para creer que Jesús había resucitado?",
+    "options": [
+      "Tomás",
+      "Felipe",
+      "Andrés",
+      "Mateo"
+    ],
+    "answer": 0,
+    "reference": "Juan 20:24–25",
+    "explanation": "El relato enseña: Tomás.",
+    "source": "https://www.biblegateway.com/passage/?search=Juan%2020%3A24%E2%80%9325&version=RVR1960"
+  },
+  {
+    "id": "jesus-accesible-24",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Qué mandó Jesús en Mateo 28:19?",
+    "options": [
+      "Hacer discípulos de todas las naciones",
+      "Guardar silencio para siempre",
+      "Construir un palacio en Roma",
+      "Formar un ejército"
+    ],
+    "answer": 0,
+    "reference": "Mateo 28:19",
+    "explanation": "El relato enseña: Hacer discípulos de todas las naciones.",
+    "source": "https://www.biblegateway.com/passage/?search=Mateo%2028%3A19&version=RVR1960"
+  },
+  {
+    "id": "jesus-accesible-25",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Con qué comparó Jesús a quien oye sus palabras y las hace?",
+    "options": [
+      "Con alguien que construye su casa sobre la roca",
+      "Con alguien que construye sobre arena",
+      "Con un barco sin timón",
+      "Con una lámpara apagada"
+    ],
+    "answer": 0,
+    "reference": "Mateo 7:24",
+    "explanation": "El relato enseña: Con alguien que construye su casa sobre la roca.",
+    "source": "https://www.biblegateway.com/passage/?search=Mateo%207%3A24&version=RVR1960"
+  },
+  {
+    "id": "Jesús-ampliacion-0",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Qué discípulo caminó sobre el agua hacia Jesús?",
+    "options": [
+      "Pedro",
+      "Mateo",
+      "Felipe",
+      "Judas"
+    ],
+    "answer": 0,
+    "reference": "Mateo 14:28–29",
+    "explanation": "El pasaje relata: Pedro.",
+    "source": "https://www.biblegateway.com/passage/?search=Mateo%2014%3A28%E2%80%9329&version=RVR1960"
+  },
+  {
+    "id": "Jesús-ampliacion-1",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Qué título usó Jesús para describirse en Juan 10:11?",
+    "options": [
+      "El buen pastor",
+      "El rey de Babilonia",
+      "El sacerdote de Baal",
+      "El capitán de Roma"
+    ],
+    "answer": 0,
+    "reference": "Juan 10:11",
+    "explanation": "El pasaje relata: El buen pastor.",
+    "source": "https://www.biblegateway.com/passage/?search=Juan%2010%3A11&version=RVR1960"
+  },
+  {
+    "id": "Jesús-ampliacion-2",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Qué cobrador de impuestos fue llamado por Jesús mientras estaba en el banco de los tributos?",
+    "options": [
+      "Mateo",
+      "Andrés",
+      "Juan",
+      "Tomás"
+    ],
+    "answer": 0,
+    "reference": "Mateo 9:9",
+    "explanation": "El pasaje relata: Mateo.",
+    "source": "https://www.biblegateway.com/passage/?search=Mateo%209%3A9&version=RVR1960"
+  },
+  {
+    "id": "Jesús-ampliacion-3",
+    "topic": "Jesús",
+    "difficulty": "Intermedia",
+    "question": "¿Qué hizo Jesús cuando llevaron a un paralítico ante él y luego le ordenó levantarse?",
+    "options": [
+      "El hombre se levantó y llevó su lecho",
+      "El hombre huyó sin sanar",
+      "Los discípulos lo llevaron a Roma",
+      "Jesús se negó a hablarle"
+    ],
+    "answer": 0,
+    "reference": "Marcos 2:11–12",
+    "explanation": "El pasaje relata: El hombre se levantó y llevó su lecho.",
+    "source": "https://www.biblegateway.com/passage/?search=Marcos%202%3A11%E2%80%9312&version=RVR1960"
+  }
+]

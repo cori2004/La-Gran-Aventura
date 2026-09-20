@@ -1,0 +1,940 @@
+[
+  {
+    "word": "Adán",
+    "reference": "Génesis 2:19",
+    "type": "Personaje",
+    "hint": "El primer hombre; puso nombre a los animales.",
+    "family": "Personajes"
+  },
+  {
+    "word": "Abel",
+    "reference": "Génesis 4:2",
+    "type": "Personaje",
+    "hint": "Pastor de ovejas e hijo de los primeros seres humanos.",
+    "family": "Personajes"
+  },
+  {
+    "word": "Caín",
+    "reference": "Génesis 4:1",
+    "type": "Personaje",
+    "hint": "Labrador que mató a su hermano.",
+    "family": "Personajes"
+  },
+  {
+    "word": "Abraham",
+    "reference": "Génesis 17:5",
+    "type": "Personaje",
+    "hint": "Salió de su tierra confiando en una promesa de Dios.",
+    "family": "Personajes"
+  },
+  {
+    "word": "Sara",
+    "reference": "Génesis 17:15",
+    "type": "Personaje",
+    "hint": "Madre de Isaac; tuvo un hijo en su vejez.",
+    "family": "Personajes"
+  },
+  {
+    "word": "Isaac",
+    "reference": "Génesis 21:3",
+    "type": "Personaje",
+    "hint": "Hijo prometido a Abraham y padre de Jacob.",
+    "family": "Personajes"
+  },
+  {
+    "word": "Rebeca",
+    "reference": "Génesis 24:67",
+    "type": "Personaje",
+    "hint": "Dio agua a un viajero y a sus camellos; después se casó con Isaac.",
+    "family": "Personajes"
+  },
+  {
+    "word": "Jacob",
+    "reference": "Génesis 25:26",
+    "type": "Personaje",
+    "hint": "Tuvo un sueño con una escalera que llegaba al cielo.",
+    "family": "Personajes"
+  },
+  {
+    "word": "Esaú",
+    "reference": "Génesis 25:25",
+    "type": "Personaje",
+    "hint": "Hermano de Jacob que vendió su primogenitura.",
+    "family": "Personajes"
+  },
+  {
+    "word": "José",
+    "reference": "Génesis 37:3",
+    "type": "Personaje",
+    "hint": "Fue vendido por sus hermanos y llegó a gobernar en Egipto.",
+    "family": "Personajes"
+  },
+  {
+    "word": "Moisés",
+    "reference": "Éxodo 2:10",
+    "type": "Personaje",
+    "hint": "Fue rescatado del agua cuando era bebé y guio la salida de Egipto.",
+    "family": "Personajes"
+  },
+  {
+    "word": "Aarón",
+    "reference": "Éxodo 4:14",
+    "type": "Personaje",
+    "hint": "Hermano de Moisés que lo acompañó ante Faraón.",
+    "family": "Personajes"
+  },
+  {
+    "word": "María",
+    "reference": "Lucas 1:27",
+    "type": "Personaje",
+    "hint": "La madre de Jesús.",
+    "family": "Personajes"
+  },
+  {
+    "word": "Josué",
+    "reference": "Josué 1:1",
+    "type": "Personaje",
+    "hint": "Dirigió al pueblo de Israel después de Moisés.",
+    "family": "Personajes"
+  },
+  {
+    "word": "Caleb",
+    "reference": "Números 14:24",
+    "type": "Personaje",
+    "hint": "Uno de los dos espías que animaron al pueblo a confiar en Dios.",
+    "family": "Personajes"
+  },
+  {
+    "word": "Rahab",
+    "reference": "Josué 2:1",
+    "type": "Personaje",
+    "hint": "Protegió a los espías enviados a Jericó.",
+    "family": "Personajes"
+  },
+  {
+    "word": "Débora",
+    "reference": "Jueces 4:4",
+    "type": "Personaje",
+    "hint": "Profetisa y jueza que acompañó a Barac.",
+    "family": "Personajes"
+  },
+  {
+    "word": "Gedeón",
+    "reference": "Jueces 6:11",
+    "type": "Personaje",
+    "hint": "Combatió a los madianitas con trescientos hombres.",
+    "family": "Personajes"
+  },
+  {
+    "word": "Sansón",
+    "reference": "Jueces 13:24",
+    "type": "Personaje",
+    "hint": "Su historia incluye gran fuerza, un león y el secreto de su cabello.",
+    "family": "Personajes"
+  },
+  {
+    "word": "Noemí",
+    "reference": "Rut 1:2",
+    "type": "Personaje",
+    "hint": "Suegra que regresó a Belén acompañada por una joven moabita.",
+    "family": "Personajes"
+  },
+  {
+    "word": "Booz",
+    "reference": "Rut 2:1",
+    "type": "Personaje",
+    "hint": "Dueño del campo donde Rut recogía espigas.",
+    "family": "Personajes"
+  },
+  {
+    "word": "Samuel",
+    "reference": "1 Samuel 1:20",
+    "type": "Personaje",
+    "hint": "Escuchó el llamado de Dios cuando era niño.",
+    "family": "Personajes"
+  },
+  {
+    "word": "Saúl",
+    "reference": "1 Samuel 9:2",
+    "type": "Personaje",
+    "hint": "Fue el primer rey de Israel.",
+    "family": "Personajes"
+  },
+  {
+    "word": "David",
+    "reference": "1 Samuel 16:13",
+    "type": "Personaje",
+    "hint": "Antes de ser rey, venció a un gigante con una honda.",
+    "family": "Personajes"
+  },
+  {
+    "word": "Jonatán",
+    "reference": "1 Samuel 18:1",
+    "type": "Personaje",
+    "hint": "Hijo de Saúl y amigo cercano de David.",
+    "family": "Personajes"
+  },
+  {
+    "word": "Salomón",
+    "reference": "2 Samuel 12:24",
+    "type": "Personaje",
+    "hint": "Hijo de David, conocido por su sabiduría.",
+    "family": "Personajes"
+  },
+  {
+    "word": "Elías",
+    "reference": "1 Reyes 17:1",
+    "type": "Personaje",
+    "hint": "Profeta que desafió a los profetas de Baal en el monte Carmelo.",
+    "family": "Personajes"
+  },
+  {
+    "word": "Eliseo",
+    "reference": "1 Reyes 19:19",
+    "type": "Personaje",
+    "hint": "Siguió al profeta Elías y recibió su manto.",
+    "family": "Personajes"
+  },
+  {
+    "word": "Ester",
+    "reference": "Ester 2:7",
+    "type": "Personaje",
+    "hint": "Reina que arriesgó su vida para interceder por su pueblo.",
+    "family": "Personajes"
+  },
+  {
+    "word": "Daniel",
+    "reference": "Daniel 1:6",
+    "type": "Personaje",
+    "hint": "Continuó orando y fue arrojado al foso de los leones.",
+    "family": "Personajes"
+  },
+  {
+    "word": "Jonás",
+    "reference": "Jonás 1:1",
+    "type": "Personaje",
+    "hint": "Intentó huir de una misión y fue tragado por un gran pez.",
+    "family": "Personajes"
+  },
+  {
+    "word": "Esdras",
+    "reference": "Esdras 7:6",
+    "type": "Personaje",
+    "hint": "Sacerdote y escriba que enseñó la ley al pueblo.",
+    "family": "Personajes"
+  },
+  {
+    "word": "Jesús",
+    "reference": "Mateo 1:21",
+    "type": "Personaje",
+    "hint": "Enseñó por parábolas, sanó enfermos y resucitó.",
+    "family": "Personajes"
+  },
+  {
+    "word": "Pedro",
+    "reference": "Mateo 4:18",
+    "type": "Personaje",
+    "hint": "Pescador que caminó sobre el agua y negó a su Maestro tres veces.",
+    "family": "Personajes"
+  },
+  {
+    "word": "Andrés",
+    "reference": "Mateo 4:18",
+    "type": "Personaje",
+    "hint": "Hermano de Pedro; también era pescador.",
+    "family": "Personajes"
+  },
+  {
+    "word": "Mateo",
+    "reference": "Mateo 9:9",
+    "type": "Personaje",
+    "hint": "Cobrador de impuestos llamado a seguir a Jesús.",
+    "family": "Personajes"
+  },
+  {
+    "word": "Tomás",
+    "reference": "Juan 20:24",
+    "type": "Personaje",
+    "hint": "Quiso ver las heridas para creer que Jesús había resucitado.",
+    "family": "Personajes"
+  },
+  {
+    "word": "Felipe",
+    "reference": "Juan 1:43",
+    "type": "Personaje",
+    "hint": "Discípulo que invitó a Natanael a conocer a Jesús.",
+    "family": "Personajes"
+  },
+  {
+    "word": "Lázaro",
+    "reference": "Juan 11:1",
+    "type": "Personaje",
+    "hint": "Hermano de Marta y María que salió del sepulcro al oír a Jesús.",
+    "family": "Personajes"
+  },
+  {
+    "word": "Marta",
+    "reference": "Lucas 10:38",
+    "type": "Personaje",
+    "hint": "Hermana de María y Lázaro, recordada por su servicio en casa.",
+    "family": "Personajes"
+  },
+  {
+    "word": "Zaqueo",
+    "reference": "Lucas 19:2",
+    "type": "Personaje",
+    "hint": "Se subió a un árbol para ver a Jesús.",
+    "family": "Personajes"
+  },
+  {
+    "word": "Pablo",
+    "reference": "Hechos 13:9",
+    "type": "Personaje",
+    "hint": "Antes perseguía a la iglesia; después anunció el evangelio en muchos viajes.",
+    "family": "Personajes"
+  },
+  {
+    "word": "Bernabé",
+    "reference": "Hechos 4:36",
+    "type": "Personaje",
+    "hint": "Presentó a Saulo ante los apóstoles cuando otros desconfiaban de él.",
+    "family": "Personajes"
+  },
+  {
+    "word": "Silas",
+    "reference": "Hechos 15:40",
+    "type": "Personaje",
+    "hint": "Cantó himnos junto a Pablo en una cárcel de Filipos.",
+    "family": "Personajes"
+  },
+  {
+    "word": "Lidia",
+    "reference": "Hechos 16:14",
+    "type": "Personaje",
+    "hint": "Vendedora de púrpura que escuchó a Pablo junto a un río.",
+    "family": "Personajes"
+  },
+  {
+    "word": "Aquila",
+    "reference": "Hechos 18:2",
+    "type": "Personaje",
+    "hint": "Esposo de Priscila; compartía con Pablo el oficio de hacer tiendas.",
+    "family": "Personajes"
+  },
+  {
+    "word": "Esteban",
+    "reference": "Hechos 6:5",
+    "type": "Personaje",
+    "hint": "Dio testimonio de Jesús y murió apedreado.",
+    "family": "Personajes"
+  },
+  {
+    "word": "Dorcas",
+    "reference": "Hechos 9:36",
+    "type": "Personaje",
+    "hint": "Discípula conocida por sus buenas obras y por las prendas que hacía.",
+    "family": "Personajes"
+  },
+  {
+    "word": "Edén",
+    "reference": "Génesis 2:8",
+    "type": "Lugar",
+    "hint": "Huerto donde fueron puestos el primer hombre y la primera mujer.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Babel",
+    "reference": "Génesis 11:9",
+    "type": "Ciudad",
+    "hint": "Lugar de una torre y de la confusión de las lenguas.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Harán",
+    "reference": "Génesis 12:4",
+    "type": "Ciudad",
+    "hint": "Lugar desde el que Abram partió a los setenta y cinco años.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Canaán",
+    "reference": "Génesis 12:5",
+    "type": "Región",
+    "hint": "Tierra a la que llegó Abram siguiendo el llamado de Dios.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Egipto",
+    "reference": "Génesis 12:10",
+    "type": "Región",
+    "hint": "País del que salió Israel después de años de esclavitud.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Sodoma",
+    "reference": "Génesis 13:10",
+    "type": "Ciudad",
+    "hint": "Ciudad donde vivía Lot antes de su destrucción.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Gomorra",
+    "reference": "Génesis 19:24",
+    "type": "Ciudad",
+    "hint": "Ciudad mencionada junto a Sodoma en el relato de su destrucción.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Betel",
+    "reference": "Génesis 28:19",
+    "type": "Ciudad",
+    "hint": "Lugar al que Jacob dio nombre después de soñar con una escalera.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Hebrón",
+    "reference": "Génesis 23:2",
+    "type": "Ciudad",
+    "hint": "Ciudad relacionada con Abraham y la sepultura de Sara.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Moriah",
+    "reference": "Génesis 22:2",
+    "type": "Lugar",
+    "hint": "Tierra a la que Abraham fue para ofrecer a Isaac.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Madián",
+    "reference": "Éxodo 2:15",
+    "type": "Región",
+    "hint": "Tierra a la que huyó Moisés después de salir de Egipto.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Gosén",
+    "reference": "Génesis 47:6",
+    "type": "Región",
+    "hint": "Región de Egipto donde se estableció la familia de Jacob.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Sinaí",
+    "reference": "Éxodo 19:1",
+    "type": "Monte",
+    "hint": "Monte asociado con la entrega de la ley a Moisés.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Horeb",
+    "reference": "Éxodo 3:1",
+    "type": "Monte",
+    "hint": "Monte de Dios al que llegó Moisés antes de ver la zarza ardiente.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Jericó",
+    "reference": "Josué 6:1",
+    "type": "Ciudad",
+    "hint": "Ciudad cuyos muros cayeron después de que Israel marchara alrededor.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Jordán",
+    "reference": "Josué 3:17",
+    "type": "Río",
+    "hint": "Río que cruzó Israel y donde fue bautizado Jesús.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Moab",
+    "reference": "Rut 1:1",
+    "type": "Región",
+    "hint": "Tierra de origen de Rut.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Belén",
+    "reference": "Mateo 2:1",
+    "type": "Ciudad",
+    "hint": "Ciudad donde nació Jesús.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Samaria",
+    "reference": "Juan 4:4",
+    "type": "Región",
+    "hint": "Región que Jesús atravesó antes de conversar con una mujer junto al pozo.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Nínive",
+    "reference": "Jonás 1:2",
+    "type": "Ciudad",
+    "hint": "Ciudad a la que Jonás debía anunciar un mensaje.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Tarsis",
+    "reference": "Jonás 1:3",
+    "type": "Ciudad",
+    "hint": "Destino hacia el que Jonás intentó huir en una nave.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Jope",
+    "reference": "Jonás 1:3",
+    "type": "Ciudad",
+    "hint": "Puerto donde Jonás encontró una nave para huir.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Nazaret",
+    "reference": "Lucas 1:26",
+    "type": "Ciudad",
+    "hint": "Ciudad donde creció Jesús.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Galilea",
+    "reference": "Mateo 4:12",
+    "type": "Región",
+    "hint": "Región donde Jesús llamó a varios pescadores para seguirlo.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Judea",
+    "reference": "Mateo 2:1",
+    "type": "Región",
+    "hint": "Región donde se encuentran Belén y Jerusalén.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Caná",
+    "reference": "Juan 2:1",
+    "type": "Ciudad",
+    "hint": "Lugar de una boda donde Jesús convirtió agua en vino.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Betania",
+    "reference": "Juan 11:1",
+    "type": "Ciudad",
+    "hint": "Aldea asociada con Marta, María y Lázaro.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Gólgota",
+    "reference": "Mateo 27:33",
+    "type": "Lugar",
+    "hint": "Lugar de la crucifixión, llamado lugar de la Calavera.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Emaús",
+    "reference": "Lucas 24:13",
+    "type": "Ciudad",
+    "hint": "Aldea hacia la que caminaban dos discípulos cuando Jesús se acercó a ellos.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Damasco",
+    "reference": "Hechos 9:3",
+    "type": "Ciudad",
+    "hint": "Ciudad a la que se dirigía Saulo cuando lo rodeó una luz del cielo.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Tarso",
+    "reference": "Hechos 22:3",
+    "type": "Ciudad",
+    "hint": "Ciudad donde nació Pablo.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Filipos",
+    "reference": "Hechos 16:12",
+    "type": "Ciudad",
+    "hint": "Ciudad en la que Pablo y Silas cantaron dentro de una cárcel.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Éfeso",
+    "reference": "Hechos 19:1",
+    "type": "Ciudad",
+    "hint": "Ciudad donde la predicación de Pablo provocó oposición de fabricantes de ídolos.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Corinto",
+    "reference": "Hechos 18:1",
+    "type": "Ciudad",
+    "hint": "Ciudad donde Pablo encontró a Aquila y Priscila.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Atenas",
+    "reference": "Hechos 17:16",
+    "type": "Ciudad",
+    "hint": "Ciudad donde Pablo observó un altar al dios no conocido.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Roma",
+    "reference": "Hechos 28:16",
+    "type": "Ciudad",
+    "hint": "Ciudad a la que Pablo llegó prisionero al final del libro de Hechos.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Malta",
+    "reference": "Hechos 28:1",
+    "type": "Isla",
+    "hint": "Isla donde llegaron los sobrevivientes del naufragio de Pablo.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Patmos",
+    "reference": "Apocalipsis 1:9",
+    "type": "Isla",
+    "hint": "Isla donde Juan recibió las visiones del Apocalipsis.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Chipre",
+    "reference": "Hechos 13:4",
+    "type": "Isla",
+    "hint": "Isla que visitaron Pablo y Bernabé en un viaje misionero.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Creta",
+    "reference": "Hechos 27:7",
+    "type": "Isla",
+    "hint": "Isla cercana a parte de la ruta del viaje de Pablo hacia Italia.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Berea",
+    "reference": "Hechos 17:10",
+    "type": "Ciudad",
+    "hint": "Ciudad cuyos oyentes examinaban cada día las Escrituras.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Cesarea",
+    "reference": "Hechos 10:1",
+    "type": "Ciudad",
+    "hint": "Ciudad donde vivía el centurión Cornelio.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Amor",
+    "reference": "1 Juan 4:8",
+    "hint": "Se demuestra con acciones hacia el prójimo, incluso hacia los enemigos.",
+    "type": "Concepto",
+    "family": "Conceptos"
+  },
+  {
+    "word": "Gracia",
+    "reference": "Efesios 2:8",
+    "hint": "Se recibe de Dios como un regalo, no como un salario por las obras.",
+    "type": "Concepto",
+    "family": "Conceptos"
+  },
+  {
+    "word": "Gozo",
+    "reference": "Gálatas 5:22",
+    "hint": "Pablo lo incluye entre los frutos del Espíritu; puede acompañar incluso las pruebas.",
+    "type": "Concepto",
+    "family": "Conceptos"
+  },
+  {
+    "word": "Verdad",
+    "reference": "Juan 8:32",
+    "hint": "Jesús enseñó que conocerla está relacionado con ser libres.",
+    "type": "Concepto",
+    "family": "Conceptos"
+  },
+  {
+    "word": "Perdón",
+    "reference": "Efesios 4:32",
+    "hint": "Permite dejar atrás una ofensa sin devolver mal por mal.",
+    "type": "Concepto",
+    "family": "Conceptos"
+  },
+  {
+    "word": "Bondad",
+    "reference": "Gálatas 5:22",
+    "hint": "Fruto del Espíritu que se expresa buscando el bien de otros.",
+    "type": "Concepto",
+    "family": "Conceptos"
+  },
+  {
+    "word": "Reino",
+    "reference": "Mateo 6:33",
+    "hint": "Jesús enseñó a buscarlo primero, junto con la justicia de Dios.",
+    "type": "Concepto",
+    "family": "Conceptos"
+  },
+  {
+    "word": "Vida",
+    "reference": "Juan 14:6",
+    "hint": "Jesús se presenta como su fuente y la relaciona con la eternidad.",
+    "type": "Concepto",
+    "family": "Conceptos"
+  },
+  {
+    "word": "Templo",
+    "reference": "Juan 2:19",
+    "hint": "Jesús habló de levantarlo en tres días, refiriéndose a su cuerpo.",
+    "type": "Construcción",
+    "family": "Elementos"
+  },
+  {
+    "word": "Altar",
+    "reference": "Génesis 8:20",
+    "hint": "Noé construyó uno después de salir de la embarcación.",
+    "type": "Construcción",
+    "family": "Elementos"
+  },
+  {
+    "word": "Maná",
+    "reference": "Éxodo 16:31",
+    "hint": "Alimento que se recogía durante el viaje del pueblo por el desierto.",
+    "type": "Alimento",
+    "family": "Elementos"
+  },
+  {
+    "word": "Pacto",
+    "reference": "Génesis 9:9",
+    "hint": "Tras el diluvio, Dios estableció uno con Noé y sus descendientes.",
+    "type": "Concepto",
+    "family": "Conceptos"
+  },
+  {
+    "word": "Olivo",
+    "reference": "Romanos 11:17",
+    "hint": "Pablo emplea sus ramas y los injertos como una comparación.",
+    "type": "Naturaleza",
+    "family": "Elementos"
+  },
+  {
+    "word": "Semilla",
+    "reference": "Lucas 8:11",
+    "hint": "En una parábola, su crecimiento depende del terreno donde cae.",
+    "type": "Naturaleza",
+    "family": "Elementos"
+  },
+  {
+    "word": "Siquem",
+    "type": "Ciudad",
+    "reference": "Génesis 12:6",
+    "hint": "Abram pasó por este lugar al llegar a la tierra de Canaán.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Sicar",
+    "type": "Ciudad",
+    "reference": "Juan 4:5",
+    "hint": "Cerca de esta población, Jesús conversó junto a un pozo.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Naín",
+    "type": "Ciudad",
+    "reference": "Lucas 7:11-12",
+    "hint": "Jesús encontró a una viuda en un cortejo fúnebre al acercarse a su puerta.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Tiro",
+    "type": "Ciudad",
+    "reference": "Hechos 21:3",
+    "hint": "Pablo pasó por este puerto, donde la nave debía descargar.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Sidón",
+    "type": "Ciudad",
+    "reference": "Hechos 27:3",
+    "hint": "Durante su viaje como prisionero, Pablo pudo visitar aquí a sus amigos.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Gaza",
+    "type": "Ciudad",
+    "reference": "Hechos 8:26",
+    "hint": "Un camino que descendía desde Jerusalén hacia este lugar fue parte del viaje de Felipe.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Silo",
+    "type": "Lugar",
+    "reference": "1 Samuel 1:3",
+    "hint": "La familia de Samuel acudía allí cada año para adorar.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Nilo",
+    "type": "Río",
+    "reference": "Éxodo 2:3",
+    "hint": "Su nombre geográfico recuerda el río de Egipto donde escondieron una cesta.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Tabor",
+    "type": "Monte",
+    "reference": "Jueces 4:6",
+    "hint": "Débora indicó a Barac que reuniera sus hombres en esta elevación.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Carmelo",
+    "type": "Monte",
+    "reference": "1 Reyes 18:19",
+    "hint": "En este lugar se reunió el pueblo para presenciar un desafío entre profetas.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Ararat",
+    "type": "Monte",
+    "reference": "Génesis 8:4",
+    "hint": "Sus montes aparecen cuando las aguas del diluvio comienzan a bajar.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Sión",
+    "type": "Monte",
+    "reference": "2 Samuel 5:7",
+    "hint": "Una fortaleza con este nombre llegó a conocerse como la ciudad de David.",
+    "family": "Geografía"
+  },
+  {
+    "word": "Arca",
+    "type": "Objeto",
+    "reference": "Génesis 6:14",
+    "hint": "Una construcción de madera debía proteger vidas frente a una gran inundación.",
+    "family": "Elementos"
+  },
+  {
+    "word": "Vara",
+    "type": "Objeto",
+    "reference": "Éxodo 4:2-3",
+    "hint": "Moisés tenía una en la mano cuando Dios le pidió arrojarla al suelo.",
+    "family": "Elementos"
+  },
+  {
+    "word": "Honda",
+    "type": "Objeto",
+    "reference": "1 Samuel 17:40",
+    "hint": "Un joven pastor la llevó junto con cinco piedras a un enfrentamiento.",
+    "family": "Elementos"
+  },
+  {
+    "word": "Arpa",
+    "type": "Instrumento",
+    "reference": "1 Samuel 16:23",
+    "hint": "David la tocaba para aliviar al rey.",
+    "family": "Elementos"
+  },
+  {
+    "word": "Túnica",
+    "type": "Vestimenta",
+    "reference": "Génesis 37:3",
+    "hint": "Una prenda especial provocó celos entre hermanos.",
+    "family": "Elementos"
+  },
+  {
+    "word": "Manto",
+    "type": "Vestimenta",
+    "reference": "2 Reyes 2:13",
+    "hint": "Eliseo recogió esta prenda después de la partida de su maestro.",
+    "family": "Elementos"
+  },
+  {
+    "word": "Copa",
+    "type": "Objeto",
+    "reference": "Génesis 44:2",
+    "hint": "Un objeto de plata fue escondido en el costal del hermano menor.",
+    "family": "Elementos"
+  },
+  {
+    "word": "Redes",
+    "type": "Objeto",
+    "reference": "Mateo 4:20",
+    "hint": "Unos pescadores las dejaron cuando recibieron un llamado a seguir a Jesús.",
+    "family": "Elementos"
+  },
+  {
+    "word": "Lámpara",
+    "type": "Objeto",
+    "reference": "Salmos 119:105",
+    "hint": "El salmista la utiliza para comparar la palabra de Dios con una guía para los pies.",
+    "family": "Elementos"
+  },
+  {
+    "word": "Aceite",
+    "type": "Elemento",
+    "reference": "1 Samuel 16:13",
+    "hint": "Samuel lo utilizó al ungir al joven que sería rey.",
+    "family": "Elementos"
+  },
+  {
+    "word": "Piedra",
+    "type": "Elemento",
+    "reference": "1 Samuel 17:49",
+    "hint": "Un objeto pequeño, lanzado con precisión, decidió un combate desigual.",
+    "family": "Elementos"
+  },
+  {
+    "word": "Espada",
+    "type": "Objeto",
+    "reference": "Efesios 6:17",
+    "hint": "En la armadura espiritual representa la palabra de Dios.",
+    "family": "Elementos"
+  },
+  {
+    "word": "Escudo",
+    "type": "Objeto",
+    "reference": "Efesios 6:16",
+    "hint": "Pablo lo relaciona con la fe y con detener ataques encendidos.",
+    "family": "Elementos"
+  },
+  {
+    "word": "Corona",
+    "type": "Objeto",
+    "reference": "2 Timoteo 4:8",
+    "hint": "Pablo la menciona como recompensa de justicia al final de su carrera.",
+    "family": "Elementos"
+  },
+  {
+    "word": "Cinto",
+    "type": "Vestimenta",
+    "reference": "Efesios 6:14",
+    "hint": "Esta pieza de la armadura ayuda a recordar la verdad.",
+    "family": "Elementos"
+  },
+  {
+    "word": "Gallos",
+    "type": "Animal",
+    "reference": "Mateo 26:34",
+    "hint": "El canto de uno de estos animales marcó un doloroso recuerdo para Pedro.",
+    "family": "Elementos"
+  },
+  {
+    "word": "Oveja",
+    "type": "Animal",
+    "reference": "Lucas 15:4",
+    "hint": "En una parábola, buscar una justificó dejar temporalmente a otras noventa y nueve.",
+    "family": "Elementos"
+  },
+  {
+    "word": "Leones",
+    "type": "Animal",
+    "reference": "Daniel 6:22",
+    "hint": "Un mensajero de Dios impidió que estos animales hicieran daño en un foso.",
+    "family": "Elementos"
+  }
+]

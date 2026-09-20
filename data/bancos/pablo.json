@@ -1,0 +1,322 @@
+[
+  {
+    "id": "Pablo-1",
+    "topic": "Pablo",
+    "difficulty": "Avanzada",
+    "question": "¿A los pies de qué maestro fue instruido Pablo?",
+    "options": [
+      "Gamaliel",
+      "Nicodemo",
+      "Anás",
+      "Apolos"
+    ],
+    "answer": 0,
+    "reference": "Hechos 22:3",
+    "explanation": "El pasaje indica: Gamaliel.",
+    "source": "https://www.biblegateway.com/passage/?search=Hechos%2022%3A3&version=RVR1960"
+  },
+  {
+    "id": "Pablo-2",
+    "topic": "Pablo",
+    "difficulty": "Avanzada",
+    "question": "¿Qué oficio compartía Pablo con Aquila y Priscila?",
+    "options": [
+      "Hacer tiendas",
+      "Fabricar ídolos de plata",
+      "Trabajar como médico",
+      "Vender púrpura"
+    ],
+    "answer": 0,
+    "reference": "Hechos 18:3",
+    "explanation": "El pasaje indica: Hacer tiendas.",
+    "source": "https://www.biblegateway.com/passage/?search=Hechos%2018%3A3&version=RVR1960"
+  },
+  {
+    "id": "Pablo-3",
+    "topic": "Pablo",
+    "difficulty": "Avanzada",
+    "question": "¿En qué ciudad encontró Pablo un altar dedicado al dios no conocido?",
+    "options": [
+      "Atenas",
+      "Corinto",
+      "Éfeso",
+      "Filipos"
+    ],
+    "answer": 0,
+    "reference": "Hechos 17:22–23",
+    "explanation": "El pasaje indica: Atenas.",
+    "source": "https://www.biblegateway.com/passage/?search=Hechos%2017%3A22%E2%80%9323&version=RVR1960"
+  },
+  {
+    "id": "Pablo-4",
+    "topic": "Pablo",
+    "difficulty": "Avanzada",
+    "question": "¿Quién era el procónsul que escuchó a Pablo en Chipre?",
+    "options": [
+      "Sergio Paulo",
+      "Galión",
+      "Félix",
+      "Festo"
+    ],
+    "answer": 0,
+    "reference": "Hechos 13:7",
+    "explanation": "El pasaje indica: Sergio Paulo.",
+    "source": "https://www.biblegateway.com/passage/?search=Hechos%2013%3A7&version=RVR1960"
+  },
+  {
+    "id": "Pablo-5",
+    "topic": "Pablo",
+    "difficulty": "Avanzada",
+    "question": "¿Qué nombre tenía el mago que se oponía a Pablo ante el procónsul?",
+    "options": [
+      "Elimas",
+      "Simón Pedro",
+      "Demetrio",
+      "Tíquico"
+    ],
+    "answer": 0,
+    "reference": "Hechos 13:8",
+    "explanation": "El pasaje indica: Elimas.",
+    "source": "https://www.biblegateway.com/passage/?search=Hechos%2013%3A8&version=RVR1960"
+  },
+  {
+    "id": "Pablo-6",
+    "topic": "Pablo",
+    "difficulty": "Avanzada",
+    "question": "¿Qué oficio tenía Demetrio, quien provocó oposición contra Pablo en Éfeso?",
+    "options": [
+      "Platero",
+      "Carcelero",
+      "Fabricante de tiendas",
+      "Escriba"
+    ],
+    "answer": 0,
+    "reference": "Hechos 19:24",
+    "explanation": "El pasaje indica: Platero.",
+    "source": "https://www.biblegateway.com/passage/?search=Hechos%2019%3A24&version=RVR1960"
+  },
+  {
+    "id": "Pablo-7",
+    "topic": "Pablo",
+    "difficulty": "Avanzada",
+    "question": "¿En qué ciudad fueron encarcelados juntos Pablo y Silas tras liberar a una muchacha?",
+    "options": [
+      "Filipos",
+      "Berea",
+      "Atenas",
+      "Tarso"
+    ],
+    "answer": 0,
+    "reference": "Hechos 16:12–24",
+    "explanation": "El pasaje indica: Filipos.",
+    "source": "https://www.biblegateway.com/passage/?search=Hechos%2016%3A12%E2%80%9324&version=RVR1960"
+  },
+  {
+    "id": "Pablo-8",
+    "topic": "Pablo",
+    "difficulty": "Avanzada",
+    "question": "¿Qué hacían Pablo y Silas a medianoche en la cárcel?",
+    "options": [
+      "Oraban y cantaban himnos",
+      "Discutían con el procónsul",
+      "Dormían junto a la puerta abierta",
+      "Preparaban una fuga con armas"
+    ],
+    "answer": 0,
+    "reference": "Hechos 16:25",
+    "explanation": "El pasaje indica: Oraban y cantaban himnos.",
+    "source": "https://www.biblegateway.com/passage/?search=Hechos%2016%3A25&version=RVR1960"
+  },
+  {
+    "id": "Pablo-9",
+    "topic": "Pablo",
+    "difficulty": "Avanzada",
+    "question": "¿Qué derecho invocó Pablo para evitar ser azotado sin condena?",
+    "options": [
+      "Su ciudadanía romana",
+      "Su cargo de sumo sacerdote",
+      "Su parentesco con César",
+      "Su oficio de fabricante de tiendas"
+    ],
+    "answer": 0,
+    "reference": "Hechos 22:25",
+    "explanation": "El pasaje indica: Su ciudadanía romana.",
+    "source": "https://www.biblegateway.com/passage/?search=Hechos%2022%3A25&version=RVR1960"
+  },
+  {
+    "id": "Pablo-10",
+    "topic": "Pablo",
+    "difficulty": "Avanzada",
+    "question": "¿En qué isla supieron que estaban después del naufragio?",
+    "options": [
+      "Malta",
+      "Creta",
+      "Patmos",
+      "Chipre"
+    ],
+    "answer": 0,
+    "reference": "Hechos 28:1",
+    "explanation": "El pasaje indica: Malta.",
+    "source": "https://www.biblegateway.com/passage/?search=Hechos%2028%3A1&version=RVR1960"
+  },
+  {
+    "id": "Pablo-11",
+    "topic": "Pablo",
+    "difficulty": "Avanzada",
+    "question": "¿Qué joven cayó de una ventana durante una larga enseñanza de Pablo?",
+    "options": [
+      "Eutico",
+      "Trófimo",
+      "Onésimo",
+      "Tito"
+    ],
+    "answer": 0,
+    "reference": "Hechos 20:9",
+    "explanation": "El pasaje indica: Eutico.",
+    "source": "https://www.biblegateway.com/passage/?search=Hechos%2020%3A9&version=RVR1960"
+  },
+  {
+    "id": "Pablo-12",
+    "topic": "Pablo",
+    "difficulty": "Avanzada",
+    "question": "¿Dónde dejó Pablo a Trófimo enfermo, según la carta de Pablo?",
+    "options": [
+      "Mileto",
+      "Troas",
+      "Corinto",
+      "Tesalónica"
+    ],
+    "answer": 0,
+    "reference": "2 Timoteo 4:20",
+    "explanation": "El pasaje indica: Mileto.",
+    "source": "https://www.biblegateway.com/passage/?search=2%20Timoteo%204%3A20&version=RVR1960"
+  },
+  {
+    "id": "Pablo-13",
+    "topic": "Pablo",
+    "difficulty": "Avanzada",
+    "question": "¿Qué respuesta recibió Pablo al pedir que le fuera quitado el aguijón?",
+    "options": [
+      "Que la gracia era suficiente y el poder se perfecciona en la debilidad",
+      "Que nunca volvería a sufrir",
+      "Que debía abandonar su ministerio",
+      "Que se hiciera rico para ser sanado"
+    ],
+    "answer": 0,
+    "reference": "2 Corintios 12:8–9",
+    "explanation": "El pasaje indica: Que la gracia era suficiente y el poder se perfecciona en la debilidad.",
+    "source": "https://www.biblegateway.com/passage/?search=2%20Corintios%2012%3A8%E2%80%939&version=RVR1960"
+  },
+  {
+    "id": "Pablo-ampliacion-0",
+    "topic": "Pablo",
+    "difficulty": "Avanzada",
+    "question": "¿En qué ciudad nació Pablo?",
+    "options": [
+      "Tarso",
+      "Jerusalén",
+      "Antioquía",
+      "Roma"
+    ],
+    "answer": 0,
+    "reference": "Hechos 22:3",
+    "explanation": "El pasaje relata: Tarso.",
+    "source": "https://www.biblegateway.com/passage/?search=Hechos%2022%3A3&version=RVR1960"
+  },
+  {
+    "id": "Pablo-ampliacion-1",
+    "topic": "Pablo",
+    "difficulty": "Avanzada",
+    "question": "¿A qué ciudad viajaba Saulo cuando fue rodeado por una luz del cielo?",
+    "options": [
+      "Damasco",
+      "Atenas",
+      "Éfeso",
+      "Belén"
+    ],
+    "answer": 0,
+    "reference": "Hechos 9:3",
+    "explanation": "El pasaje relata: Damasco.",
+    "source": "https://www.biblegateway.com/passage/?search=Hechos%209%3A3&version=RVR1960"
+  },
+  {
+    "id": "Pablo-ampliacion-2",
+    "topic": "Pablo",
+    "difficulty": "Avanzada",
+    "question": "¿Quién fue enviado a buscar a Saulo en la calle llamada Derecha?",
+    "options": [
+      "Ananías",
+      "Bernabé",
+      "Silas",
+      "Aquila"
+    ],
+    "answer": 0,
+    "reference": "Hechos 9:10–11",
+    "explanation": "El pasaje relata: Ananías.",
+    "source": "https://www.biblegateway.com/passage/?search=Hechos%209%3A10%E2%80%9311&version=RVR1960"
+  },
+  {
+    "id": "Pablo-ampliacion-3",
+    "topic": "Pablo",
+    "difficulty": "Avanzada",
+    "question": "¿Cómo escapó Saulo de Damasco cuando vigilaban las puertas?",
+    "options": [
+      "Lo bajaron por el muro en una canasta",
+      "Salió disfrazado de soldado",
+      "Cruzó el mar a nado",
+      "Atravesó un túnel del templo"
+    ],
+    "answer": 0,
+    "reference": "Hechos 9:25",
+    "explanation": "El pasaje relata: Lo bajaron por el muro en una canasta.",
+    "source": "https://www.biblegateway.com/passage/?search=Hechos%209%3A25&version=RVR1960"
+  },
+  {
+    "id": "Pablo-ampliacion-4",
+    "topic": "Pablo",
+    "difficulty": "Avanzada",
+    "question": "¿Quién presentó a Saulo ante los apóstoles cuando otros desconfiaban de él?",
+    "options": [
+      "Bernabé",
+      "Herodes",
+      "Pilato",
+      "Demetrio"
+    ],
+    "answer": 0,
+    "reference": "Hechos 9:27",
+    "explanation": "El pasaje relata: Bernabé.",
+    "source": "https://www.biblegateway.com/passage/?search=Hechos%209%3A27&version=RVR1960"
+  },
+  {
+    "id": "Pablo-ampliacion-5",
+    "topic": "Pablo",
+    "difficulty": "Avanzada",
+    "question": "¿Qué comerciante escuchó a Pablo junto al río y fue bautizada con su familia?",
+    "options": [
+      "Lidia",
+      "Priscila",
+      "Marta",
+      "Dorcas"
+    ],
+    "answer": 0,
+    "reference": "Hechos 16:14–15",
+    "explanation": "El pasaje relata: Lidia.",
+    "source": "https://www.biblegateway.com/passage/?search=Hechos%2016%3A14%E2%80%9315&version=RVR1960"
+  },
+  {
+    "id": "Pablo-ampliacion-6",
+    "topic": "Pablo",
+    "difficulty": "Avanzada",
+    "question": "¿Qué nombre tenía el centurión que custodiaba a Pablo en el viaje a Italia?",
+    "options": [
+      "Julio",
+      "Cornelio",
+      "Claudio",
+      "Sergio"
+    ],
+    "answer": 0,
+    "reference": "Hechos 27:1",
+    "explanation": "El pasaje relata: Julio.",
+    "source": "https://www.biblegateway.com/passage/?search=Hechos%2027%3A1&version=RVR1960"
+  }
+]

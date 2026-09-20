@@ -1,0 +1,32 @@
+[
+  {
+    "tema": "Adán y Eva",
+    "archivo": "adan-y-eva.json",
+    "preguntas": 20
+  },
+  {
+    "tema": "Abraham",
+    "archivo": "abraham.json",
+    "preguntas": 20
+  },
+  {
+    "tema": "Jonás",
+    "archivo": "jonas.json",
+    "preguntas": 20
+  },
+  {
+    "tema": "Daniel",
+    "archivo": "daniel.json",
+    "preguntas": 20
+  },
+  {
+    "tema": "Pablo",
+    "archivo": "pablo.json",
+    "preguntas": 20
+  },
+  {
+    "tema": "Jesús",
+    "archivo": "jesus.json",
+    "preguntas": 30
+  }
+]

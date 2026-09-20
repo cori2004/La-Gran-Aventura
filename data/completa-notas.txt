@@ -1,0 +1,7 @@
+BANCO ACTUAL: 106 TEXTOS PROPORCIONADOS POR EL USUARIO
+100 pasajes de la lista nueva, más los 6 textos obligatorios anteriores que no figuran en ella. Juan 14:6 e Isaías 6:8 se incluyen una sola vez. Los 8 obligatorios se conservan.
+Se retiraron los 100 textos añadidos de RV1909.
+La redacción de la lista nueva se conserva exactamente; no se atribuye en bloque a una edición bíblica porque incluye adaptaciones y fragmentos.
+Los 10 pasajes con puntos suspensivos se muestran como fragmentos. No se completan las omisiones. Los rangos de versículos se juegan como un único texto.
+Tiempo fijo: 120 segundos. Sin repeticiones durante una partida. Turnos iguales para todos los equipos.
+El banco está en completa-textos.json y su copia para abrir sin servidor en js/completa-data.js. Nueva clave de guardado para evitar recuperar partidas con la redacción anterior.
